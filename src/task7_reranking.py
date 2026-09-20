@@ -34,7 +34,36 @@ def rerank_rrf(
     #     result["retrieval_method"] = "hybrid"
     #     results.append(result)
     # return results
-    raise NotImplementedError("Implement rerank_rrf")
+    if top_k <= 0:
+        return []
+    if k < 0:
+        raise ValueError("k must be non-negative")
+
+    scores: dict[str, float] = {}
+    items: dict[str, dict] = {}
+
+    for ranked_list in ranked_lists:
+        # Một tài liệu chỉ được đóng góp một lần trong mỗi bảng xếp hạng.
+        seen_ids: set[str] = set()
+        for rank, item in enumerate(ranked_list, start=1):
+            item_id = item["id"]
+            if item_id in seen_ids:
+                continue
+            seen_ids.add(item_id)
+
+            scores[item_id] = scores.get(item_id, 0.0) + 1.0 / (k + rank)
+            # Giữ dữ liệu của lần xuất hiện đầu tiên và chỉ thay score/method ở output.
+            items.setdefault(item_id, item)
+
+    # Python sort ổn định, nên các tài liệu đồng điểm giữ thứ tự xuất hiện đầu tiên.
+    ranked_ids = sorted(scores, key=scores.get, reverse=True)
+    results: list[dict] = []
+    for item_id in ranked_ids[:top_k]:
+        result = items[item_id].copy()
+        result["score"] = scores[item_id]
+        result["retrieval_method"] = "hybrid"
+        results.append(result)
+    return results
 
 
 if __name__ == "__main__":
