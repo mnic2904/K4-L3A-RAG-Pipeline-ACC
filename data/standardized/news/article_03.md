@@ -1,648 +1,560 @@
-# Tiêu chí chấm điểm IELTS Speaking - Hiểu để tối ưu điểm
+# Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù
 
-**Source:** https://ielts.idp.com/vietnam/results/scores/speaking
+**Source:** https://mia.vn/cam-nang-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-657
 
-**Crawled:** 2026-09-20T14:40:38.077460
+**Crawled:** 2026-09-20T15:24:09.874574
 
 ---
 
-The official IELTS by IDP app is here! [Download it](/lp/ielts-by-idp-app)  today.
+![](https://mia.vn/media/uploads/ctkm/51/ctkm_6aa8a9a543942_1789438373.jpg)
 
-![Close](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/icons/close_btn.svg)
+KẾT THÚC SAU
 
-[![IDP IELTS Logo](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/idp_ielts_logo.svg)](/vietnam "IDP IELTS")
+00
 
-* [Bài thi IELTS](/vietnam/about/which-test-do-i-take "Bài thi IELTS")
+ngày
 
-  Tìm hiểu bài thi [IELTS Academic](/vietnam/about/which-test-do-i-take/academic "IELTS Academic")  [IELTS General Training](/vietnam/about/which-test-do-i-take/general-training "IELTS General Training")  [IELTS for UKVI Academic](/vietnam/about/which-test-do-i-take/academic-ukvi "IELTS for UKVI Academic")  [IELTS for UKVI General Training](/vietnam/about/which-test-do-i-take/general-training-ukvi "IELTS for UKVI General Training")  [IELTS Life Skills](/vietnam/about/which-test-do-i-take/life-skills-ukvi "IELTS Life Skills")  [Thi IELTS trên máy tính](/vietnam/about/news-and-articles/article-computer-delivered-ielts "Thi IELTS trên máy tính")
+**:**
 
-  IELTS One skill Retake[![globe]() IELTS One Skill Retake là gì?](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake là gì?") [![news-item]() Hướng dẫn đăng ký thi IELTS One Skill Retake](/vietnam/about/news-and-articles/article-how-to-book-ielts-one-skill-retake "Hướng dẫn đăng ký thi IELTS One Skill Retake") [![why-choose-ielts]() Các tổ chức chấp nhận IELTS One Skill Retake](/vietnam/about/who-accepts-ielts-one-skill-retake "Các tổ chức chấp nhận IELTS One Skill Retake") [![why-choose-ielts]() Cách sử dụng kết quả IELTS One Skill Retake](/vietnam/about/news-and-articles/article-ielts-one-skill-retake-osr-results-trf "Cách sử dụng kết quả IELTS One Skill Retake ") [![FAQ]() Câu hỏi thường gặp IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake-faqs "Câu hỏi thường gặp IELTS One Skill Retake")
+00
 
-  [Đăng ký thi IELTS](https://ielts.idp.com/vietnam/book-my-test "Đăng ký thi IELTS") [![ielts-event]() Lịch thi IELTS](/vietnam/test-day "Lịch thi IELTS") [![presentation-chart-bar]() Lệ phí thi IELTS](/vietnam/ielts-fees "Lệ phí thi IELTS") [![ielts online]() Chương trình ưu đãi IELTS](/vietnam/ielts-promotion "Chương trình ưu đãi IELTS") [![IELTS by IDP app - Light bulb icon]() Địa điểm thi IELTS](/vietnam/test-dates "Địa điểm thi IELTS")
-* [Chuẩn bị](https://ielts.idp.com/ielts-prep-hub "Chuẩn bị")
+giờ
 
-  Truy cập IELTS Prepare Hub
+**:**
 
-  ![Prepare Hub]()
+00
 
-  #### Truy cập IELTS Prepare Hub
+phút
 
-  Hãy truy cập IELTS Prepare Hub để khám phá tài liệu hữu ích và đăng ký sự kiện luyện thi trực tiếp hoặc trực tuyến.
+**:**
 
-  [Truy cập kho tài liệu IELTS](http://ielts.idp.com/ielts-prep-hub "Truy cập kho tài liệu IELTS")
+00
 
-  Chuẩn bị cho kỳ thi[IELTS Academic](/vietnam/prepare/academic-preparation "IELTS Academic") [IELTS General Training](/vietnam/prepare/ielts-general-training-preparation "IELTS General Training") [IELTS for UKVI](/vietnam/prepare/ielts-for-ukvi "IELTS for UKVI")
+giây
 
-  Thi thử[Thông tin về thi thử IELTS](/vietnam/about/news-and-articles/article-ielts-computer-trial-at-home "Thông tin về thi thử IELTS") [Đăng ký thi thử IELTS](/vietnam/about/news-and-articles/article-ielts-fam-test-dates "Đăng ký thi thử IELTS")
+[![MIA.vn](media/images/mia-logo-2026/trang-ngang.svg)](/ "MIA.vn")
 
-  Chuẩn bị cho ngày thi[Cần mang theo những gì khi đi thi IELTS](/vietnam/about/test-day/what-to-bring "Cần mang theo những gì khi đi thi IELTS") [Vào ngày thi](/vietnam/about/test-day "Vào ngày thi") [Sự kiện](/vietnam/events "Sự kiện") [Đổi lịch thi hoặc hủy thi IELTS](/vietnam/about/test-day/reschedule-cancel-ielts "Đổi lịch thi hoặc hủy thi IELTS")
+* [VALI](vali "Vali")
+* [BALO](balo "Balo")
+* [TÚI XÁCH](tui-xach "Túi xách")
+* [PHỤ KIỆN](phu-kien "Phụ kiện")
 
-  Chuẩn bị cho các kỹ năng[![ielts-listening-icon]()Bài thi Nghe IELTS](/vietnam/prepare/listening "Bài thi Nghe IELTS") [![ielts-reading-icon]()Bài thi Đọc IELTS](/vietnam/prepare/reading "Bài thi Đọc IELTS") [![ielts-writing-icon]()Bài thi Viết IELTS](/vietnam/prepare/writing "Bài thi Viết IELTS") [![ielts-speaking-icon]()Bài thi Nói IELTS](/vietnam/prepare/speaking "Bài thi Nói IELTS")
+[![Giỏ hàng](images/icon-cart.svg) 0](gio-hang)
 
-  [![diagnostic-icon]()
+[← MIA Go Sapa](cam-nang-du-lich/sapa)
 
-  ##### English self-assessment tool
+* [Trang chủ](/)
+* /
+* [MIA Go](cam-nang-du-lich)
+* /
+* [Sapa](cam-nang-du-lich/sapa)
 
-  Check your reading and listening skills and get recommendations for your IELTS preparation.
+# Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù
 
-  Try now](https://ielts.idp.com/diagnostic-tool-preparation "diagnostic-tool")
+06.06.2025 | 38,952 lượt xem
 
-  Kho tài liệu[![expert-tips]() Kho tài liệu IELTS](https://ielts.idp.com/prepare/all-test-types/all-skills/article "Kho tài liệu IELTS") [![masterclass]() IELTS Masterclass](/vietnam/prepare/masterclass "IELTS Masterclass")
-* [Kết quả](/vietnam/results "Kết quả")
+Đặc sản Sapa chính là tinh hoa ẩm thực của chốn núi rừng Tây Bắc. Chiêm ngưỡng bức tranh thiên nhiên hùng vĩ, thơ mộng được thiên nhiên ưu ái ban tặng, thưởng thức các món ngon đặc sắc chỉ có tại Sapa chắc chắn sẽ khiến bạn ngất ngây quên lối về.
 
-  Kiểm tra kết quả
+Xem nhanh
 
-  ![]()
+[1. Thắng cố Sapa - Đặc sản Sapa rất đáng để thử](#menu-1)[2. Xôi bảy màu](#menu-2)[3. Thịt trâu gác bếp Sapa](#menu-3)[4. Gà đen Sapa](#menu-4)[5. Cơm lam Sapa](#menu-5)[6. Rượu táo mèo](#menu-6)[7. Thịt lợn cắp nách](#menu-7)[8. Cá Hồi Vân](#menu-8)[9. Cá suối nướng](#menu-9)[10. Rau củ Tây Bắc](#menu-10)[11. Thịt sấy khăng gai](#menu-11)[12. Rượu San Lùng](#menu-12)[13. Rượu Ngô](#menu-13)[14. Nem măng đăng](#menu-14)[15. Cuốn sủi Sapa](#menu-15)
 
-  #### Kiểm tra kết quả
+Xem nhanh
 
-  Truy cập tài khoản IELTS IDP để kiểm tra kết quả và nhiều tiện ích khác
+[1. Thắng cố Sapa - Đặc sản Sapa rất đáng để thử](#menu-1)[2. Xôi bảy màu](#menu-2)[3. Thịt trâu gác bếp Sapa](#menu-3)[4. Gà đen Sapa](#menu-4)[5. Cơm lam Sapa](#menu-5)[6. Rượu táo mèo](#menu-6)[7. Thịt lợn cắp nách](#menu-7)[8. Cá Hồi Vân](#menu-8)[9. Cá suối nướng](#menu-9)[10. Rau củ Tây Bắc](#menu-10)[11. Thịt sấy khăng gai](#menu-11)[12. Rượu San Lùng](#menu-12)[13. Rượu Ngô](#menu-13)[14. Nem măng đăng](#menu-14)[15. Cuốn sủi Sapa](#menu-15)
 
-  [Đăng nhập ngay](https://account.ielts.idp.com/ "Đăng nhập ngay")
+## 1Thắng cố Sapa - Đặc sản Sapa rất đáng để thử
 
-  Thang điểm IELTS[![ielts-calculator]() Cách tính điểm IELTS](/vietnam/results/scores "Cách tính điểm IELTS") [![ielts-listening-icon]() Thang điểm IELTS Listening](/vietnam/results/scores/listening "Thang điểm IELTS Listening") [![ielts-reading-icon]() Thang điểm IELTS Reading](/vietnam/results/scores/reading "Thang điểm IELTS Reading") [![ielts-writing-icon]() Thang điểm IELTS Writing](/vietnam/results/scores/writing "Thang điểm IELTS Writing") [![ielts-speaking-icon]() Thang điểm IELTS Speaking](/vietnam/results/scores/speaking "Thang điểm IELTS Speaking") [![ukvi-icon]() Điểm số IELTS Life Skills](/vietnam/results/scores/life-skills "Điểm số IELTS Life Skills")
+Thu hút du khách từ cái tên độc đáo, Thắng Cố chính là món ăn đặc sản [Sapa](https://mia.vn/cam-nang-du-lich/sapa) nổi tiếng nhất nên thử một lần khi đặt chân đến nơi đây. Đây là một món ăn được chế biến kết hợp từ nhiều nguyên liệu như thịt bò, thịt trâu, nội tạng ngựa và nấu cùng nhiều gia vị đặc biệt.
 
-  Các bước tiếp theo[![osr-icon-header]() IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake") [![ielts online]() Nhận kết quả thi IELTS nhanh chóng](/vietnam/results/faster-test-results "Nhận kết quả thi IELTS nhanh chóng") [![remark]() Yêu cầu phúc khảo](/vietnam/results/request-remark "Yêu cầu phúc khảo") [![Access computer-based results]() Yêu cầu cấp thêm bảng điểm](/vietnam/results/request-additional-trf "Yêu cầu cấp thêm bảng điểm") [![reader]() Tải các mẫu đơn](/vietnam/prepare/downloadable-form "Tải các mẫu đơn") [![idp]() IELTS - Tấm vé vàng để đi du học](https://www.idp.com "IELTS - Tấm vé vàng để đi du học")
-* [Cộng đồng IELTS](https://ielts.idp.com/ielts-community "Cộng đồng IELTS")
+Đây là một món ăn truyền thống của người dân tộc H'Mông, khi ăn vào bạn sẽ cảm nhận được sự độc đáo trong món ăn này. Hương vị thơm ngon beo béo hòa lẫn cùng vị đắng thanh từ dịch lòng non ngựa sẽ mang đến cảm giác mới mẻ. Đặc biệt rất thích hợp khi ăn trong thời tiết lạnh giá của Sapa.
 
-  Cộng đồng IELTS IDP
+Tại Sapa không khó để tìm những quán bán món Thắng cố ngon bởi đây là một đặc sản rất nổi tiếng của mảnh đất rừng núi nơi đây:
 
-  ![]()
++ Thắng cố A Quỳnh Sa Pa: số 15, Thạch Sơn, thị trấn Sa Pa, Lào Cai
 
-  #### Cộng đồng IELTS IDP
++ Thắng cố Hoa Đồng Tiền: số 29 Cầu Mây, thị trấn Sa Pa, Lào Cai
 
-  Lắng nghe những lời khuyên, trả lời cho những câu hỏi thường gặp từ chính chuyên gia IELTS với nguồn thông tin đáng tin cậy.
++ Thắng cố Ngọc Cừ: Lương Khánh Thiện, Duyên Hải, Lào Cai
 
-  [Khám phá cộng đồng IELTS](https://ielts.idp.com/ielts-community "Khám phá cộng đồng IELTS")
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 2](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-01-1622960080.jpeg)
 
-  Tìm hiểu thêm[![ielts-by-idp-app]() Ứng dụng IELTS by IDP](/vietnam/lp/ielts-by-idp-app "Ứng dụng IELTS by IDP")
+Thắng cố - Đặc sản Sapa nhất định phải thử một lần khi đặt chân đến xứ sở sương mù
 
-  Kênh mạng xã hội
+Để nấu được món thắng cố này nhất định phải sử dụng cùng với 12 gia vị bắt buộc: gừng, thảo quả, sả, quế chi,...thì mới tạo nên được linh hồn của món ăn. Thắng cố được ninh trong vài giờ đồng hồ để các nguyên liệu bên trong được chín mềm, ăn vào vừa miệng rất đã.
 
-  [![youtube]()](https://www.youtube.com/%40IELTSbyIDPVietnam)[![instagram]()](https://www.instagram.com/ieltsbyidpvietnam/)[![linkedin]()](https://www.linkedin.com/showcase/idp-vietnam/)[![facebook]()](https://www.facebook.com/ieltsbyidpvietnam/)[![zalo]()](https://zalo.me/3587922624351485800)[![tiktok]()](https://www.tiktok.com/%40ieltsbyidpvietnam)
+Giữa tiết trời Sapa se se lạnh, ngồi bên cạnh nồi thắng cố bốc khói nghi ngút, tận hưởng sự ấm áp từ hơi ấm lan tỏa hòa quyện cùng hương vị độc đáo, mới lạ của núi rừng Tây Bắc chắc chắn sẽ đem đến trải nghiệm ẩm thực khó quên cho bạn.
 
-  Cảm nghĩ về IDP
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 3](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-02-1622960080.jpeg)
 
-  ![testimonial]()
+Thắng cố được nấu từ nhiều nguyên liệu và 12 gia vị bắt buộc để tạo nên "linh hồn" món ăn
 
-  Nhân viên IELTS thân thiên, hỗ trợ thí sinh nhiệt, vui vẻ. Văn phòng IDP rất đẹp, 10 điểm không có nhưng
+## 2Xôi bảy màu
 
-  ![avatar]()
+Là món ăn truyền thống thường xuất hiện vào các dịp lễ hoặc ngày mùng 1 tháng 7 âm lịch hằng năm, xôi bảy màu chính là món ăn tiếp theo du khách nên thưởng thức khi đến Sapa. Được trang trí với bảy màu sắc bắt mắt, món xôi này đại diện cho bảy tháng liền trường kỳ kháng chiến của dân tộc Nùng Dín.
 
-  ##### Thanh Nguyen
+Mang trong mình ý nghĩa tuyệt đẹp, xôi bảy màu thu hút rất nhiều du khách đến thưởng thức và tìm hiểu lịch sử bên trong. Không quá khó để tìm được món xôi này trên khắp các nẻo đường Sapa, thưởng thức một lần bạn sẽ cảm nhận được vị ngon ngọt tự nhiên đặc trưng của món ăn.
 
-  19/06/2024
+**Nơi bán xôi bảy màu ngon ở Sapa**
 
-  [Xem thêm các chia sẻ](/vietnam/about/where-ielts-can-take-me/success-stories)
-* [Về IELTS](/vietnam/about "Về IELTS")
++ Xôi Bà Bầm: đường Mường Hoa, Sapa - trước trạm y tế của thị trấn.
 
-  [HỢP TÁC VỚI IELTS](/vietnam/about "HỢP TÁC VỚI IELTS")  [IELTS dành cho giáo viên](/vietnam/about/ielts-for-teachers "IELTS dành cho giáo viên")  [IELTS dành cho tổ chức](/vietnam/about/ielts-for-organisations "IELTS dành cho tổ chức")  [Đối tác IDP IELTS tại Việt Nam](/vietnam/partners "Đối tác IDP IELTS tại Việt Nam")
++ Anh Dũng: 06, Xuân Viên, Sapa
 
-  Giới thiệu IDP IELTS[![globe]() Các tổ chức công nhận](/vietnam/about/who-accepts-ielts/organisations-that-accept-ielts "Các tổ chức công nhận") [![Latest updates icon - Global rebrand header]() Tin tức và bài viết cập nhật](/vietnam/about/news-and-articles "Tin tức và bài viết cập nhật") [![why-choose-ielts]() Tại sao chọn IELTS?](/vietnam/about/news-and-articles/article-who-takes-ielts "Tại sao chọn IELTS?") [![FAQ]() Câu hỏi thường gặp về IELTS](/vietnam/faq/ielts-faq "Câu hỏi thường gặp về IELTS")
++ Hoa Đào: 48, Lê Văn Tám, Sapa
 
-  TIN TỨC, BÀI VIẾT CẬP NHẬT
++ Ẩm thực Sapa: 545, ngõ khách sạn Victoria Xuân Viên, Sapa
 
-  [![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 4](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-03-1622960080.jpeg)
 
-  ##### Các dạng bài & cách viết IELTS Writing Task 1](/vietnam/about/news-and-articles/article-ielts-writing-task-1)[![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+Xôi bảy màu được trang trí bảy màu sắc tượng trưng cho bảy tháng trường kỳ kháng chiến của dân tộc Nùng Dín
 
-  ##### Các dạng Writing Task 2 thường gặp và định hướng làm bài](/vietnam/about/news-and-articles/article-ielts-writing-task-2)[![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+Để làm được món xôi này phải sử dụng gạo nếp ngon, hạt tròn, vừa dài vừa mẩy để xôi sau khi nấu xong luôn dẻo thơm, vừa miệng. Đặc biệt các sắc màu xôi đều được làm từ thiên nhiên như cây hoa vàng, lá xôi đũa,...để món ăn giữ được hương vị tự nhiên mà trông vẫn bắt mắt, không cần sử dụng phẩm màu.
 
-  ##### IELTS Speaking Part 1: Các chủ đề thường gặp và bí quyết trả lời](/vietnam/about/news-and-articles/article-ielts-speaking-test-part-1)
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 5](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-04-1622960080.jpeg)
 
-  [Read more](/vietnam/about/news-and-articles)
+Xôi bảy màu được làm từ gạo nếp ngon cùng các nguyên liệu tự nhiên tạo nên món ăn đầy màu sắc nhưng vẫn giữ được hương vị đặc trưng
 
-![language](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/icons/language.svg)VI
+## 3Thịt trâu gác bếp Sapa
 
-* Vietnamese
-* English
-* Simplified Chinese
+Là đặc sản được nhiều du khách đem về làm quà tặng cho gia đình và bạn bè, [thịt trâu gác bếp](https://mia.vn/cam-nang-du-lich/thit-trau-gac-bep-sapa-mon-an-dac-san-gay-thuong-nho-tu-vung-tay-bac-503) được tẩm ướp hương vị rất đậm đà, thơm ngon. Bởi vì được xông bằng khói bếp củi nên khi thưởng thức bạn sẽ cảm nhận được hương thơm khói bếp còn vương trong từng miếng thịt.
 
- [Đăng ký thi ngay](https://bxsearch.ielts.idp.com/wizard)
+Thịt trâu gác bếp chính là món ăn nổi tiếng của dân tộc Thái Đen, thường được ăn kèm với nước chấm sẽ càng tạo vị thơm ngon. Món ăn này còn có thể được chế biến với nhiều phương thức như hầm, xào, hấp,...đem lại sự lạ miệng, độc đáo nhưng không kém phần thơm ngon cho du khách gần xa.
 
-* [IDP IELTS Việt Nam](/vietnam)
-* [Kết quả thi IELTS của bạn](/vietnam/results)
-* [Thang điểm IELTS và cách tính điểm IELTS Overall chuẩn nhất](/vietnam/results/scores)
-* [Thang điểm IELTS Speaking](/vietnam/results/scores/speaking)
+**Địa chỉ mua thịt trâu gác bếp:**
 
-![IELTS on computer results now in 3 to 5 days](//images.ctfassets.net/unrdeg6se4ke/8iUyBC9zju1vp9f3bfsGE/c4b896d1069c3b305526418d4d5939c8/ielts-banner-42.png?&fm=avif&fit=fill&w=1440&h=462)
++ Chợ đêm Sapa trên đường Điện Biên Phủ
 
-# Thang điểm IELTS Speaking
++ Viet’s Farm: số 26 Đồng Lợi, thị trấn Sapa, tỉnh Lào Cai
 
-Tìm hiểu các kỹ năng tiếng Anh mà giám khảo IELTS mong đợi trong bài thi IELTS Speaking của bạn, cách tính điểm thi nói và nhiều thông tin hữu ích khác giúp bạn chuẩn bị tốt nhất.
++ Cơ sở A Thịnh: đường Cầu Mây, thị trấn Sapa, tỉnh Lào Cai
 
-**Tổng quan về điểm thi IELTS Speaking**
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 6](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-05-1622960080.jpeg)
 
-Bài thi IELTS Speaking đánh giá khả năng giao tiếp bằng tiếng Anh của bạn. Giám khảo chấm điểm dựa vào các kỹ năng nói tiếng Anh của bạn. Bài thi IELTS Speakingcủa bạn diễn ra trong một cuộc phỏng vấn trực tiếp 1-1 với giám khảo IELTS đủ tiêu chuẩn, trong phòng thi yên tĩnh. Giám khảo đánh giá phần trình bày của bạn dựa trên bốn tiêu chí:
+Thịt trâu gác bếp là món ăn truyền thống nổi tiếng của người dân tộc Thái Đen
 
-* Trôi chảy và mạch lạc
-* Vốn từ vựng
-* Phạm vi và độ chính xác của ngữ pháp
-* Kỹ năng phát âm.
+Đối với người dân bản địa, thịt trâu gác bếp từ lâu đã trở thành món ăn không thể thiết trong các dịp lễ. Được chế biến kỹ càng từ khâu chế biến nguyên liệu đến ướp tẩm gia vị, thịt trâu sau khi nướng xong sẽ càng săn lại, đậm đà và đặc sắc. Món ăn đặc biệt này đòi hỏi người nấu phải cẩn thận, khéo léo vì phải canh bếp đun và nấu nướng chuẩn công thức nếu không muốn món thịt bị bở, dai và cứng.
 
- Kết quả Speaking của bạn được đưa ra dưới dạng điểm từ 0 đến 9. Điểm bài thi Nói của bạn được sử dụng để đánh giá [điểm IELTS](https://ielts.idp.com/vietnam/results/scores) chung của bạn.
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 7](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-06-1622960080.jpeg)
 
-**Tiêu chí đánh giá nào được giám khảo bài thi Nói IELTS sử dụng?**
+Thịt trâu gác bếp có thể được chế biến với nhiều cách khác nhau tạo nên nét riêng biệt cho món ăn
 
-Giám khảo sẽ sử dụng bốn tiêu chí đánh giá để đánh giá phần thi nói của bạn.  Tiêu chí đánh giá mà giám khảo IELTS sử dụng giống nhau đối với cả bài thi Tổng quát và Học thuật.
+## 4Gà đen Sapa
 
-* **Mức độ lưu loát và mạch lạc:**
+[Gà đen](https://mia.vn/cam-nang-du-lich/thuoc-nam-long-4-dia-chi-thuong-thuc-dac-san-ga-den-sapa-chuan-vi-tay-bac-428), hay còn được gọi là gà ác, là một món ăn truyền thống của người dân tộc H'Mông. Gà đen Sapa đặc biệt rất bổ ích nên thường được dùng làm nhiều bài thuốc để nâng cao sức khỏe cho mọi người, đặc biệt là bồi bổ cho người già, người ốm.
 
-Tiêu chí này đánh giá khả năng nói liên tục và nếu bạn ngập ngừng, hãy tự sửa và lặp lại để tiếp tục.
+Ngoài gà hầm thuốc bắc, gà đen còn được yêu thích với món "gà ác nướng mật ong" bởi da gà dai, thịt mềm và nêm nếm đậm vị. Tuy là có nhiều cách chế biến khác nhau nhưng món gà đen vẫn luôn đặc biệt từ màu sắc, đến hương vị và ích lợi mang đến khiến nhiều du khách không khỏi xuýt xoa khi thưởng thức.
 
-Giám khảo sẽ xem xét mức độ mạch lạc của bạn - cách các từ ngữ, ý tưởng và suy nghĩ của bạn kết nối với nhau, sử dụng nhiều từ và cụm từ để kết nối và sắp xếp các ý tưởng của bạn, giúp bạn chuyển sang một luận điểm khác.
+**Các địa chỉ thưởng thức gà đen ngon:**
 
-* **Nguồn từ vựng**
++ Hoàng Minh: 23 -23, khu ẩm thực Sapa, thị trấn Sapa, tỉnh Lào Cai
 
-Tiêu chí này đánh giá khả năng chọn đúng từ vựng và cụm từ để diễn đạt rõ ràng.  Giám khảo sẽ xem xét các loại từ bạn sử dụng, liệu chúng có giúp làm rõ ý tưởng của bạn hay không và liệu các từ đó có dễ hiểu, phù hợp và liên quan đến chủ đề hay không.
+Sapa Smile: số 18 Cầu Mây, thị trấn Sapa, tỉnh Lào Cai
 
-Việc sử dụng thành ngữ và các từ ít phổ biến rất quan trọng ở các trình độ cao hơn (thang điểm 7 trở lên). Điều này không có nghĩa là bạn cần sử dụng những từ hoặc cụm từ và câu sáo rỗng rất hiếm gặp mà bạn đã học thuộc. Cần có thời gian và luyện tập để sử dụng ngôn ngữ thành ngữ một cách tự nhiên khi thảo luận về nhiều chủ đề khác nhau.
++ Hưng Thịnh: 356 - 358, An Dương Vương, thị trấn Sapa, tỉnh Lào Cai
 
-Giám khảo cũng đánh giá khả năng biến đổi trong diễn đạt của bạn, nói những gì bạn muốn nói bằng các cách sử dụng các từ vựng khác nhau khi bạn không nghĩ ra được từ hoặc cụm từ phù hợp.
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 8](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-07-1622960080.jpeg)
 
-* **Phạm vi và độ chính xác về ngữ pháp**
+Gà đen là món ăn không những thơm ngon mà còn rất có lợi cho sức khỏe
 
-Tiêu chí này đánh giá khả năng tạo ra bài thi Nói đúng ngữ pháp bằng cách sử dụng cả cấu trúc câu đơn giản và phức tạp.
+Đừng bị vẻ ngoài đen nhẻm của chú gà đánh lừa mà không dám thưởng thức. Với hương vị đặc biệt, hình dáng độc lạ và nhiều lợi ích tốt, món ăn này chắc chắn sẽ không khiến bạn thất vọng.
 
-Tiêu chí này bao gồm khả năng hạn chế số lỗi ngữ pháp mà bạn mắc phải. Nhận thức được những lỗi mà bạn thường mắc phải (ví dụ: mạo từ, giới từ, sự nhất quán giữa chủ ngữ/động từ) để bạn có thể đảm bảo rằng câu của mình chính xác.
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 9](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-08-1622960081.jpeg)
 
-* **Kỹ năng phát âm**
+Gà đen thường được dùng làm thuốc vì những lợi ích tốt cho sức khỏe
 
-Tiêu chí này đánh giá mức độ dễ hiểu những gì bạn nói và bạn được đánh giá dựa trên phạm vi các kỹ năng phát âm mà bạn có thể sử dụng, bao gồm trọng âm, ngữ điệu và nhịp điệu.
+## 5Cơm lam Sapa
 
-Tiêu chí này lường mức độ rõ ràng khi truyền đạt và mức độ rõ ràng (và chính xác) khi phát âm các từ.
+Góp mặt trong danh sách các món đặc sản tại Sapa, [cơm lam](https://mia.vn/cam-nang-du-lich/com-lam-mon-an-the-hien-tinh-tuy-cua-am-thuc-sapa-504) tuy trông đơn giản nhưng lại mang một nét cuốn hút lạ kỳ. Khi thưởng thức món ăn này, bạn chắc chắn sẽ tưởng tượng ra được khung cảnh thiên nhiên thơ mộng chấm phá bằng nhiều thửa ruộng bậc thang xanh mơn mởn vì hương vị tự nhiên mà cơm mang lại.
 
-Bạn có thể tham khảo thêm về mô tả điểm bài thi Nói [tại đây](https://assets.ctfassets.net/unrdeg6se4ke/4ul2IfYljPdayvBGFOCjT2/970088eedcaaa93be952a43646152415/Speaking_Band_Descriptors.pdf)
+Để làm được món cơm lam, người ta cho gạo vào ống nứa và nướng chín trong đó. Trên bếp than hồng đỏ rực lửa, ống cơm lam cứ thế xoay đều chín đều các mặt, hạt cơm nở ra vừa dẻo vừa mịn, hương thơm bốc lên thoang thoảng thơm nức cả mũi. Đây chắc chắn là món ăn bạn không nên bỏ qua khi đặt chân đến Sapa.
 
-![So sánh phần thi nói giữa các thang điểm từ 5 đến 8]()
+**Các quán cơm lam ngon ở Sapa:**
 
-![play button]()
++ The Hill Station Singnature Restaurant Sapa: số 37 Fansipan, thị trấn Sapa, tỉnh Lào Cai
 
-So sánh phần thi nói giữa các thang điểm từ 5 đến 8
++ Red Dao: 4B, Thác Bạc, thị trấn Sapa, tỉnh Lào Cai
 
-Tìm hiểu xem các bài thi Nói IELTS giữa các thang điểm từ 5 đến 8 khác nhau như thế nào
++ Cầu Mây: số 92 Ngũ Chỉ Sơn, thị trấn Sapa, tỉnh Lào Cai
 
-### Band scores
++ Buffalo Bell: số 25 Cầu Mâu, thị trấn Sapa, tỉnh Lào Cai
 
-### Speaking band scores
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 10](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-09-1622960081.jpeg)
 
-Thang điểm 9
+Cơm lam được nấy trong ống nứa trên bếp than hồng nên vừa dẻo, vừa mịn
 
-**Mức độ lưu loát và mạch lạc**
+Độ dẻo, mịn của cơm lam vẫn giữ trọn vẹn dẫu đã được để nguội, ăn giống như ăn xôi nhưng hương vị ngọt ngào hơn. Khi ăn, du khách thường ăn kèm với muối vừng. Kết hợp cùng thịt gà hoặc các nguyên liệu khác thì sẽ càng tô điểm cho bữa ăn thêm đậm đà sắc hương.
 
-Nói trôi chảy và hiếm khi lặp lại hoặc tự sửa;
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 11](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-10-1622960081.jpeg)
 
-Các lỗi do dự thường do liên quan đến nội dung chứ không phải tìm từ ngữ hoặc ngữ pháp
+Cơm lam thường được ăn kèm với muối vừng hoặc thịt gà để tô điểm thêm hương vị bữa ăn
 
-Nói mạch lạc với độ chặt chẽ hoàn toàn phù hợp
+## 6Rượu táo mèo
 
-Phát triển các chủ đề đầy đủ và phù hợp
+Và cuối cùng khi nhắc đến đặc sản Sapa thì không thể bỏ qua rượu táo mèo. Được làm từ quả táo mèo mọc ở vùng núi phía Bắc, loại rượu này mang hương vị chua ngọt độc đáo, xen lẫn vị đắng của táo mèo tạo nên món rượu đặc biệt tại xứ sở sương mù.
 
-**Vốn từ vựng**
+Dưới thời tiết giá lạnh của vùng đất Sapa, thưởng thức một ly rượu táo mèo sẽ đánh thức mọi giác quan của bạn. Đưa bạn như bừng tỉnh giữa vị cay nồng, hương thơm quyến rũ với màu sắc cánh gián đặc trưng trông rất bắt mắt, thơm ngon.
 
-Sử dụng từ vựng với sự linh hoạt và chính xác đầy đủ trong tất cả các chủ đề
+**Nơi bán rượu táo mèo ngon ở Sapa:**
 
-Sử dụng thành ngữ một cách tự nhiên và chính xác
++ Quốc Cường: số 74 Thạch Sơn, thị trấn Sapa, tỉnh Lào Cai
 
-**Phạm vi và độ chính xác ngữ pháp**
++ Hợp tác xã rượu H’Mông: số 130 Điện Biên Phủ, thị trấn Sapa, tỉnh Lào Cai
 
-Sử dụng đầy đủ các cấu trúc một cách tự nhiên và thích hợp
++ Rượu Tây Bắc: Số 09 Thác Bạc, thị trấn Sapa, tỉnh Lào Cai
 
-Tạo ra các cấu trúc chính xác nhất quán ngoại trừ những sai sót nhỏ đặc trưng của người nói bản địa
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 12](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-11-1622960081.jpeg)
 
-**Kỹ năng phát âm**
+Rượu táo mèo thượng hạng được làm từ táo mèo có vị chua ngọt độc đáo, hương thơm quyến rũ
 
-Sử dụng đầy đủ các kỹ năng phát âm với độ chính xác và tinh tế
+Với các công dụng đặc trưng như trị đau đầu, chóng mặt, chứng mất ngủ,..rượu táo mèo được nhiều du khách yêu thích và tìm đến mua để làm quà tặng cho gia đình, bạn bè và người thân. Có thể nói bên cạnh các món ăn đặc sắc thì rượu táo mèo cũng chính là một đặc sản Sapa nổi tiếng mang đậm hương vị của núi rừng.
 
-Duy trì việc sử dụng linh hoạt các tính năng xuyên suốt
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 13](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-12-1622960081.jpeg)
 
-Dễ hiểu
+Rượu táo mèo thường được du khách mua về làm quà tặng vì những công dụng tuyệt vời
 
-Thang điểm 8
+Khám phá nền ẩm thực đặc sản Sapa sẽ mang đến cho bạn những trải nghiệm tuyệt vời khó quên. Nếu đã đặt chân đến mảnh đất này, bạn đừng quên ghim lại các món ăn đặc sắc nơi đây để có thể cùng bạn bè và người thân tận hưởng một chuyến tham quan núi rừng tuyệt vời nhé!
 
-**Mức độ lưu loát và mạch lạc**
+## 7Thịt lợn cắp nách
 
-Nói trôi chảy và hiếm khi lặp lại hoặc tự sửa lỗi; các lỗi do dự thường liên quan đến nội dung chứ không phải vì lý do tìm từ ngữ hoặc ngữ pháp
+Đây là món ăn được làm từ lợn nuôi thả rông với trọng lượng từ 5-6kg của người dân tộc Mông. Nguồn gốc độc lạ của cái tên là “thịt lợn cắp nách” bắt nguồn từ thói quen khi đến họp chợ phiên người bán thường “cắp nách” lợn mang ra bán.
 
-Phát triển nội dung chủ đề mạch lạc và phù hợp
+Thịt lợn cắp nách có hương vị đặc trưng không đâu có được ngoài Sapa. Thịt lợn mềm dai, săn chắc nhưng vẫn có mỡ xen kẽ tạo độ ngon khó cưỡng, đặc biệt khi nướng lên thịt giòn rụm, chín vàng. Đến Sapa thưởng thức món ăn này, bạn đừng quên cùng bạn bè ăn uống bên đống lửa, vì đây là thú vui thư giãn của người dân nơi đây.
 
-**Vốn từ vựng**
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 14](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-01-1656916081.png)
 
-Sử dụng từ vựng với sự linh hoạt và chính xác trong tất cả các chủ đề
+Thịt lợn cắp nách với mùi vị ngon miệng khó cưỡng là đặc sản không thể bỏ qua khi đi du lịch SaPa
 
-Sử dụng các từ vựng và thành ngữ hiếm một cách khéo léo, mặc dù có thể chưa phù hợp với ngữ cảnh
+**Địa chỉ có món thịt cắp nách ngon ở Sapa:**
 
-Phải có sự thay đổi cách diễn đạt một cách hiệu quả
++ Quán Hoa Đồng Tiền: 29 Cầu Mây, thị trấn Sapa, Lào Cai.
 
-**Phạm vi và độ chính xác ngữ pháp**
++ Quán Dũng Trâu: 85 Xuân Viên, thị trấn Sapa, Lào Cai.
 
-Linh hoạt sử dụng nhiều cấu trúc phức tạp
++ Quán A Phủ: 15 Fansipan, thị trấn Sapa, Lào Cai.
 
-Tạo câu không có lỗi, có thể phạm lỗi hoặc mắc phải các lỗi ngữ pháp cơ bản nhưng với số lần ít nhất có thể
++ Quán Phương Ngoan: 13C Nguyễn Huệ, thị trấn Sapa, Lào Cai.
 
-Thang điểm 7
+## 8Cá hồi vân
 
-**Mức độ lưu loát và mạch lạc**
+Cá hồi vân là đặc sản Sapa, thường sống trong vùng nước động có nhiệt độ thấp. Thịt cá hồi vân từng thớ săn chắc có màu đỏ hấp dẫn, có mùi vị beo béo nhưng không hề ngậy. Du khách đến đây có thể thưởng thức món sashimi cá hồi vân, trộn gỏi, nướng mọi, nấu tiêu… Ngoài ra, bạn không nên bỏ qua món lẩu cá hồi với mùi vị chua ngọt, ăn cùng đủ loại rau tươi Tây Bắc.
 
-Nói dài mà không cần quá nỗ lực hoặc thiếu sự mạch lạc
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 15](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-02-1656916089.png)
 
-Có thể đôi khi thể hiện sự lưỡng lự liên quan đến ngôn ngữ, hoặc lặp lại và/hoặc tự sửa
+Du khách đến Sapa đừng quên thưởng thức món sashimi cá hồi vân.
 
-Sử dụng đa dạng các điểm nhấn diễn ngôn và từ ngữ kết nối với độ linh hoạt
+**Địa chỉ quán cá hồi vân ngon ở Sapa:**
 
-**Vốn từ vựng**
++ Quán Hoa Đào: 48 Lê Văn Tám, thị trấn Sapa, Lào Cai.
 
-Sử dụng vốn từ vựng linh hoạt để thảo luận về nhiều chủ đề khác nhau
++ A Quỳnh: 15 Thạch Sơn, thị trấn Sapa, Lào Cai.
 
-Sử dụng từ vựng ít phổ biến và thành ngữ, thể hiện nhận thức về văn phong và phân bổ câu phù hợp
++ Nhà hàng cá hồi Sapa: 039 Xuân Viên, thị trấn Sapa, Lào Cai.
 
-Thay đổi cách diễn đạt một cách hiệu quả
++ Song Nhi: Thác Bạc, thị trấn Sapa, Lào Cai.
 
-**Phạm vi và độ chính xác ngữ pháp**
+## 9Cá suối nướng
 
-Sử dụng nhiều cấu trúc phức tạp với độ linh hoạt
+Cá suối nướng có kích thước nhỏ bằng lòng bàn tay nhưng thịt ngon không tanh, săn chắc. Đến Sapa, bạn nhất định phải thử qua cảm giác đi bắt cá và nướng ăn tại suối, kết hợp cùng chút rượu San Lùng Tây Bắc thì cực kì sảng khoái.
 
-Thường xuyên tạo ra những câu không có lỗi, mặc dù một số lỗi ngữ pháp vẫn tồn tại
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 16](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-03-1656916094.png)
 
-**Kỹ năng phát âm**
+Cá suối nướng Sapa có vị ngon không tanh, là món thích hợp để thưởng thức với bạn bè
 
-Thể hiện tất cả các đặc điểm tích cực của thang điểm 6 và một số đặc điểm,và các đặc điểm tích cực của thang điểm 8
+**Địa chỉ nhà hàng cá suối nướng ngon ở Sapa:**
 
-Thang điểm 6
++ Hoàng Minh: 23-24, khu ẩm thực Sapa, thị trấn Sapa, Lào Cai.
 
-**Mức độ lưu loát và mạch lạc**
++ Chapa: 40 Cầu Mây, thị trấn Sapa, Lào Cai
 
-Sẵn sàng nói câu dài, mặc dù có thể chưa mạch lạc do lặp lại, tự sửa hoặc do dự
++ Thái Bạc: Km12, khu du lịch Thác Bạc, thị trấn Sapa, Lào Cai.
 
-Sử dụng phong phú các từ ngữ liên kết và những từ hoặc cụm từ nối các ý mặc dù có thể chưa chính xác
++ Sapa Lotus: 34 Cầu Mây, thị trấn Sapa, Lào Cai.
 
-**Vốn từ vựng**
+## 10Rau củ Tây Bắc
 
-Có vốn từ vựng phong phú để diễn đạt chủ đề với độ dài nhất định và các ý được làm rõ mặc dù có thể chưa chính xác
+Sapa có khí hậu mát mẻ nên trồng trọt được rất nhiều loại rau củ ôn đới như susu, ngồng cải, măng tây, súp lơ… Điểm đặc biệt của các loại rau củ ở đây là kích cỡ lớn, tươi ngon và nhiều chất dinh dưỡng, có thể ăn kết hợp với lẩu hoặc nấu súp, hầm thịt… đều rất ngon miệng. Bạn cũng không cần phải đi đâu xa để tìm kiếm những loại rau củ này vì hầu hết khu chợ, quán ăn hay nhà hàng ở Sapa đều có bán với giá rẻ.
 
-Nhìn chung là có sự thay đổi cách diễn đạt
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 17](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-04-1656916100.png)
 
-**Phạm vi và độ chính xác ngữ pháp**
+Các loại rau củ ở Sapa có kích cỡ lớn, tươi ngon và nhiều chất dinh dưỡng
 
-Sử dụng kết hợp các cấu trúc từ đơn giản tới phức tạp nhưng ít linh hoạt
+## 11Thịt sấy khăng gai
 
-Có thể thường xuyên mắc lỗi với các cấu trúc phức tạp mặc dù những lỗi này hiếm khi gây khó hiểu
+Thịt sấy khăng gai là loại thịt ngựa, bò, trâu, heo được người H’Mông cắt ra và treo lên nhà bếp để bảo quản lâu ngày, có thể đến 3 năm. Thịt có mùi vị ngon ngọt và giòn. Thông thường, thịt để trên bếp sẽ được lấy xuống rồi rửa sạch và nấu với các loại rau củ. Du khách nên thử ăn thịt sấy khăng gai kết hợp với uống rượu vang, vì đây được xem là bộ đôi đặc sản Sapa có thể thưởng thức cùng bạn bè hoặc dùng làm quà biếu người thân.
 
-**Kỹ năng phát âm**
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 18](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-05-1656916105.png)
 
-Sử dụng đầy đủ các kỹ năng phát âm
+Thịt sấy khăng gai có mùi vị ngon ngọt và giòn đặc trưng.
 
-Thể hiện các kỹ năng phát âm hiệu quả nhưng không bắt buộc phải duy trì xuyên suốt
+**Địa chỉ bán thịt sấy khăng gai ngon ở Sapa:** 26 Đồng Lôi, thị trấn Sapa, Lào Cai.
 
-Thang điểm 5
+## 12Rượu San Lùng
 
-**Mức độ lưu loát và mạch lạc**
+Rượu San Lùng được xem là đặc sản nức tiếng của Sapa. Đây là loại rượu của người Dao có mùi thơm ngon mang đậm giá trị ẩm thực của vùng đất này, được bán tại các phiên chợ tại Sapa. Bạn có thể mua loại rượu này để làm quà tặng cho bạn bè, người thân.
 
-Thường duy trì mạch nói nhưng sử dụng sự lặp lại, tự chỉnh sửa và/hoặc làm chậm lời nói để tiếp tục mạch đó
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 19](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-06-1656916111.png)
 
-Có thể sử dụng quá nhiều một số loại từ ngữ liên kết và đánh dấu diễn ngôn
+Rượu San Lùng có mùi thơm ngon mang đậm giá trị ẩm thực của vùng đất này, được bán tại các phiên chợ tại Sapa
 
-Nói đơn giản trôi chảy, nhưng giao tiếp phức tạp hơn gây ra vấn đề về độ lưu loát
+**Địa chỉ bán rượu San Lùng ngon ở Sapa:** 8 Thạch Sơn, thị trấn Sapa, Lào Cai.
 
-**Vốn từ vựng**
+## 13Rượu Ngô
 
-Có thể nói về các chủ đề quen thuộc và không quen thuộc nhưng sử dụng từ vựng với độ linh hoạt hạn chế
+Rượu Ngô cũng là một loại rượu đặc sản của Sapa được nấu theo phong tục nấu rượu của người H’Mông từ những hạt ngô tươi vàng. Rượu có vị ngọt bùi và khó say, du khách có thể dùng để làm quà tặng ấn tượng cho các đấng mày râu trong gia đình.
 
-Nỗ lực thay đổi cách diễn đạt nhưng không phải luôn thành công
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 20](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-07-1656916117.png)
 
-**Phạm vi và độ chính xác ngữ pháp**
+Rượu ngô được làm từ những hạt ngô tươi thơm, được làm theo phong tục nấu rượu của người H’Mông
 
-Tạo ra các dạng câu cơ bản với độ chính xác hợp lý
+**Địa chỉ bán rượu Ngô ngon ở Sapa:** phố Bắc Hà, thị trấn Sapa, Lào Cai.
 
-Sử dụng đa dạng các cấu trúc phức tạp hơn, nhưng những cấu trúc này thường chứa lỗi và có thể gây khó hiểu
+## 14Nem măng đắng
 
-**Kỹ năng phát âm**
+Đây là món ăn đặc sắc của người Tày ở Sapa. Nem măng đắng được làm bằng cách luộc mầm tre để sạch và bớt đắng, sau đó làm một lớp ngoài bằng thịt gà băm nhỏ, tiêu đen, nước mắm, đầu hành để cuộn lại. Tiếp theo, bánh được chiên lên giòn vàng tạo mùi vị ngon miệng gây hứng thú cho khách du lịch.
 
-Thể hiện tất cả các đặc điểm của thang điểm 4 và không phải tất cả những điểm tích cực của thang điểm 6
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 21](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-08-1656916122.png)
 
-Thang điểm 4
+Nếu bạn đã đến Sapa thì đừng nên bỏ qua món nem măng đắng lạ miệng này
 
-**Mức độ lưu loát và mạch lạc**
+**Địa chỉ bán nem măng đắng ngon ở Sapa:** Chợ Sapa, đường n2, thị trấn Sapa, Lào Cai.
 
-Không thể phản hồi mà không tạm dừng đáng chú ý và có thể nói chậm với sự lặp lại thường xuyên và tự sửa chữa
+## 15Cuốn sủi Sapa
 
-Liên kết các câu cơ bản nhưng bằng những từ liên kết đơn giản một cách lặp lại và đôi khi thiếu liên kết
+Dù là món ăn chỉ mới xuất hiện gần đây nhưng cuốn sủi Sapa đã để lại ấn tượng khó quên với khách du lịch bốn phương. Đây là món ăn của người Hoa buôn bán gần biên giới, dần dần trở thành đặc sản của Lào Cai. Món ăn không có sủi cảo như trong tên gọi mà là món phở khan làm từ bánh phở mềm mềm. Dù vậy cuốn sủi không có nhiều nước như phở Hà Nội mà chỉ có một chút nước sốt đặc như bánh canh Sài Gòn hay Huế. Để tạo thêm mùi vị đặc sắc, cuốn phở còn có thịt bò, thịt lợn thái sợi, trứng luộc cắt miếng, thêm vào các gia vị như hạt đậu phộng, bột tiêu… Món ăn này được ăn kèm với rau thơm, tương ớt, dưa cải muối…
 
-**Vốn từ vựng**
+![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù 22](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-09-1656916129.png)
 
-Có thể nói về các chủ đề quen thuộc nhưng chỉ có thể truyền đạt ý nghĩa cơ bản đối với các chủ đề không quen thuộc và thường xuyên mắc lỗi trong lựa chọn từ ngữ
+Thưởng thức món cuốn sủi Sapa sẽ làm bạn nhớ hoài không quên!
 
-Hiếm khi thay đổi cách diễn đạt
+**Địa điểm bán cuối sủi ngon ở Sapa:**
 
-**Phạm vi và độ chính xác ngữ pháp**
+Cuốn sủi Ông Há: 436 Điện Biên Phủ, thị trấn Sapa, Lào Cai.
 
-Đưa ra các câu cơ bản và một số câu đơn giản đúng nhưng cấu trúc phụ rất hiếm
+Nếu đã đặt chân đến mảnh đất này, bạn đừng quên ghim lại các món ăn đặc sắc nơi đây để có thể cùng bạn bè và người thân tận hưởng một chuyến tham quan núi rừng tuyệt vời nhé!
 
-Lỗi thường xuyên xảy ra và có thể dẫn đến hiểu lầm
+Tạ Mỹ Dung
 
-**Kỹ năng phát âm**
+Nguồn: Tổng hợp/Ảnh: Sưu tầm
 
-Có nhiều đặc điểm hạn chế về phát âm
+Bạn có hài lòng bài viết này?
 
-Cố gắng kiểm soát các tính năng nhưng sai sót thường xuyên
+Hài lòng
 
-Phát âm sai thường xuyên và gây khó khăn cho người nghe
+Không hài lòng
 
-Thang điểm 3
+Gửi góp ý
 
-**Mức độ lưu loát và mạch lạc**
+TOP sản phẩm bán chạy tháng 09/2026
 
-Tạm dừng lâu khi nói
+[![Vali kéo nhựa dẻo Larita Yuno AH0325_20 S Red](https://mia.vn/media/uploads/vali-larita-yuno-ah0325-20-s-red-16219-01751702583_270.jpg)
 
-Có khả năng hạn chế trong việc liên kết các câu đơn giản
+* #093f69
+* #ffa500
+* #FF0000
 
-Chỉ đưa ra các câu trả lời đơn giản và thường không thể truyền đạt thông điệp cơ bản
+### Larita Yuno AH0325
 
-**Vốn từ vựng**
+749.000₫ 1.189.000₫ -37%](/san-pham/larita-yuno-ah0325?color=red&size=s)
 
-Sử dụng từ vựng đơn giản để truyền đạt thông tin cá nhân
+[![Vali kéo nhựa dẻo Larita Rico AH0324_28 L Light Green](https://mia.vn/media/uploads/-larita-rico-ah0324-28-l-light-green-16706-01769656330_270.jpg)
 
-Không có đủ vốn từ cho các chủ đề ít quen thuộc hơn
+* #093f69
+* #acacac
+* #90EE90
+* #ffc0cb
 
-**Phạm vi và độ chính xác ngữ pháp**
+### Larita Rico AH0324
 
-Cố gắng hình thành câu cơ bản nhưng với thành công hạn chế, hoặc dựa vào lời nói rõ ràng là được ghi nhớ
+1.499.000₫ 2.590.000₫ -42%](/san-pham/larita-rico-ah0324?color=light-green&size=l)
 
-Gây ra nhiều lỗi ngoại trừ các cách diễn đạt được ghi nhớ
+[![Vali theo bộ Combo 2 Vali Larita Sena Size S + M Light Blue](https://mia.vn/media/uploads/-combo-2-vali-larita-sena-size-s-m-light-blue-1-16480-01754271031_270.jpg)
 
-**Kỹ năng phát âm**
+Freeship
 
-Thể hiện một số đặc điểm của điểm 2, nhưng không phải tất cả của các tính năng tích cực của điểm 4
+### Combo 2 VALI Larita Sena
 
-Thang điểm 2
+1.899.000₫ 4.700.000₫ -60%](/san-pham/combo-2-vali-larita-sena-size-s-m-light-blue?color=light-blue&size=20-24)
 
-**Mức độ lưu loát và mạch lạc**
+[![Vali kéo nhựa dẻo Pisani Classic FZA01_20 S Cream](https://mia.vn/media/uploads/-pisani-classic-fza01-20-s-cream-16926-51781528265_270.jpg)
 
-Dừng lâu trước hầu hết các từ
+* #000000
+* #000000
+* #000000
+* #ffa500
+* +1
 
-Ít khả năng giao tiếp
+Freeship
 
-**Vốn từ vựng**
+### Pisani Classic FZA01
 
-Chỉ đưa ra được các từ rời rạc hoặc lời nói đã ghi nhớ
+2.199.000₫ 2.990.000₫ -26%](/san-pham/pisani-classic-fza01?color=cream&size=s)
 
-**Phạm vi và độ chính xác ngữ pháp**
+[![Vali kéo nhựa cứng Pisani X9 YG1849A_20 S Tiffany Blue](https://mia.vn/media/uploads/vali-pisani-x9-yg1849a-20-s-tiffany-blue-12012-01625446655_270.jpg)
 
-Không thể tạo mẫu câu cơ bản
+* #40454a
+* #b76e79
+* #9ad8e7
+* #ffffff
 
-**Kỹ năng phát âm**
+Freeship
 
-Lời nói thường không thể hiểu được
+### Pisani X9 YG1849A
 
-Thang điểm 1
+3.390.000₫ 4.612.000₫ -26%](/san-pham/pisani-x9-yg1849a?color=tiffany-blue&size=s)
 
-**Mức độ lưu loát và mạch lạc**
+[![Túi tote Larita Metro Basic 13 S Pink](https://mia.vn/media/uploads/-larita-metro-basic-13-s-pink-16949-01780900983_270.jpg)
 
-Không thể giao tiếp
+* #faf0e6
+* #000000
+* #0000FF
+* #ffc0cb
 
-Không có ngôn ngữ được đánh giá
+### Larita Metro Basic
 
-**Vốn từ vựng**
+389.000₫ 459.000₫ -15%](/san-pham/larita-metro-basic?color=pink&size=s)
 
-Không thể giao tiếp
+[![Balo laptop Larita Classic Basic 13 S Beige](https://mia.vn/media/uploads/-larita-classic-basic-13-s-beige-16990-01780899910_270.jpg)
 
-Không có ngôn ngữ được đánh giá
+* #faf0e6
+* #000000
+* #0000FF
+* #008000
+* +1
 
-**Phạm vi và độ chính xác ngữ pháp**
+### Larita Classic Basic
 
-Không thể giao tiếp
+449.000₫ 519.000₫ -13%](/san-pham/larita-classic-basic?color=beige&size=s)
 
-Không có ngôn ngữ được đánh giá
+[![Balo laptop Larita Metro One 15.6 M Blue](https://mia.vn/media/uploads/-larita-metro-one-15-6-m-blue-16909-01780901249_270.jpg)
 
-**Kỹ năng phát âm**
+* #faf0e6
+* #000000
+* #0000FF
 
-Không thể giao tiếp
+### Larita Metro One
 
-Không có ngôn ngữ được đánh giá
+499.000₫ 589.000₫ -15%](/san-pham/larita-metro-one?color=blue&size=m)
 
-Thang điểm 0
+[![Túi đựng giày The Travel Star SHB_02 Elite Duo Shoe Bag S Brown](https://mia.vn/media/uploads/-the-travel-star-shb-02-elite-duo-shoe-bag-s-brown-17158-51781228534_270.jpg)
 
-**Mức độ lưu loát và mạch lạc**
+* #000000
+* #964B00
+* #647290
 
-Không tham dự
+### Túi đựng giày The Travel Star SHB\_02 Elite Duo Shoe Bag
 
-**Vốn từ vựng**
+169.000₫ 199.000₫ -15%](/san-pham/the-travel-star-shb_02-elite-duo-shoe-bag?color=brown&size=s)
 
-Không tham dự
+[![Gối cổ du lịch The Travel Star NPL_07 Aircomfort Neck Pilllow S Pink](https://mia.vn/media/uploads/-the-travel-star-npl-07-aircomfort-neck-pilllow-s-pink-17176-31784541411_270.jpg)
 
-**Phạm vi và độ chính xác ngữ pháp**
+* #acacac
+* #ffc0cb
 
-Không tham dự
+### Gối cổ du lịch The Travel Star NPL\_07 Aircomfort Neck Pilllow
 
-**Kỹ năng phát âm**
+259.000₫ 330.000₫ -22%](/san-pham/the-travel-star-npl_07-aircomfort-neck-pilllow?color=pink&size=s)
 
-Không tham dự
+[![Muối chẩm chéo - Đặc sản Tây Bắc khơi dậy hương vị núi rừng](https://mia.vn/media/uploads/blog-du-lich/muoi-cham-cheo-dac-san-tay-bac-khoi-day-huong-vi-nui-rung-1650963863.jpg)](cam-nang-du-lich/muoi-cham-cheo-dac-san-tay-bac-khoi-day-huong-vi-nui-rung-560)
 
-Nếu điểm IELTS Speaking của bạn chưa đạt như mong muốn, [IELTS One Skill Retake](https://ielts.idp.com/vietnam/about/ielts-one-skill-retake) chính là lựa chọn lý tưởng dành cho bạn. Tính năng này cho phép bạn thi lại một kỹ năng bất kỳ để cải thiện số điểm đạt tối đa mà không phải thi lại toàn bộ bài IELTS. Đây là giải pháp giúp bạn tối ưu thời gian, công sức ôn luyện và tiết kiệm lệ phí thi một cách hiệu quả.
+[### Muối chẩm chéo - Đặc sản Tây Bắc khơi dậy hương vị núi rừng](cam-nang-du-lich/muoi-cham-cheo-dac-san-tay-bac-khoi-day-huong-vi-nui-rung-560)
 
-## Tìm hiểu thêm
+27.08.2026 76,441 lượt xem
 
-[![undefined]()Thang điểm IELTS - Cách tính điểm IELTS](/vietnam/results/scores "Thang điểm IELTS - Cách tính điểm IELTS")[![undefined]()Cách tính điểm IELTS Writing](/vietnam/results/scores/writing "Cách tính điểm IELTS Writing")[![undefined]()Cách tính điểm IELTS Listening](/vietnam/results/scores/listening "Cách tính điểm IELTS Listening")[![undefined]()Cách tính điểm IELTS Reading](/vietnam/results/scores/reading "Cách tính điểm IELTS Reading")
+[![Cá tầm Sapa và 8 điều cần biết về thương phẩm cao cấp này](https://mia.vn/media/uploads/blog-du-lich/ca-tam-sapa-va-8-dieu-can-biet-ve-thuong-pham-cao-cap-nay-1650961458.jpg)](cam-nang-du-lich/ca-tam-sapa-va-8-dieu-can-biet-ve-thuong-pham-cao-cap-nay-546)
 
-## Tin tức và sự kiện nổi bật
+[### Cá tầm Sapa và 8 điều cần biết về thương phẩm cao cấp này](cam-nang-du-lich/ca-tam-sapa-va-8-dieu-can-biet-ve-thuong-pham-cao-cap-nay-546)
 
-[Xem tất cả bài viết](/vietnam/about/news-and-articles)
+06.06.2025 65,656 lượt xem
 
-[![Female IELTS test taker in a green sweatshirt enquires about IELTS to a test centre staff]()Preparation
+[![Rau mầm đá Sapa - Đặc sản bước ra từ câu truyện dân gian Trạng Quỳnh](https://mia.vn/media/uploads/blog-du-lich/rau-mam-da-sapa-dac-san-buoc-ra-tu-cau-truyen-dan-gian-trang-quynh-1622820869.jpg)](cam-nang-du-lich/rau-mam-da-sapa-dac-san-buoc-ra-tu-cau-truyen-dan-gian-trang-quynh-635)
 
-Bài thi Nói IELTS: trí tuệ nhân tạo hay giao tiếp trực tiếp cùng giám khảo](/vietnam/prepare/article-ielts-speaking-ai-vs-face-to-face)
+[### Rau mầm đá Sapa - Đặc sản bước ra từ câu truyện dân gian Trạng Quỳnh](cam-nang-du-lich/rau-mam-da-sapa-dac-san-buoc-ra-tu-cau-truyen-dan-gian-trang-quynh-635)
 
-[![A male test taker during an IELTS Speaking test with a male examiner]()Preparation
+06.06.2025 51,972 lượt xem
 
-Giọng điệu tiếng Anh của tôi có ảnh hưởng điểm thi nói IELTS không?
+[![Hạt dẻ rừng - Món quà từ tự nhiên dành tặng cho vùng đất Sapa](https://mia.vn/media/uploads/blog-du-lich/hat-de-rung-mon-qua-tu-tu-nhien-danh-tang-cho-vung-dat-sapa-1621762996.jpg)](cam-nang-du-lich/hat-de-rung-mon-qua-tu-tu-nhien-danh-tang-cho-vung-dat-sapa-502)
 
-![clock]()30 mins read](/vietnam/prepare/article-accents-ielts-speaking-scores)
+[### Hạt dẻ rừng - Món quà từ tự nhiên dành tặng cho vùng đất Sapa](cam-nang-du-lich/hat-de-rung-mon-qua-tu-tu-nhien-danh-tang-cho-vung-dat-sapa-502)
 
-[![Female test taker wearing brown t-shirt talking to a male examiner during an IELTS Speaking test ]()Preparation
+05.06.2025 42,215 lượt xem
 
-5 lời khuyên giúp bạn thực hành phát âm cho bài thi Nói IELTS
+[![Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù](https://mia.vn/media/uploads/blog-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-1622960049.jpg)](cam-nang-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-657)
 
-![clock]()5 mins read](/vietnam/prepare/article-5-tips-for-pronunciation-ielts-speaking)
+[### Đặc sản Sapa - nét đặc trưng trong nền ẩm thực xứ sở sương mù](cam-nang-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-657)
 
-[![IELTS Speaking Topics]()Preparation
+06.06.2025 38,961 lượt xem
 
-IELTS Speaking Topics Part 1,2,3 thường hay gặp nhất
+[![view branches list](media/images/home-page-pc/icon/branches.svg) HỆ THỐNG CỬA HÀNG](he-thong-sieu-thi)
 
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-common-ielts-speaking-topics)
+HOTLINE 8h - 22h (MIỄN PHÍ)
 
-[![Bí quyết mở đầu bài thi IELTS Speaking]()Preparation
+1800.6198
 
-Bí quyết mở đầu bài thi IELTS Speaking cực kỳ thu hút
+B2B (khách doanh nghiệp)
 
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-tips-for-starting-ielts-speaking)
+0918.197.299
 
-[![Phương pháp Shadowing]()Preparation
+CHÍNH SÁCH
 
-Phương pháp Shadowing là gì? Có hiệu quả trong Speaking?
+* [Bán hàng doanh nghiệp (B2B)](ban-hang-doanh-nghiep)
+* [Chính sách bảo hành](thong-tin/chinh-sach-bao-hanh-18)
+* [Chính sách đổi trả 365 ngày](thong-tin/chinh-sach-doi-tra-512)
+* [Chính sách vận chuyển](thong-tin/chinh-sach-van-chuyen-16)
+* [Chính sách khách hàng thân thiết](thong-tin/chinh-sach-khach-hang-than-thiet-1337)
+* [Chính sách bảo mật](thong-tin/chinh-sach-bao-mat-23)
 
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-what-is-shadowing)
+HỖ TRỢ KHÁCH HÀNG
 
-[![ IELTS Speaking Accommodation]()Preparation
+* [Hướng dẫn sử dụng khóa Vali](khuyen-mai/cac-loai-khoa-vali-du-lich-va-cach-doi-mat-khau-1259)
+* [Phương thức thanh toán](thong-tin/phuong-thuc-thanh-toan-513)
+* [Hướng dẫn sử dụng mã voucher](khuyen-mai/huong-dan-su-dung-ma-voucher-1620)
 
-Home/Accommodation IELTS Speaking Part 1, 2, 3: Từ vựng & bài mẫu
+KIẾN THỨC HÀNH LÝ
 
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-speaking-accommodation)
+* [Bí kíp chọn hành lý](tin-tuc)
+* [MIA Go! Ăn gì ở đâu?](cam-nang-du-lich)
 
-[![Male test taker during Part 2 of the IELTS Speaking Test.]()Preparation
+VỀ MIA.vn
 
-IELTS Speaking Part 1: Các chủ đề thường gặp và bí quyết trả lời](/vietnam/about/news-and-articles/article-ielts-speaking-test-part-1)
+* [Câu chuyện về MIA.vn](gioi-thieu)
+* [Quỹ bảo vệ môi trường
+  "SAVE THE OCEAN"](mia-go-aquarius)
+* [Tuyển dụng](https://tuyendung.mia.vn/)
 
-[![Female test taker during a part 2 of IELTS Speaking Test with an Examiner]()Preparation
+Kết nối với MIA.vn
 
-IELTS Speaking part 2: Cách thực hiện bài thi hiệu quả nhất](/vietnam/about/news-and-articles/article-ielts-speaking-test-long-turn-part-2)
+[![Facebook](media/images/home-page-pc/icon/facebook.svg)](https://www.facebook.com/mia.vn) [![Tiktok](media/images/home-page-pc/icon/tiktok.svg)](https://www.tiktok.com/%40miavn.official) [![instagram](media/images/home-page-pc/icon/instagram.svg)](https://www.instagram.com/mia.vn/) [![zalo](media/images/home-page-pc/icon/zalo.svg)](https://zalo.me/2492375814268691500)
 
-[![Female test taker during part 3 of IELTS Speaking Test with an Examiner]()
+CÔNG TY CỔ PHẦN MIA RETAIL @2026
 
-IELTS Speaking Part 3: Các chủ đề thường gặp và bí quyết trả lời
+Mã số doanh nghiệp: 0314826894 do sở KH & ĐT TP.HCM cấp ngày 10/01/2018. Địa chỉ: 117-119 Bạch Đằng, Phường Gia Định, TP. Hồ Chí Minh, Việt Nam.
 
-![clock]()30 mins read](/vietnam/about/news-and-articles/article-ielts-speaking-test-part-3)
+[![Đã đăng ký bộ công thương](images/bo-cong-thuong.png)](http://online.gov.vn/Home/WebDetails/93283)
 
-[![IDP IELTS co-brand logo - footer]( "IDP IELTS co-brand logo - footer")](/vietnam "IDP IELTS co-brand logo - footer")
+[![DMCA.com Protection Status](https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=6482120e-c0c3-446d-b6a6-315e375532f2)](https://www.dmca.com/Protection/Status.aspx?ID=6482120e-c0c3-446d-b6a6-315e375532f2&refurl=https://mia.vn/ "DMCA.com Protection Status")
 
-![]()Việt Nam
+![Hỗ trợ trực tuyến](images/chat-icon-white.svg)
 
-* [Argentina](https://ielts.idp.com/argentina)
-* [Armenia](https://ielts.idp.com/armenia)
-* [Australia](https://ielts.com.au/australia)
-* [Ba Lan](https://ielts.idp.com/austria)
-* [Azerbaijan](https://ielts.idp.com/azerbaijan)
-* [Bahrain](https://ielts.idp.com/bahrain)
-* [Bangladesh](https://ielts.idp.com/bangladesh)
-* [Brazil](https://ielts.idp.com/brazil)
-* [Bulgaria](https://ielts.idp.com/bulgaria)
-* [Cam-pu-chia](https://ielts.idp.com/cambodia)
-* [Canada](https://ielts.idp.com/canada)
-* [Chile](https://ielts.idp.com/chile)
-* [China](https://www.idpielts.cn)
-* [Colombia](https://ielts.idp.com/colombia)
-* [Cộng hòa Síp](https://ielts.idp.com/cyprus)
-* [Ecuador](https://ielts.idp.com/ecuador)
-* [Ai Cập](https://ielts.idp.com/egypt)
-* [Fiji](https://ielts.co.nz/test-centre/ches-fiji-ielts-test-centre)
-* [France](https://ielts.idp.com/france)
-* [Germany](https://ielts.idp.com/germany)
-* [Việt Nam](https://ielts.idp.com/ghana)
-* [Global](https://ielts.idp.com/)
-* [Hy Lạp](https://ielts.idp.com/greece)
-* [Hong kong](https://ielts.idp.com/hongkong)
-* [Ấn Độ](https://www.ieltsidpindia.com/)
-* [Indonesia](https://ielts.idp.com/indonesia)
-* [Iran](https://ielts.idp.com/iran)
-* [Iraq](https://ielts.idp.com/iraq)
-* [Ireland](https://ielts.idp.com/ireland)
-* [Nước Ý](https://ielts.idp.com/italy)
-* [Nhật Bản](https://ieltsjp.com/japan)
-* [Jordan](https://ielts.idp.com/jordan)
-* [Kazakhstan](https://ielts.idp.com/kazakhstan)
-* [Kenya](https://ielts.idp.com/kenya)
-* [Kiribati](https://ielts.co.nz/newzealand/test-centre/ielts-kiribati)
-* [Kuwait](https://ielts.idp.com/kuwait)
-* [Laos](https://ielts.idp.com/laos)
-* [Lebanon](https://ielts.idp.com/lebanon)
-* [Malaysia](https://ielts.idp.com/malaysia)
-* [Mauritius](https://ielts.idp.com/mauritius)
-* [Mexico](https://ielts.idp.com/mexico)
-* [Trung Đông](https://ielts.idp.com/uae)
-* [Moldova](https://ielts.idp.com/moldova)
-* [Ả Rập Xê Út](https://ielts.idp.com/mongolia)
-* [Myanmar](https://ielts.idp.com/myanmar)
-* [Nauru](https://ielts.co.nz/test-centre/the-university-of-auckland-ielts-centre-nauru)
-* [Nepal](https://ielts.idp.com/nepal)
-* [Netherlands](https://ielts.idp.com/netherlands)
-* [New Caledonia](https://ielts.co.nz/newzealand/test-centre/ielts-newcaledonia)
-* [New Zealand](https://ielts.co.nz/newzealand)
-* [Nigeria](https://ielts.idp.com/nigeria)
-* [Oman](https://ielts.idp.com/oman)
-* [Pakistan](https://ielts.idp.com/pakistan)
-* [Papua New Guinea](https://ielts.com.au/australia/test-centre/idp-ielts-test-centre-port-moresby)
-* [Peru](https://ielts.idp.com/peru)
-* [Philippines](https://ielts.idp.com/philippines)
-* [Ba Lan](https://ielts.idp.com/poland)
-* [Portugal](https://ielts.idp.com/portugal)
-* [Katar](https://ielts.idp.com/qatar)
-* [Romania](https://ielts.idp.com/romania)
-* [Samoa](https://ielts.co.nz/newzealand/test-centre/ielts-samoa)
-* [Ả Rập Xê Út](https://ielts.idp.com/saudiarabia)
-* [Singapore](https://ielts.idp.com/singapore)
-* [Quần đảo Solomon](https://ielts.co.nz/test-centre/the-university-of-auckland-ielts-centre-the-solomon-islands)
-* [Ả Rập Xê Út](https://ielts.idp.com/southafrica)
-* [Hàn Quốc](https://ieltskorea.org/korea)
-* [Tây Ban Nha](https://ielts.idp.com/spain)
-* [Sri Lanka](https://ielts.idp.com/srilanka)
-* [Thụy Sĩ](https://ielts.idp.com/switzerland)
-* [Syria](https://ielts.idp.com/syria)
-* [Tahiti](https://ielts.co.nz/newzealand/about/ielts-in-the-pacific)
-* [Đài Loan](https://ielts.idp.com/taiwan)
-* [Ả Rập Xê Út](https://ielts.idp.com/tajikistan)
-* [Thái Lan](https://ielts.idp.com/thailand)
-* [Tonga](https://ielts.co.nz/newzealand/test-centre/ielts-tonga)
-* [Thổ Nhĩ Kỳ](https://ielts.idp.com/turkey)
-* [Quần đảo Ellice](https://ielts.co.nz/newzealand/about/ielts-in-the-pacific)
-* [Các Tiểu Vương quốc Ả Rập Thống nhất](https://ielts.idp.com/uae)
-* [Uruguay](https://ielts.idp.com/uruguay)
-* [Uzbekistan](https://ielts.idp.com/uzbekistan)
-* [Việt Nam](https://ielts.co.nz/newzealand/test-centre/ielts-vanuatu)
+Hỗ trợ trực tuyến
 
-* Giới thiệu
-* Hình thức thi IELTS
-* Thi IELTS
+* [![Hệ thống cửa hàng](images/store.svg)
 
-Giới thiệu
+  Hệ thống cửa hàng
 
-* [Các tổ chức công nhận IELTS](/vietnam/about/who-accepts-ielts/organisations-that-accept-ielts "Các tổ chức công nhận IELTS")
-* [Tin tức và bài viết cập nhật](/vietnam/about/news-and-articles "Tin tức và bài viết cập nhật")
-* [Sự kiện IELTS](/vietnam/events "Sự kiện IELTS")
-* [Hình thức thi nào phù hợp với tôi?](/vietnam/about/which-test-do-i-take "Hình thức thi nào phù hợp với tôi?")
-* [Chương trình ưu đãi IELTS](/vietnam/ielts-promotion "Chương trình ưu đãi IELTS")
-* [Đối tác IDP IELTS tại Việt Nam](/vietnam/partners "Đối tác IDP IELTS tại Việt Nam")
-* [Câu chuyện thành công](/vietnam/about/where-ielts-can-take-me/success-stories "Câu chuyện thành công")
-* [IELTS - Tấm vé vàng để đi du học](https://www.idp.com/vietnam/ "IELTS - Tấm vé vàng để đi du học")
-* [Liên hệ IDP IELTS](/vietnam/contact-us "Liên hệ IDP IELTS")
+  (9h - 22h)](he-thong-sieu-thi)
+* ![Hỗ trợ trực tuyến](images/chat-phone-icon.svg)
 
-Hình thức thi IELTS
+  1800 6198
 
-* [Thi IELTS trên máy tính](/vietnam/about/news-and-articles/article-computer-delivered-ielts "Thi IELTS trên máy tính")
-* [IELTS Học thuật](/vietnam/about/which-test-do-i-take/academic "IELTS Học thuật")
-* [IELTS Tổng quát](/vietnam/about/which-test-do-i-take/general-training "IELTS Tổng quát")
-* [IELTS UKVI Học thuật](/vietnam/about/which-test-do-i-take/academic-ukvi "IELTS UKVI Học thuật")
-* [IELTS UKVI Tổng quát](/vietnam/about/which-test-do-i-take/general-training-ukvi "IELTS UKVI Tổng quát")
-* [IELTS UKVI Life Skills](/vietnam/about/which-test-do-i-take/life-skills-ukvi "IELTS UKVI Life Skills")
-* [IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake")
+  (8h - 22h, miễn phí)
+* [![Chat với MIA.vn](images/chat-mess-icon.svg)
 
-Thi IELTS
+  Chat với MIA.vn](https://www.messenger.com/t/mia.vn)
+* [![Chat Zalo với MIA.vn](images/zalo.png)
 
-* [Đăng ký thi IELTS](/vietnam/book-my-test "Đăng ký thi IELTS")
-* [Lịch thi IELTS](/vietnam/test-day "Lịch thi IELTS")
-* [Lệ phí thi IELTS](/vietnam/ielts-fees "Lệ phí thi IELTS")
-* [Tìm địa điểm thi IELTS](/vietnam/test-dates "Tìm địa điểm thi IELTS")
-* [Câu hỏi thường gặp về IELTS](/vietnam/faq/ielts-faq "Câu hỏi thường gặp về IELTS")
-* [Bài kiểm tra IELTS Familiarisation](/vietnam/prepare/ielts-familiarisation-tests "Bài kiểm tra IELTS Familiarisation")
-* [Ứng dụng IELTS by IDP](/vietnam/lp/ielts-by-idp-app "Ứng dụng IELTS by IDP")
-* [IELTS Masterclass](/vietnam/prepare/masterclass "IELTS Masterclass")
-* [Tải các mẫu đơn](/vietnam/prepare/downloadable-form "Tải các mẫu đơn")
+  Chat Zalo với MIA.vn](https://zalo.me/2492375814268691500)
 
-IDP IELTS – Việt Nam
+![](images/placeholder.png)
 
-* [![youtube]()](https://www.youtube.com/%40IELTSbyIDPVietnam)
-* [![instagram]()](https://www.instagram.com/ieltsbyidpvietnam/)
-* [![linkedin]()](https://www.linkedin.com/showcase/idp-vietnam/)
-* [![facebook]()](https://www.facebook.com/ieltsbyidpvietnam/)
-* [![zalo]()](https://zalo.me/3587922624351485800)
-* [![tiktok]()](https://www.tiktok.com/%40ieltsbyidpvietnam)
-
-© IELTS Partners. IELTS Partners defined as The British Council, IELTS Australia Pty. Ltd. and Cambridge English (part of Cambridge University Press & Assessment)
-
-IELTS, IELTS logos, and various other marks (雅思, آيلتس) and signs on this website are registered trademarks or trademarks of the IELTS Partners and are protected by relevant trademark laws around the world. You must not use, copy, reproduce, modify, distribute, republish, display or communicate these trademarks in any way.
-
-* [Liên hệ với chúng tôi](/vietnam/contact-us "Liên hệ với chúng tôi")
-* [Thông báo pháp lý](/vietnam/legal-notices "Thông báo pháp lý ")
-* [Chính sách quyền riêng tư](/vietnam/legal-notices#ielts-australia-privacy-policy "Chính sách quyền riêng tư ")
-* [Chính sách cookie](/vietnam/legal-notices#cookie-policy "Chính sách cookie ")
-* Bản quyền 2026 IDP IELTS
-
-Please enable JavaScript to continue using this application.
+ [![](https://mia.vn/media/uploads/ctkm/51/ctkm_6aa8add8cfd7c_1789439448.png)](https://mia.vn/?itm_source=web&itm_medium=banner&itm_campaign=chopdealt9)

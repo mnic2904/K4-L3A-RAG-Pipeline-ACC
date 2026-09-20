@@ -1,469 +1,531 @@
-# Thang điểm IELTS Reading - Hiểu và cách ghi điểm tối ưu
+# Cẩm nang 25+ địa điểm Du lịch ĐÀ NẴNG 2026 phải trải nghiệm
 
-**Source:** https://ielts.idp.com/vietnam/results/scores/reading
+**Source:** https://vnexpress.net/cam-nang-du-lich-da-nang-4470111.html
 
-**Crawled:** 2026-09-20T14:40:40.856780
+**Crawled:** 2026-09-20T15:24:10.802528
 
 ---
 
-The official IELTS by IDP app is here! [Download it](/lp/ielts-by-idp-app)  today.
+[![VNExpress](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/logo_white_tagline.svg)](/ "Vnexpress")
 
-![Close](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/icons/close_btn.svg)
+[Cẩm nang](/du-lich/cam-nang)
 
-[![IDP IELTS Logo](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/idp_ielts_logo.svg)](/vietnam "IDP IELTS")
+[Quay lại Du lịch](/du-lich "Du lịch")
 
-* [Bài thi IELTS](/vietnam/about/which-test-do-i-take "Bài thi IELTS")
+[Cẩm nang](/du-lich/cam-nang)
 
-  Tìm hiểu bài thi [IELTS Academic](/vietnam/about/which-test-do-i-take/academic "IELTS Academic")  [IELTS General Training](/vietnam/about/which-test-do-i-take/general-training "IELTS General Training")  [IELTS for UKVI Academic](/vietnam/about/which-test-do-i-take/academic-ukvi "IELTS for UKVI Academic")  [IELTS for UKVI General Training](/vietnam/about/which-test-do-i-take/general-training-ukvi "IELTS for UKVI General Training")  [IELTS Life Skills](/vietnam/about/which-test-do-i-take/life-skills-ukvi "IELTS Life Skills")  [Thi IELTS trên máy tính](/vietnam/about/news-and-articles/article-computer-delivered-ielts "Thi IELTS trên máy tính")
+[Quay lại Du lịch](/du-lich)
 
-  IELTS One skill Retake[![globe]() IELTS One Skill Retake là gì?](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake là gì?") [![news-item]() Hướng dẫn đăng ký thi IELTS One Skill Retake](/vietnam/about/news-and-articles/article-how-to-book-ielts-one-skill-retake "Hướng dẫn đăng ký thi IELTS One Skill Retake") [![why-choose-ielts]() Các tổ chức chấp nhận IELTS One Skill Retake](/vietnam/about/who-accepts-ielts-one-skill-retake "Các tổ chức chấp nhận IELTS One Skill Retake") [![why-choose-ielts]() Cách sử dụng kết quả IELTS One Skill Retake](/vietnam/about/news-and-articles/article-ielts-one-skill-retake-osr-results-trf "Cách sử dụng kết quả IELTS One Skill Retake ") [![FAQ]() Câu hỏi thường gặp IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake-faqs "Câu hỏi thường gặp IELTS One Skill Retake")
+![](https://i1-dulich.vnecdn.net/2022/06/01/CauVangDaNang-1654082224-7229-1654082320.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=MeVMb72UZA27ivcyB3s7Kg)
 
-  [Đăng ký thi IELTS](https://ielts.idp.com/vietnam/book-my-test "Đăng ký thi IELTS") [![ielts-event]() Lịch thi IELTS](/vietnam/test-day "Lịch thi IELTS") [![presentation-chart-bar]() Lệ phí thi IELTS](/vietnam/ielts-fees "Lệ phí thi IELTS") [![ielts online]() Chương trình ưu đãi IELTS](/vietnam/ielts-promotion "Chương trình ưu đãi IELTS") [![IELTS by IDP app - Light bulb icon]() Địa điểm thi IELTS](/vietnam/test-dates "Địa điểm thi IELTS")
-* [Chuẩn bị](https://ielts.idp.com/ielts-prep-hub "Chuẩn bị")
+Cẩm nang du lịch
 
-  Truy cập IELTS Prepare Hub
+# Đà Nẵng
 
-  ![Prepare Hub]()
+* [Trở lại Du lịch](/du-lich)
 
-  #### Truy cập IELTS Prepare Hub
+* [Du lịch](/du-lich "Du lịch")
+* [Cẩm nang](/du-lich/cam-nang "Cẩm nang")
 
-  Hãy truy cập IELTS Prepare Hub để khám phá tài liệu hữu ích và đăng ký sự kiện luyện thi trực tiếp hoặc trực tuyến.
+Thứ sáu, 3/6/2022, 09:00 (GMT+7)
 
-  [Truy cập kho tài liệu IELTS](http://ielts.idp.com/ielts-prep-hub "Truy cập kho tài liệu IELTS")
+* Điều hướng nhanh
+* [Đà Nẵng mùa nào đẹp](#rjmjvl8iitj)
+* [Di chuyển](#qsi17u58m5p)
+* [Khách sạn, resort](#8wi2nwxr07)
+* [Chơi đâu](#fz4g7jqjeeg)
+* [Trải nghiệm](#85q5snfh1o5)
+* [Đặc sản](#t0sp657ru4d)
+* [Mua gì làm quà](#5jona42kd49)
 
-  Chuẩn bị cho kỳ thi[IELTS Academic](/vietnam/prepare/academic-preparation "IELTS Academic") [IELTS General Training](/vietnam/prepare/ielts-general-training-preparation "IELTS General Training") [IELTS for UKVI](/vietnam/prepare/ielts-for-ukvi "IELTS for UKVI")
+Thành phố Đà Nẵng nằm ở miền Trung, chia đều khoảng cách giữa thủ đô Hà Nội và TP HCM. Đà Nẵng còn là trung tâm của 3 di sản văn hóa thế giới là Cố đô Huế, phố cổ Hội An và thánh địa Mỹ Sơn. Phía bắc Đà Nẵng giáp tỉnh Thừa Thiên - Huế, phía tây và nam giáp tỉnh Quảng Nam, phía đông giáp biển Đông.
 
-  Thi thử[Thông tin về thi thử IELTS](/vietnam/about/news-and-articles/article-ielts-computer-trial-at-home "Thông tin về thi thử IELTS") [Đăng ký thi thử IELTS](/vietnam/about/news-and-articles/article-ielts-fam-test-dates "Đăng ký thi thử IELTS")
+### Đà Nẵng mùa nào đẹp
 
-  Chuẩn bị cho ngày thi[Cần mang theo những gì khi đi thi IELTS](/vietnam/about/test-day/what-to-bring "Cần mang theo những gì khi đi thi IELTS") [Vào ngày thi](/vietnam/about/test-day "Vào ngày thi") [Sự kiện](/vietnam/events "Sự kiện") [Đổi lịch thi hoặc hủy thi IELTS](/vietnam/about/test-day/reschedule-cancel-ielts "Đổi lịch thi hoặc hủy thi IELTS")
+Đà Nẵng là nơi chuyển tiếp đan xen giữa khí hậu miền Bắc và miền Nam, với tính trội là khí hậu nhiệt đới ở phía Nam. Mỗi năm có hai mùa rõ rệt: mùa khô từ tháng 1 đến tháng 7 và mùa mưa từ tháng 8 đến tháng 12, đôi khi có những đợt rét mùa đông nhưng không kéo dài và trời không rét đậm.
 
-  Chuẩn bị cho các kỹ năng[![ielts-listening-icon]()Bài thi Nghe IELTS](/vietnam/prepare/listening "Bài thi Nghe IELTS") [![ielts-reading-icon]()Bài thi Đọc IELTS](/vietnam/prepare/reading "Bài thi Đọc IELTS") [![ielts-writing-icon]()Bài thi Viết IELTS](/vietnam/prepare/writing "Bài thi Viết IELTS") [![ielts-speaking-icon]()Bài thi Nói IELTS](/vietnam/prepare/speaking "Bài thi Nói IELTS")
+**Cuối tháng 12 đến cuối tháng 3**: Tiết trời mát mẻ và dễ chịu, lý tưởng nhất cho các chuyến du xuân. Giá cả dịch vụ khách sạn, ăn uống vào thời gian này được cho là bình ổn nhất trong năm. Lưu ý, du khách nên mang thêm áo khoác mỏng vì trời có thể se lạnh vào buổi tối, thi thoảng có mưa xuân.
 
-  [![diagnostic-icon]()
+**Đầu tháng 4 đến giữa tháng 9**: Đây là thời gian đẹp nhất để du lịch Đà Nẵng, song cũng là mùa cao điểm du lịch hè, khá đông đúc và đắt đỏ. Tháng 4 là [mùa cây rừng thay lá](https://vnexpress.net/ban-dao-son-tra-mua-thay-ao-3746607.html) vàng, lá đỏ trên bán đảo Sơn Trà.
 
-  ##### English self-assessment tool
+**Giữa tháng 9 đến cuối tháng 12**: Trời không còn nắng nóng, bắt đầu lác đác mưa rào nhưng không kéo dài. Mùa cao điểm đã qua, nên vé máy bay, dịch vụ lưu trú, ăn uống có giá cả hợp lý.
 
-  Check your reading and listening skills and get recommendations for your IELTS preparation.
+![](https://i1-dulich.vnecdn.net/2022/06/02/da-nang-1-4913-1654169672.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=mNEpnicM3GKbMoBJ2htqUQ)
 
-  Try now](https://ielts.idp.com/diagnostic-tool-preparation "diagnostic-tool")
+Đà Nẵng trong sương. Ảnh: Nguyễn Sanh Quốc Huy
 
-  Kho tài liệu[![expert-tips]() Kho tài liệu IELTS](https://ielts.idp.com/prepare/all-test-types/all-skills/article "Kho tài liệu IELTS") [![masterclass]() IELTS Masterclass](/vietnam/prepare/masterclass "IELTS Masterclass")
-* [Kết quả](/vietnam/results "Kết quả")
+Nếu đang lên kế hoạch đến Đà Nẵng năm 2022, bạn có thể tham khảo một số sự kiện sắp tới: Lễ hội "Tuyệt vời Đà Nẵng 2022" kéo dài suốt tháng 7; Lễ Hội Giao lưu Văn hóa Việt Nam – Nhật Bản 15/7; Lễ hội giao lưu văn hóa Việt Nam - Hàn Quốc từ 1 đến 4/9; Lễ hội Du lịch Golf Đà Nẵng 1/9; Lễ Hội "Đà Nẵng Chào Năm Mới 2023" vào 1/12...
 
-  Kiểm tra kết quả
+### Di chuyển
 
-  ![]()
+Du khách từ Hà Nội và TP HCM thường di chuyển **bằng máy bay,** với giá vé khoảng 1.300.000 - 3.000.000 đồng khứ hồi, tùy thời điểm đặt. Thời gian bay khoảng 1 tiếng.
 
-  #### Kiểm tra kết quả
+Dư dả thời gian hơn, du khách có thể **đi tàu hỏa** để trải nghiệm ngắm cảnh dọc đường, đặc biệt là đoạn qua [đèo Hải Vân](https://vnexpress.net/deo-hai-van-nhin-tu-toa-tau-lua-3520920.html) nếu bạn đi từ phía bắc vào. Vé tàu từ Hà Nội hoặc TP HCM đến Đà Nẵng có giá từ khoảng 600.000 đồng đến 1.100.000 đồng một chiều, tương ứng với ghế ngồi mềm có điều hòa và giường nằm khoang bốn điều hòa. Thời gian di chuyển khoảng 17 đến 18 tiếng.
 
-  Truy cập tài khoản IELTS IDP để kiểm tra kết quả và nhiều tiện ích khác
+![](https://i1-dulich.vnecdn.net/2022/06/01/tau-hoa-6702-1654080409.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=Z2dWHXtZM65SsPgFiyiHEQ)
 
-  [Đăng nhập ngay](https://account.ielts.idp.com/ "Đăng nhập ngay")
+Đoàn tàu chạy qua cung đường sắt Hải Vân. Ảnh: *Hà Thành*
 
-  Thang điểm IELTS[![ielts-calculator]() Cách tính điểm IELTS](/vietnam/results/scores "Cách tính điểm IELTS") [![ielts-listening-icon]() Thang điểm IELTS Listening](/vietnam/results/scores/listening "Thang điểm IELTS Listening") [![ielts-reading-icon]() Thang điểm IELTS Reading](/vietnam/results/scores/reading "Thang điểm IELTS Reading") [![ielts-writing-icon]() Thang điểm IELTS Writing](/vietnam/results/scores/writing "Thang điểm IELTS Writing") [![ielts-speaking-icon]() Thang điểm IELTS Speaking](/vietnam/results/scores/speaking "Thang điểm IELTS Speaking") [![ukvi-icon]() Điểm số IELTS Life Skills](/vietnam/results/scores/life-skills "Điểm số IELTS Life Skills")
+Nếu có kế hoạch **tự lái ôtô**, bạn cần dành ít nhất một tuần cho chuyến du lịch Đà Nẵng và nên có hai tài xế thay phiên cầm lái. Từ Hà Nội, lý tưởng nhất là xuất phát từ trưa hoặc đầu giờ chiều, nghỉ một đêm ở Nghệ An. Nếu đi muộn hơn, ngủ tại Thanh Hóa, sáng hôm sau xuất phát vào Đà Nẵng. Chiều về bạn có thể dừng ở Quảng Bình để vừa nghỉ ngơi, vừa khám phá thêm.
 
-  Các bước tiếp theo[![osr-icon-header]() IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake") [![ielts online]() Nhận kết quả thi IELTS nhanh chóng](/vietnam/results/faster-test-results "Nhận kết quả thi IELTS nhanh chóng") [![remark]() Yêu cầu phúc khảo](/vietnam/results/request-remark "Yêu cầu phúc khảo") [![Access computer-based results]() Yêu cầu cấp thêm bảng điểm](/vietnam/results/request-additional-trf "Yêu cầu cấp thêm bảng điểm") [![reader]() Tải các mẫu đơn](/vietnam/prepare/downloadable-form "Tải các mẫu đơn") [![idp]() IELTS - Tấm vé vàng để đi du học](https://www.idp.com "IELTS - Tấm vé vàng để đi du học")
-* [Cộng đồng IELTS](https://ielts.idp.com/ielts-community "Cộng đồng IELTS")
+Tại Đà Nẵng, khách nên thuê xe máy hoặc ôtô để di chuyển linh hoạt. Việc thuê xe khá thuận tiện, có thể giao nhận tại sân bay hoặc khách sạn với giá trung bình 100.000 đồng cho xe máy và khoảng 1.000.000 đồng cho xe ôtô trong một ngày.
 
-  Cộng đồng IELTS IDP
+### Khách sạn và resort
 
-  ![]()
+Du lịch tại Đà Nẵng phát triển nhanh chóng. Dọc con đường ven biển, du khách dễ dàng tìm thấy các khách sạn với nhiều mức giá khác nhau. Bên cạnh đó, Đà Nẵng còn có rất nhiều hình thức lưu trú khác như homestay, căn hộ, phòng tập thể nằm trong trung tâm. Tùy theo túi tiền và nhu cầu mà du khách có thể lựa chọn phù hợp, nhưng nên đặt trước để tránh tình trạng cháy phòng vào cuối tuần, mùa cao điểm.
 
-  #### Cộng đồng IELTS IDP
+Vì đầu năm thời tiết miền Trung khá lạnh về đêm, du khách nên chọn các phòng lưu trú khép kín, đầy đủ tiện nghi như nhà tắm riêng, thiết bị đun nước nóng, máy sấy tóc, bàn ủi và dịch vụ giặt sấy quần áo... Giá phòng ở các khách sạn 4 sao từ khoảng 500.000 đồng một đêm.
 
-  Lắng nghe những lời khuyên, trả lời cho những câu hỏi thường gặp từ chính chuyên gia IELTS với nguồn thông tin đáng tin cậy.
+![](https://i1-dulich.vnecdn.net/2022/06/02/khach-san-da-nang-3958-1654169672.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=gWLwbzJjDb16IVMiuEMFgg)
 
-  [Khám phá cộng đồng IELTS](https://ielts.idp.com/ielts-community "Khám phá cộng đồng IELTS")
+Khách sạn A La Carte có bể bơi vô cực với tầm nhìn về biển. Ảnh: ALC
 
-  Tìm hiểu thêm[![ielts-by-idp-app]() Ứng dụng IELTS by IDP](/vietnam/lp/ielts-by-idp-app "Ứng dụng IELTS by IDP")
+Những resort, khách sạn 5 sao nổi tiếng ở Đà Nẵng bạn có thể tham khảo gồm InterContinental Đà Nẵng Sun Peninsula Resort, Hyatt Regency Danang Resort and Spa, Pullman, Furama Resort Danang, Four Points by Sheraton Danang, Novotel, Hilton, Fusion Suites, Danang Golden Bay Hotel... Giá phòng dao động từ 1.200.000 đến 10.000.000 đồng một đêm.
 
-  Kênh mạng xã hội
+### Chơi đâu
 
-  [![youtube]()](https://www.youtube.com/%40IELTSbyIDPVietnam)[![instagram]()](https://www.instagram.com/ieltsbyidpvietnam/)[![linkedin]()](https://www.linkedin.com/showcase/idp-vietnam/)[![facebook]()](https://www.facebook.com/ieltsbyidpvietnam/)[![zalo]()](https://zalo.me/3587922624351485800)[![tiktok]()](https://www.tiktok.com/%40ieltsbyidpvietnam)
+> Ngoại thành
 
-  Cảm nghĩ về IDP
+Địa điểm đẹp ngoài thành phố Đà Nẵng có bán đảo Sơn Trà, núi Ngũ Hành Sơn, rạn Nam Ô, đèo Hải Vân.
 
-  ![testimonial]()
+**Bán đảo Sơn Trà**
 
-  Nhân viên IELTS thân thiên, hỗ trợ thí sinh nhiệt, vui vẻ. Văn phòng IDP rất đẹp, 10 điểm không có nhưng
+Được ví như viên ngọc quý của Đà Nẵng, bán đảo Sơn Trà đây sở hữu cánh rừng nguyên sinh rộng lớn và nhiều bãi tắm đẹp như Tiên Sa, Đá Đen, bãi Bụt... Con đường trên bán đảo uốn lượn đi qua các vị trí có thể ngắm toàn cảnh thành phố từ trên cao như đỉnh Bàn Cờ, chùa Linh Ứng, nhà Vọng Cảnh, hải đăng Sơn Trà, trạm radar "mắt thần Đông Dương".
 
-  ![avatar]()
+Đến đây, du khách có thể tham gia nhiều hoạt động hấp dẫn như lặn biển ngắm san hô, câu cá cùng ngư dân, chiêm ngưỡng thành phố từ trực thăng, trên đỉnh Bàn Cờ... Đặc biệt, ngôi chùa Linh Ứng nằm trên đỉnh đồi cũng là điểm bạn không nên bỏ qua. Nơi đây đặt bức tượng Phật Quan Thế Âm cao nhất Việt Nam, hướng mặt ra biển. Trong lòng tượng gồm 17 tầng, mỗi tầng có bệ thờ 21 tượng Phật với hình dáng, tư thế và vẻ mặt khác nhau.
 
-  ##### Thanh Nguyen
+![Ban-dao-Son-Tra-Pham-Phung-2-J-5005-7025]( "Ảnh: Phạm Phùng")
 
-  19/06/2024
+![Ban-dao-Son-Tra-Pham-Phung-6-1-4537-5585]( "Ảnh: Phạm Phùng")
 
-  [Xem thêm các chia sẻ](/vietnam/about/where-ielts-can-take-me/success-stories)
-* [Về IELTS](/vietnam/about "Về IELTS")
+Trên bán đảo có các nhánh đường phụ xuống nhiều bãi biển đẹp như Bãi Bụt, Bãi Nam, Bãi Đá Đen, Bãi Đa, [Mũi Nghê](https://vnexpress.net/mui-nghe-ho-boi-tu-nhien-giua-bien-4447183.html)... Ngoài ra, ở khu vực này còn có [cây đa Sơn Trà](https://vnexpress.net/cay-da-hon-800-nam-tuoi-tren-ban-dao-son-tra-4455731.html) và cây đa "con nai" nghìn năm tuổi với hình thù độc đáo thích hợp chụp ảnh.
 
-  [HỢP TÁC VỚI IELTS](/vietnam/about "HỢP TÁC VỚI IELTS")  [IELTS dành cho giáo viên](/vietnam/about/ielts-for-teachers "IELTS dành cho giáo viên")  [IELTS dành cho tổ chức](/vietnam/about/ielts-for-organisations "IELTS dành cho tổ chức")  [Đối tác IDP IELTS tại Việt Nam](/vietnam/partners "Đối tác IDP IELTS tại Việt Nam")
+Bán đảo cũng là nơi sinh sống của hàng trăm loài động vật. Trong đó, voọc chà vá chân nâu được mệnh danh là "nữ hoàng linh trưởng" trên bán đảo Sơn Trà, với quần thể khoảng 300 - 400 con, được bảo tồn nghiêm ngặt. Để phát hiện ra những đàn voọc này, ngoài việc quan sát màu sắc phát ra từ bộ lông, du khách cần chú ý lắng nghe khi chúng kêu hoặc nhảy từ cành này sang cành khác.
 
-  Giới thiệu IDP IELTS[![globe]() Các tổ chức công nhận](/vietnam/about/who-accepts-ielts/organisations-that-accept-ielts "Các tổ chức công nhận") [![Latest updates icon - Global rebrand header]() Tin tức và bài viết cập nhật](/vietnam/about/news-and-articles "Tin tức và bài viết cập nhật") [![why-choose-ielts]() Tại sao chọn IELTS?](/vietnam/about/news-and-articles/article-who-takes-ielts "Tại sao chọn IELTS?") [![FAQ]() Câu hỏi thường gặp về IELTS](/vietnam/faq/ielts-faq "Câu hỏi thường gặp về IELTS")
+Lưu ý, du khách cần giữ gìn cảnh quan thiên nhiên, không cho động vật hoang dã ăn. Các tuyến đường bị cấm sử dụng xe tay ga gồm: đoạn từ đường Hoàng Sa đi cây đa nghìn năm; nút giao đường Yết Kiêu đi đỉnh Bàn Cờ - Bãi Bắc; nút giao đường Yết Kiêu đi Suối Ôm và ngược lại. Đây là ba tuyến chính người dân và du khách thường xuyên lên tham quan bán đảo Sơn Trà. Xe máy loại tay côn và số được đi lại bình thường.
 
-  TIN TỨC, BÀI VIẾT CẬP NHẬT
+![Ban-dao-Son-Tra-Pham-Phung-8-J-9663-1318]( "Voọc trên bán đảo Sơn Trà. Ảnh: Phạm Phùng")
 
-  [![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+![vooc-son-tra-jpeg-7822-1654151744.jpg]( "Voọc được mệnh danh là")
 
-  ##### Các dạng bài & cách viết IELTS Writing Task 1](/vietnam/about/news-and-articles/article-ielts-writing-task-1)[![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+![cay-da-son-tra-da-nang-jpeg-7594-1654151]( "Cây đa 800 tuổi trên bán đảo Sơn Trà. Ảnh: Huỳnh Nhi")
 
-  ##### Các dạng Writing Task 2 thường gặp và định hướng làm bài](/vietnam/about/news-and-articles/article-ielts-writing-task-2)[![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+Ngoài ra, bán đảo Sơn Trà còn hấp dẫn ở những bãi biển hoang sơ. Nằm ẩn mình trong một eo biển rất đẹp, Bãi Bụt (Vịnh Bụt) là nơi giao hòa giữa biển cả với núi rừng. Ngoài ra còn có Bãi Bắc là điểm đến mới phát triển của du lịch Đà Nẵng, nằm trong vịnh biển phía bắc Sơn Trà. Vùng biển quanh bán đảo có nhiều rạn san hô đẹp, nhưng tình trạng xả rác và hành vi thiếu ý thức của một số người lặn ngắm san hô như dẫm, đạp, bẻ... gây hư hại nghiêm trọng.
 
-  ##### IELTS Speaking Part 1: Các chủ đề thường gặp và bí quyết trả lời](/vietnam/about/news-and-articles/article-ielts-speaking-test-part-1)
+![](https://i1-dulich.vnecdn.net/2022/06/02/Son-Tra-2238-1654169672.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=FScJfxXuNeEPtYatWhzlZg)
 
-  [Read more](/vietnam/about/news-and-articles)
+Tượng Phật Bà Quan thế âm Bồ Tát tại chùa Linh Ứng - Bãi Bụt, hướng nhìn về bán đảo, cách trung tâm Đà Nẵng khoảng 10 km. Ảnh: *Võ Văn Việt*
 
-![language](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/icons/language.svg)VI
+**Suối Tiên**
 
-* Vietnamese
-* English
-* Simplified Chinese
+Suối Tiên là một trong những con suối lớn bắt nguồn từ đỉnh Sơn Trà - một trong những điểm đến đẹp như tiên cảnh với thác nước trắng xóa, các khối đá nhiều hình thù độc đáo, các loài hoa rừng bung nở khoe sắc cùng hương thơm ngào ngạt. Đến với suối Tiên, bạn sẽ được hòa mình và thiên nhiên tuyệt đẹp đầy sắc màu.
 
- [Đăng ký thi ngay](https://bxsearch.ielts.idp.com/wizard)
+**Bà Nà Hills**
 
-* [IDP IELTS Việt Nam](/vietnam)
-* [Kết quả thi IELTS của bạn](/vietnam/results)
-* [Thang điểm IELTS và cách tính điểm IELTS Overall chuẩn nhất](/vietnam/results/scores)
-* [Thang điểm IELTS Reading](/vietnam/results/scores/reading)
+Điểm du lịch này cách Đà Nẵng khoảng 40 km. Du khách có thể trải nghiệm không khí se lạnh và thời tiết 4 mùa trong ngày khi ghé thăm các điểm tham quan nổi bật như chùa Linh Ứng, Hầm rượu Debay, vườn hoa Le Jardin D'Amour, Cầu Vàng... Ngủ đêm trên làng Pháp cũng là một trải nghiệm thú vị cho khách đến [Bà Nà Hills](https://vnexpress.net/cam-nang-du-lich-ba-na-hills-4866205.html).
 
-![Male IELTS test taker in chequered shirt attending an IELTS on computer test along with other test takers](//images.ctfassets.net/unrdeg6se4ke/4KY5cViDXtpxCKQjdUqES8/63558f8dd96c3631ed65ab9e35639bb9/ielts-banner-35.png?&fm=avif&fit=fill&w=1440&h=462)
+![cau-vang-jpeg-9366-1654247848.jpg]( "Cầu Vàng nổi tiếng của Bà Nà. Ảnh Sun Group")
 
-# Thang điểm IELTS Reading
+![Da-Nang-jpeg-8849-1654238180.jpg]( "Thị trấn châu Âu tại Bà Nà. Ảnh: Vietravel")
 
-Bài thi IELTS Reading sẽ bao gồm 40 câu hỏi cho ba bài đọc dài. Cùng IDP tìm hiểu cách tính điểm theo từng thang điểm cho bài thi IELTS Reading của bạn.
+**Giếng Trời**
 
-Phần IELTS Reading gồm 40 câu hỏi cho ba bài đọc dài. Mỗi câu trả lời đúng nhận về 1 điểm. Tổng số câu trả lời đúng sẽ quyết định điểm số sơ bộ để từ đó quy đổi ra số điểm theo thang điểm tương ứng. Điều quan trọng là bạn phải cố gắng trả lời tất cả các câu hỏi vì câu trả lời trống sẽ không được điểm. Điểm số này sau đó được sử dụng để tính tổng điểm cho bài thi IELTS của bạn.
+Nằm trong khu bảo tồn Bà Nà – Núi Chúa, [Giếng Trời](https://vnexpress.net/gieng-troi-diem-hap-dan-cho-dan-phuot-da-thanh-3299699.html) có cảnh vật hoang sơ chính là nguồn cảm hứng đối với dân phượt, với các loại hình dã ngoại như trekking, leo núi, cắm trại hay tắm suối.
 
-Các câu hỏi bao gồm nhiều dạng, từ câu hỏi trắc nghiệm đến xác định thông tin và quan điểm của người viết, nối thông tin phù hợp, tiêu đề, đặc điểm và câu kết thúc, hoàn thành câu, tóm tắt, ghi chú, bảng, nhãn biểu đồ hoặc biểu đồ, và câu trả lời ngắn.
+Xuất phát từ bãi giữ xe của khu cáp treo Bà Nà, phượt thủ phải chinh phục 7,5 km đường đèo dốc quanh co, vượt suối băng rừng... Qua được con dốc đầu tiên thì chặng đường còn lại rất dễ đi. Cũng vì thế mà nơi đây như một chốn biệt lập. Hai dòng suối từ phía tây của khu rừng Bà Nà hợp lưu tại một hẻm núi rồi đổ xuống.
 
-Phần bài đọc Học thuật và Tổng quát sẽ được chấm theo cùng một thang điểm. Bài kiểm tra Đọc Học thuật có thể bao gồm các văn bản có từ vựng khó hơn hoặc có phong cách phức tạp hơn. Thông thường, phải trả lời đúng nhiều câu hỏi hơn trong bài kiểm tra Đọc Tổng quát để đạt được điểm số nhất định.
+![gieng-troi-ba-na-nui-chua-da-n-4755-7978]( "Ảnh: Hồ Ngọc Thanh")
 
-Sau đây là số điểm trung bình đạt được ở các cấp độ khác nhau của [thang điểm IELTS](https://ielts.idp.com/vietnam/results/scores) trong phần Đọc Học thuật và Đọc Tổng quát. Số điểm chính xác cần đạt để đạt được các điểm số này sẽ thay đổi đôi chút tùy theo từng phiên bản bài kiểm tra.
+![gieng-troi-ba-na-nui-chua-da-n-3402-2134]( "Ảnh: Hồ Ngọc Thanh")
 
-Thang điểm 40 câu:
+**Ngũ Hành Sơn**
 
-**Academic**
+Cách trung tâm Đà Nẵng 8 km, Ngũ Hành Sơn là nơi có nhiều ngôi chùa linh thiêng cùng hệ thống các hang động tự nhiên. Theo con đường ven biển trải dài hút mắt về phía Hội An, mở ra trước mắt du khách là "hòn non bộ" khổng lồ mang tên Ngũ Hành Sơn. Với các tên gọi được đặt theo thuyết ngũ hành gồm Kim Sơn, Mộc Sơn, Thủy Sơn, Hỏa Sơn và Thổ Sơn, mỗi ngọn núi ở đây lại mang trong mình những câu chuyện truyền thuyết cùng vẻ đẹp huyền bí khác nhau.
 
-* **Band Score 5:** Reading 15
-* **Band Score 6:** Reading 23
-* **Band Score 7:** Reading 30
-* **Band Score 8:** Reading 35
+![](https://i1-dulich.vnecdn.net/2022/06/02/ngu-hanh-son-jpeg-8049-1654151745.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=2Kg9WS8lbP6h_6On9xKfUA)
 
-**General Training**
+Để đi hết từ động Quan Âm (Kim Sơn), Huyền Vi (Hỏa Sơn) đến động Âm Phủ, Hoa Nghiêm, Linh Nha, Huyền Không, Vân Thông, Thiên Long, Thiên Phước Địa (Thủy Sơn)..., bạn có thể sẽ mất vài ngày. Tất cả tuy không đồ sộ, hoành tráng nhưng lại mang đến nhiều cung bậc cảm xúc khác nhau nhờ vẻ đẹp linh thiêng, huyền ảo.
 
-* **Band Score 4:** Reading 15
-* **Band Score 5:** Reading 23
-* **Band Score 6:** Reading 30
-* **Band Score 7:** Reading 35
+Lần theo những con đường xuyên núi ở Ngũ Hành, du khách sẽ bất ngờ rẽ quặt vào một hang động hay ngôi chùa nào đó. Tại Kim Sơn có chùa và động Quan Âm; Hỏa Sơn có chùa Linh Sơn và động Huyền Vi, chùa và hang Phổ Đà Sơn; Thổ Sơn có chùa Long Hoa, Huệ Quang; Thủy Sơn có chùa Tam Thai, Linh Ứng, Tam Tôn, Từ Tâm...
 
-### Band scores
+Các ngôi chùa ở đây hầu hết đều có thế tựa lưng vào núi, tuy nằm không quá cao nhưng tĩnh mịch, linh thiêng. Cùng với những làn gió mát dịu từ biển thổi vào và không gian xanh của núi non, cây cối, du khách sẽ dễ dàng cảm nhận được một cõi bình yên, thanh thản.
 
-### Reading band scores
+![](https://i1-dulich.vnecdn.net/2022/06/02/cay-di-san-3-jpeg-5022-1654151745.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=499_zPSFMfQQfDR-IBlDZA)
 
-Thang điểm 9
+Danh thắng Ngũ Hành Sơn có bảy cây di sản. Ảnh: Nguyễn Đo
 
-**Cấp độ kỹ năng**
+![cay-di-san-jpeg-2584-1654151745.jpg]( "Ở sườn nam ngọn Thủy Sơn là 3 cây bồ kết nằm lọt trong động Tàng Chơn. Cây nhỏ nhất khoảng 160 tuổi, cây lớn nhất chừng 210 tuổi. Ảnh: Nguyễn Đông")
 
-Khả năng chuyên gia
+![cay-di-san-ngu-hanh-son-jpeg-9179-165415]( "Cây đa sộp khoảng 600 tuổi nằm ở sườn đông ngọn Thủy Sơn, sau lưng chùa Linh Ứng. Ảnh: Nguyễn Đông")
 
-**Mô tả**
+![ngu-hanh-son-2-jpeg-7185-1654151745.jpg]( "Phía sau chùa Tam Thai có cây thị hơn 200 năm tuổi. Do nằm lọt thỏm trong khu vực nhà chùa đã xây nhà ở, du khách muốn chiêm ngưỡng phải đi vòng sang phía bên phải chùa (theo hướng từ cổng vào). Ảnh: Nguyễn Đông")
 
-Rất thông thạo ngôn ngữ: sử dụng từ ngữ thích hợp, chính xác và trôi chảy cùng với sự hiểu biết sâu sắc.
+Ngoài ra, nếu muốn thử cảm giác mạo hiểm, bạn hãy trải nghiệm [leo núi ở động Vân Thông](https://vnexpress.net/khach-tay-thich-thu-leo-nui-mao-hiem-o-ngu-hanh-son-3503997.html) hay thả từ đỉnh núi xuống độ cao 25m.
 
-Thang điểm 8
+**Đèo Hải Vân**
 
-**Cấp độ kỹ năng**
+Đèo Hải Vân cách trung tâm Đà Nẵng khoảng một giờ chạy xe máy. Đèo có chiều dài 21 km, với đỉnh cao nhất là 496 m so với mực nước biển. Hải Vân có nghĩa là "biển mây". Nơi này từng được Jeremy Clarkson, dẫn show truyền hình thực tế Top Gear (Anh) nhận xét là "một trong những cung đường ven biển đẹp nhất thế giới".
 
-Khả năng rất giỏi
+![](https://i1-dulich.vnecdn.net/2022/06/02/deo-hai-van-jpeg-2870-1654151745.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=GilXeLUCa4d0TAKOBRRlEA)
 
-**Mô tả**
+Một khúc cua trên đèo Hải Vân. Ảnh: *Vietravel*
 
-Thông thạo ngôn ngữ, rất hiếm khi mắc lỗi về sự chính xác và phù hợp; và các lỗi này không mang tính hệ thống. Có thể hiểu sai trong những tình huống không quen thuộc. Có thể thảo luận tốt những chi tiết phức tạp.
+Hiện có hai con đường qua đèo Hải Vân: hầm đường bộ xuyên đèo Hải Vân (không dành cho xe máy) và đường đèo Hải Vân.
 
-Thang điểm 7
+*Hầm đường bộ xuyên đèo Hải Vân* mở cửa hàng ngày, có thu phí. Thời gian đóng hầm là 3h đến 4h sáng mỗi ngày để vệ sinh, sửa chữa, bảo trì các hạng mục đường hầm. Nếu đi theo đường hầm, du khách sẽ không thể ngắm cảnh hay tham quan một số địa điểm nổi tiếng trên đèo Hải Vân.
 
-**Cấp độ kỹ năng**
+*Đường đèo Hải Vân* mở cửa hàng ngày, miễn phí. Du khách nên chọn tuyến đường này nếu muốn trải nghiệm cảm giác chinh phục đèo, ngắm cảnh thỏa thích. Du khách cần lưu ý phải giảm tốc độ mỗi khi có sương phủ.
 
-Khả năng tốt
+Dịp đầu năm, du khách có thể chụp ảnh "săn mây" tại khúc cua nổi tiếng, đỉnh Hải Vân Quan, khu vườn "trên mây" đối diện Hải Vân Quan, hoặc xuống làng Vân tắm biển. Thời gian tham quan lý tưởng là bình minh hoặc hoàng hôn.
 
-**Mô tả**
+![Thác mây tại đèo Hải Vân gây sốt](https://iv1.vnecdn.net/dulich/images/web/2022/01/27/thac-may-tai-deo-hai-van-gay-sot-1643254575.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=4DCw2fp4lvVmcTNAkpPgiA)
 
-Có sự thông thạo về sử dụng ngôn ngữ thực tế, mặc dù đôi khi vẫn mắc lỗi về sự chính xác, thích hợp và hiểu lầm trong một số tình huống. Nhìn chung, có thể xử lý tốt ngôn ngữ phức tạp và hiểu được lý do chi tiết.
+[](https://d1.vnecdn.net/dulich/video/video/web/mp4/2022/01/27/thac-may-tai-deo-hai-van-gay-sot-1643254575/index-v1-a1.m3u8)
 
-Thang điểm 6
+Thác mây tại đèo Hải Vân gây sốt
 
-**Cấp độ kỹ năng**
+Mây trắng cuồn cuộn vượt qua núi. Video: @utcuong1998/TikTok
 
- Đủ năng lực
+**Rạn Nam Ô**
 
-**Mô tả**
+![](https://i1-dulich.vnecdn.net/2022/06/02/Ran-Nam-O-5265-1654169672.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=lTsOhsZ8tOV9g9ZKoE6NQA)
 
-Có khả năng sử dụng ngôn ngữ hiệu quả và vẫn còn một số chỗ sai sót, chưa phù hợp hoặc nhầm lẫn. Có thể dùng và hiểu ngôn ngữ ở mức tương đối phức tạp, đặc biệt trong các tình huống quen thuộc.
+Ảnh: Nguyễn Đông
 
-Thang điểm 5
+Nằm cách trung tâm khoảng 17 km, Rạn đá Nam Ô ở phường Hòa Hiệp Nam, quận Liên Chiểu, TP Đà Nẵng. Cái tên Nam Ô để chỉ là cửa ô phía Nam của nước Đại Việt từ 700 năm trước. Đây là nơi cư dân đông đúc, chủ yếu hành nghề ngư lưới cụ. Nam Ô còn nổi tiếng với nghề làm pháo và nước mắm truyền thống.
 
-**Cấp độ kỹ năng**
+Đây là bãi đá dài có nhiều hình thù kỳ lạ phủ đầy rêu xanh nằm bên bờ biển. Hoàng hôn và bình minh là hai thời điểm nhiều người tìm đến ghềnh đá để có được những bức ảnh ưng ý. Ở vùng này còn có đặc sản [gỏi cá Nam Ô](https://vnexpress.net/goi-ca-tru-danh-o-lang-chai-nam-o-4357534.html) và nước mắm Nam Ô trứ danh được lưu truyền qua nhiều thế hệ làng biển nơi đây.
 
-Khả năng sử dụng vừa phải
+**Ghềnh Bàng**
 
-**Mô tả**
+[Ghềnh Bàng](https://vnexpress.net/da-ngoai-cuoi-tuan-o-ghenh-bang-da-nang-4460655.html) là điểm đến nổi tiếng trong giới du lịch bụi Đà Nẵng khoảng 3 năm nay. Nơi này nằm trên bán đảo Sơn Trà, cách trung tâm thành phố Đà Nẵng khoảng 15 km, theo hướng đường Hoàng Sa. Ghềnh Bàng cùng với mũi Súng, [mũi Nghê](https://vnexpress.net/mui-nghe-ho-boi-tu-nhien-giua-bien-4447183.html), bãi cát Vàng, bãi đá Đen... đã tạo nên những cảnh quan thiên nhiên cuốn hút du khách đến khám phá.
 
-Thông thạo một phần ngôn ngữ, hiểu ý nghĩa chung trong hầu hết các tình huống và có thể mắc nhiều lỗi. Có thể giao tiếp cơ bản trong lĩnh vực quen thuộc.
+Với đường với biển dài chừng 2 km, ghềnh Bàng có các bãi cát bằng phẳng, bãi đá lớn nhỏ nhô ra biển, những bãi san hô... Du khách đến ghềnh Bàng thường chuẩn bị củi lửa, thức ăn nhẹ, nước uống để cắm trại hoặc dã ngoại trong ngày.
 
-Thang điểm 4
+![](https://i1-dulich.vnecdn.net/2022/06/02/ghenh-bang-2321-1654169672.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=AAaWcWxk0CTY5wN2h45g1A)
 
-**Cấp độ kỹ năng**
+Ảnh: Huỳnh Nhi
 
-Khả năng sử dụng hạn chế
+**Làng nghề**
 
-**Mô tả**
+Cách trung tâm Đà Nẵng 14 km về phía Tây Nam, *làng chiếu Cẩm Nê* thuộc xã Hòa Tiến, huyện Hòa Vang. Nơi đây từ lâu đã nổi tiếng với các loại chiếu hoa truyền thống, từng được hiện diện ở nội triều vua nhà Nguyễn.
 
-Khả năng ngôn ngữ chỉ đủ xử lý các tình huống quen thuộc. Thường xuyên gặp khó khăn trong việc hiểu và diễn đạt. Không thể sử dụng ngôn ngữ phức tạp.
+![](https://i1-dulich.vnecdn.net/2022/06/02/Lang-chieu-cam-ne-5421-1654169672.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=rFNsmvtpImLX_f6_RXQH5Q)
 
-Thang điểm 3
+Ảnh: *Cổng Thông tin Du lịch thành phố Đà Nẵng*
 
-**Cấp độ kỹ năng**
+*Làng nghề bánh tráng Túy Loan* tọa lạc ở xã Hòa Phong, huyện Hoàng Vang, cách trung tâm thành phố chừng 15 km. Ngôi làng trên 500 tuổi thích hợp cho hành trình khám phá lịch sử Đà Nẵng. Làng nổi tiếng với nghề làm bánh tráng và mì Quảng.
 
-Khả năng sử dụng hạn chế
+![](https://i1-dulich.vnecdn.net/2022/06/02/lang-da-my-nghe-non-nuoc-7499-1654169672.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=SMex8onJFtVI9CNJB63GAw)
 
-**Mô tả**
+Ảnh: Vy An
 
-Truyền đạt và hiểu ý nghĩa chung chỉ trong những tình huống rất quen thuộc. Thường xuyên gặp khó khăn trong giao tiếp.
+*Làng đá mỹ nghệ Non Nước* nằm ngay chân núi Ngũ Hành. Làng nghề truyền thống gần 400 năm tuổi nổi tiếng với các sản phẩm mỹ nghệ bằng đá đẹp mắt và tinh xảo, được tạo nên bởi đôi bàn tay điêu luyện của các nghệ nhân.
 
-Thang điểm 2
+**Hồ Hòa Trung**
 
-**Cấp độ kỹ năng**
+Đây là hồ nhân tạo, cung cấp nước sinh hoạt và trồng trọt cho người dân hai xã Hòa Liên và Hòa Sơn, quận Liên Chiểu. Hồ được bao quanh bởi những đảo nổi, thích hợp với du khách ưa khám phá, cắm trại, picnic. Bạn nên chuẩn bị đồ ăn và nước uống đầy đủ cho việc cắm trại qua đêm bên hồ song cần lưu ý dọn dẹp, mang rác về nhà.
 
-Khả năng sử dụng gián đoạn
+[Hồ Hòa Trung](https://vnexpress.net/ho-hoa-trung-thao-nguyen-co-vang-cua-da-nang-3294500.html) cách trung tâm thành phố Đà Nẵng 20 km, bạn đi xe máy đến đây mất khoảng 40 phút. Từ thành phố chạy đường Âu Cơ (chợ Hòa Khánh) bạn men theo hướng Bà Nà, tìm về giáo xứ Hòa Ninh. Rẽ tay trái thấy đường bê tông, và cứ đi hết đường này bạn sẽ nhìn thấy con đường mòn chỉ rộng 30 cm bề ngang. Nếu gặp phải khó khăn khi tìm đường, hãy hỏi người dân.
 
-**Mô tả**
+![](https://i1-dulich.vnecdn.net/2022/06/02/ho-hoa-trung-da-nang-3583-1654169672.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=Br-YEcEuP1tT4j1DX4oZ4A)
 
-Không thể giao tiếp, chỉ có thể truyền đạt những thông tin cơ bản nhất, bằng cách sử dụng các từ rời rạc hoặc cấu trúc ngắn trong các tình huống quen thuộc và để đáp ứng nhu cầu tức thời. Rất khó khăn trong việc hiểu, nói và viết tiếng Anh.
+Ảnh: Trí Trịnh
 
-Thang điểm 1
+**Khu du lịch sinh thái**
 
-**Cấp độ kỹ năng**
+Những địa chỉ gợi ý là Khu du lịch sinh thái xã [Hòa Bắc](https://vnexpress.net/mien-que-tho-mong-o-da-nang-4454829.html), Khu du lịch sinh thái Lái Thiêu, Khu Sinh Thái Suối Hoa, Khu Sinh Thái Suối Lương - Hai Van Park, Khu Du Lịch Hòa Phú Thành, Khu Du Lịch Sinh Thái Ngầm Đôi, Công viên Suối khoáng nóng Núi Thần Tài, Khu Du Lịch Khoáng Nóng Phước Nhơn... Đa số các khu sinh thái cung cấp dịch vụ vui chơi, giải trí, ăn uống, lưu trú... và có thu phí vào cổng.
 
-Không có khả năng sử dụng
+![](https://i1-dulich.vnecdn.net/2022/06/02/hoa-bac-da-nang-3164-1654169672.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=GHSYFtSFV9cpApsT6ggiFw)
 
-**Mô tả**
+Người dân Đà Nẵng cắm trại bên bờ sông Cu Đê, Khu du lịch sinh thái xã Hòa Bắc, huyện Hòa Vang. Ảnh: Phan Định
 
-Về cơ bản, không có khả năng sử dụng ngôn ngữ ngoài vài từ rời rạc.
+> Trong thành phố
 
-Thang điểm 0
+**Những cây cầu**
 
-**Cấp độ kỹ năng**
+Đà Nẵng vốn được mệnh danh là thành phố của những cây cầu ở Việt Nam. Cầu Rồng, cầu quay sông Hàn, cầu Trần Thị Lý, [cầu tình yêu](https://vnexpress.net/cay-cau-tinh-yeu-lang-man-ben-song-han-3417020.html) là những điểm tham quan hút khách đến vãn cảnh, check-in. Ngay gần cầu tình yêu là tượng cá chép hóa rồng.
 
-Không cố gắng thực hiện
+![Da-Nang-4605-1654080409.jpg]( "Tượng cá chép hóa rồng nằm bên bờ sông Hàn, xa xa là cầu Rồng. Ảnh: Hachi")
 
-**Mô tả**
+![du-lich-Da-Nang-5058-1654080409.jpg]( "Cầu tình yêu lúc hoàng hôn. Ảnh: Hachi")
 
- Không có thông tin để đánh giá.
+Đặc biệt, *cầu Rồng* đông khách hơn vào ba tối cuối tuần khi có màn trình diễn rồng phun nước, phun lửa. Từ 9h tối, nhiều du khách và người dân tập trung ở trên cầu, hai bên bờ sông Hàn hoặc các nhà cao tầng gần đó.
 
-Nếu điểm số phần IELTS Reading của bạn chưa đạt như mong muốn, bạn có thể đăng ký thi [IELTS One Skill Retake](https://ielts.idp.com/vietnam/about/ielts-one-skill-retake) - thi lại một kỹ năng bất kỳ. Tính năng này sẽ giúp bạn cải thiện điểm số đạt tối đa mà không cần phải thi lại toàn bộ bài thi IELTS. Hãy đăng ký thi IELTS tại IDP ngay.
+Các phương tiện lưu thông hai đầu cầu được dừng lại trong 15 phút của show diễn. Du khách nên chọn hướng đứng phù hợp, hoặc mặc áo mưa, che ô để tránh bị ướt khi xem màn trình diễn phun nước.
 
-## Tìm hiểu thêm
+![Cầu Rồng phun lửa ở Đà Nẵng](https://iv1.vnecdn.net/dulich/images/web/2022/06/01/cau-rong-phun-lua-o-da-nang-1654080402.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=MxvxwF2i4Q0y_qZaLSf9HQ)
 
-[![undefined]()Thang điểm IELTS](/vietnam/results/scores "Thang điểm IELTS")[![undefined]()Điểm số bài thi Viết IELTS](/vietnam/results/scores/writing "Điểm số bài thi Viết IELTS")[![undefined]()Điểm số Phần nghe IELTS](/vietnam/results/scores/listening "Điểm số Phần nghe IELTS")[![undefined]()Điểm số bài thi Nói IELTS](/vietnam/results/scores/speaking "Điểm số bài thi Nói IELTS")
+[](https://d1.vnecdn.net/dulich/video/video/web/mp4/2017/09/21/cau-rong-phun-lua-o-da-nang-1505982320/index-v1-a1.m3u8)
 
-## Tin tức và sự kiện nổi bật
+Cầu Rồng phun lửa ở Đà Nẵng
 
-[Xem tất cả bài viết](/vietnam/about/news-and-articles)
+Video: *Khôi Trần*
 
-[![A group of students in western outfits looking at their IELTS results together.]()Test day
+*Cầu Sông Hàn* là cầu quay đầu tiên của Việt Nam. Cầu sông Hàn có chiều dài 487,7 m rộng 12,9 m với 11 nhịp trong đó có hai nhịp dây văng. Phần cầu nằm trên trụ giữa sông có thể quay 90 độ song song theo phương dòng chảy để tàu lớn qua lại. Công trình còn là biểu tượng của sự kết hợp, đồng thuận giữa chính quyền và nhân dân, do người dân Đà Nẵng góp tiền xây dựng.
 
-Cách đọc lướt và đọc quét các từ khóa trong bài thi IELTS của bạn
+![](https://i1-dulich.vnecdn.net/2022/06/02/Cau-Song-han-da-nang-5702-1654169673.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=9Udk4r73laHLOIogMrhR4g)
 
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-how-to-skim-scan-for-keywords)
+Cầu sông Hàn là một phần hình ảnh logo của thành phố Đà Nẵng và cũng hiện diện trên biển tên đường phố Đà Nẵng. Ảnh: *Hà Thành*
 
-[![A group of students sit at a table and study around for their IELTS test.]()Band scores
+*Cầu Thuận Phước* là cầu dây võng lớn nhất Việt Nam. Cầu có chiều dài 1.856 m, chiều rộng 18 m, có hai mố ở hai đầu cầu và hai tháp trụ treo cáp cắm xuống lòng sông.
 
-Bài thi Viết Phần 1 của IELTS: Làm thế nào để đạt thang điểm 7.0 trở lên](/vietnam/about/news-and-articles/article-ielts-academic-writing-task-1-band-7-task-achievement)
+*Cầu Trần Thị Lý* mang tên nữ anh hùng trong kháng chiến chống Mỹ quê ở Quảng Nam. Cầu nằm về phía nam cầu Rồng, cách cầu Rồng khoảng 1,5 km. Trước đây có một cây cầu cũ cùng tên, song đã được thay thế bởi cây cầu mới như hiện nay.
 
-[![Các dạng bài Reading IELTS ]()Preparation
+![Cau-Thuan-Phuoc-da-nang-8559-1654169673.]( "Cầu Thuận Phước. Ảnh: Hà Thành")
 
-IELTS Reading: Các dạng bài thường gặp và chiến thuật làm bài
+![Cau-Tran-Thi-Ly-da-nang-6742-1654169673.]( "Cầu Trần Thị Lý. Ảnh: Hà Thành")
 
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-reading-common-questions)
+![](https://i1-dulich.vnecdn.net/2022/06/02/4-Cau-Rong-Han-Cau-Thuan-Phuoc-6049-1654169673.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=YUZ098MPNEGgbAK7OVV4cA)
 
-[![IELTS Reading Tips ]()Preparation
+Đà Nẵng còn được mệnh danh là "thành phố ánh sáng" khi những cây cầu, các tòa cao ốc và khu dân cư đồng loạt lên đèn về đêm. Ảnh: Nguyễn Sanh Quốc Huy
 
-IELTS Reading Tips: Những bí quyết cải thiện kỹ năng Reading khi luyện thi IELTS
+**Biển Mỹ Khê**
 
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-reading-tips)
+Biển Mỹ Khê từng được tạp chí *Forbes* (Mỹ) bình chọn là một trong 6 bãi biển quyến rũ nhất hành tinh và trong top 25 biển đẹp nhất châu Á năm 2021 của TripAdvisor. Bãi tắm trải dài 900 m trên đường Phạm Văn Đồng, thuộc quận Sơn Trà. Ngắm bình minh trên biển Mỹ Khê, du khách có cơ hội tìm hiểu thêm về [đời sống của ngư dân](https://vnexpress.net/binh-minh-cung-ngu-dan-tren-bien-my-khe-3084181.html) địa phương.
 
-[![Gap Filling]()Preparation
+![](https://i1-dulich.vnecdn.net/2022/06/02/My-Khe-Da-Nang-2450-1654169673.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=4sJaQr23FXvbPITnyQyNBw)
 
-Cách làm dạng bài Gap Filling trong IELTS Reading
+Ảnh: Hoàng Nam Dương
 
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-gap-filling)
+**Cung Văn hóa Thiếu nhi thành phố**
 
-[![Cách học IELTS Reading cho người mới bắt đầu]()Preparation
+[Cung Văn hóa Thiếu nhi Đà Nẵng](https://vnexpress.net/cung-van-hoa-thieu-nhi-tram-ty-tao-diem-nhan-o-da-nang-3593628.html) là điểm check-in được lòng giới trẻ nhờ thiết kế dựa trên ý tưởng trò chơi xếp hình Tangram. Công trình này đã nhận giải vàng Kiến trúc quốc gia 2016, do Hội Kiến trúc sư Việt Nam trao tặng. Điểm đến này tọa lạc trên đường 2/9, quận Hải Châu. Cung có 3 tầng gồm các khu đa chức năng, khu vui chơi, giải trí, phòng học, thư viện, hội trường...
 
-Bật mí cách học IELTS Reading cho người mới bắt đầu hiệu quả
+![](https://i1-dulich.vnecdn.net/2022/06/02/cung-van-hoa-thieu-nhi-Da-Nang-8200-1654169673.png?w=0&h=0&q=100&dpr=1&fit=crop&s=ykBKaeVxK_OduyzRdO2rbg)
 
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-reading-for-beginners)
+Ảnh: Nguyễn Đông
 
-[![Female IELTS test taker wearing a grey t-shirt reading a book in a library prepares for the IELTS Reading test]()Preparation
+**Bảo tàng**
 
-IELTS Reading: Cách làm bài dạng câu hỏi True/False/Not given hoặc Yes/No/Not Given](/vietnam/about/news-and-articles/article-a-closer-look-at-true-false-not-given)
+*Bảo tàng Nghệ thuật Điêu khắc Chăm* tọa lạc ở số 2, đường 2/9, quận Hải Châu. Đây là bảo tàng duy nhất về nền văn hóa Chăm, lưu giữ những di vật của Vương quốc Chăm Pa xưa. Bảo tàng mở cửa từ 7h đến 17h hàng ngày, vé tham quan giá 60.000 đồng một lượt, có dịch vụ thuyết minh tự động và xem thông tin hiện vật bằng ứng dụng, công nghệ scan 4D.
 
-[![Sentence Completion IELTS Reading]()Preparation
+![bao-tang-dieu-khac-cham-da-nan-4472-5327]( "Ảnh: Trung tâm Xúc tiến Du lịch Đà Nẵng")
 
-Cách làm dạng bài Sentence Completion trong IELTS Reading
+![bao-tang-dieu-khac-cham-da-nan-4073-2523]( "Ảnh: Trung tâm Xúc tiến Du lịch Đà Nẵng")
 
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-reading-sentence-completion)
+![tuong-Laskmindra-Lokeshvara-Ta-3651-3208]( "Ảnh: Trung tâm Xúc tiến Du lịch Đà Nẵng")
 
-[![IELTS Reading Short Answer Question]()Preparation
+*Bảo tàng Mỹ thuật Đà Nẵng* nằm ở số 78 Lê Duẩn, quận Hải Châu. Bảo tàng lưu giữ và trưng bày hơn 1000 tác phẩm mỹ thuật hiện đại và các hiện vật mỹ thuật dân gian và sản phẩm thủ công mỹ nghệ truyền thống. Thời gian mở cửa từ 8h đến 17h hàng ngày, giá vé 20.000 đồng một lượt (giảm giá 50% với sinh viên).
 
-Chiến thuật xử lý dạng bài Short Answer Question trong IELTS Reading
+*Bảo tàng Phật giáo* nằm trong khuôn viên chùa Quan Thế Âm, ở 48 Sư Vạn Hạnh, quận Ngũ Hành Sơn. Đến đây, du khách có thể chiêm ngưỡng hơn 200 hiện vật cổ về Phật Giáo. Bảo tàng mở cửa từ 7h đến 17h hàng ngày, miễn phí tham quan.
 
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-reading-short-answer-questions)
+![](https://i1-dulich.vnecdn.net/2022/06/02/bao-tang-van-hoa-phat-giao-8400-1654169673.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=8phGFxEDbO97mYSsONWW0A)
 
-[![A female test taker in black t-shirt, wearing glasses prepares for her IELTS Reading test]()Preparation
+Ảnh: *Cổng Thông tin Du lịch TP Đà Nẵng*
 
-Bí quyết tăng tốc độ đọc và cải thiện điểm IELTS Reading](/vietnam/about/news-and-articles/article-boost-ielts-reading-score)
+**Nhà thờ Chính tòa Đà Nẵng**
 
-[![IDP IELTS co-brand logo - footer]( "IDP IELTS co-brand logo - footer")](/vietnam "IDP IELTS co-brand logo - footer")
+Nhà thờ Tourane (thời Pháp thuộc) hay còn gọi là nhà thờ Thánh Tâm Chúa Giêsu hoặc nhà thờ Chính tòa, được khởi công từ tháng 2/1923 trên khoảng đất trống đường Rue du Musée (nay là đường Trần Phú, Đà Nẵng) do linh mục Vallet thiết kế và chủ trì xây dựng. Người dân địa phương hay gọi công trình bằng một cái tên gần gũi là nhà thờ Con Gà bởi trên nóc nhà thờ có tượng con gà màu xám đặc trưng.
 
-![]()Việt Nam
+![](https://i1-dulich.vnecdn.net/2022/06/02/nha-tho-chinh-toa-da-nang-7191-1654169673.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=hnxz2MbLdMOeW3HYw6EkAQ)
 
-* [Argentina](https://ielts.idp.com/argentina)
-* [Armenia](https://ielts.idp.com/armenia)
-* [Australia](https://ielts.com.au/australia)
-* [Ba Lan](https://ielts.idp.com/austria)
-* [Azerbaijan](https://ielts.idp.com/azerbaijan)
-* [Bahrain](https://ielts.idp.com/bahrain)
-* [Bangladesh](https://ielts.idp.com/bangladesh)
-* [Brazil](https://ielts.idp.com/brazil)
-* [Bulgaria](https://ielts.idp.com/bulgaria)
-* [Cam-pu-chia](https://ielts.idp.com/cambodia)
-* [Canada](https://ielts.idp.com/canada)
-* [Chile](https://ielts.idp.com/chile)
-* [China](https://www.idpielts.cn)
-* [Colombia](https://ielts.idp.com/colombia)
-* [Cộng hòa Síp](https://ielts.idp.com/cyprus)
-* [Ecuador](https://ielts.idp.com/ecuador)
-* [Ai Cập](https://ielts.idp.com/egypt)
-* [Fiji](https://ielts.co.nz/test-centre/ches-fiji-ielts-test-centre)
-* [France](https://ielts.idp.com/france)
-* [Germany](https://ielts.idp.com/germany)
-* [Việt Nam](https://ielts.idp.com/ghana)
-* [Global](https://ielts.idp.com/)
-* [Hy Lạp](https://ielts.idp.com/greece)
-* [Hong kong](https://ielts.idp.com/hongkong)
-* [Ấn Độ](https://www.ieltsidpindia.com/)
-* [Indonesia](https://ielts.idp.com/indonesia)
-* [Iran](https://ielts.idp.com/iran)
-* [Iraq](https://ielts.idp.com/iraq)
-* [Ireland](https://ielts.idp.com/ireland)
-* [Nước Ý](https://ielts.idp.com/italy)
-* [Nhật Bản](https://ieltsjp.com/japan)
-* [Jordan](https://ielts.idp.com/jordan)
-* [Kazakhstan](https://ielts.idp.com/kazakhstan)
-* [Kenya](https://ielts.idp.com/kenya)
-* [Kiribati](https://ielts.co.nz/newzealand/test-centre/ielts-kiribati)
-* [Kuwait](https://ielts.idp.com/kuwait)
-* [Laos](https://ielts.idp.com/laos)
-* [Lebanon](https://ielts.idp.com/lebanon)
-* [Malaysia](https://ielts.idp.com/malaysia)
-* [Mauritius](https://ielts.idp.com/mauritius)
-* [Mexico](https://ielts.idp.com/mexico)
-* [Trung Đông](https://ielts.idp.com/uae)
-* [Moldova](https://ielts.idp.com/moldova)
-* [Ả Rập Xê Út](https://ielts.idp.com/mongolia)
-* [Myanmar](https://ielts.idp.com/myanmar)
-* [Nauru](https://ielts.co.nz/test-centre/the-university-of-auckland-ielts-centre-nauru)
-* [Nepal](https://ielts.idp.com/nepal)
-* [Netherlands](https://ielts.idp.com/netherlands)
-* [New Caledonia](https://ielts.co.nz/newzealand/test-centre/ielts-newcaledonia)
-* [New Zealand](https://ielts.co.nz/newzealand)
-* [Nigeria](https://ielts.idp.com/nigeria)
-* [Oman](https://ielts.idp.com/oman)
-* [Pakistan](https://ielts.idp.com/pakistan)
-* [Papua New Guinea](https://ielts.com.au/australia/test-centre/idp-ielts-test-centre-port-moresby)
-* [Peru](https://ielts.idp.com/peru)
-* [Philippines](https://ielts.idp.com/philippines)
-* [Ba Lan](https://ielts.idp.com/poland)
-* [Portugal](https://ielts.idp.com/portugal)
-* [Katar](https://ielts.idp.com/qatar)
-* [Romania](https://ielts.idp.com/romania)
-* [Samoa](https://ielts.co.nz/newzealand/test-centre/ielts-samoa)
-* [Ả Rập Xê Út](https://ielts.idp.com/saudiarabia)
-* [Singapore](https://ielts.idp.com/singapore)
-* [Quần đảo Solomon](https://ielts.co.nz/test-centre/the-university-of-auckland-ielts-centre-the-solomon-islands)
-* [Ả Rập Xê Út](https://ielts.idp.com/southafrica)
-* [Hàn Quốc](https://ieltskorea.org/korea)
-* [Tây Ban Nha](https://ielts.idp.com/spain)
-* [Sri Lanka](https://ielts.idp.com/srilanka)
-* [Thụy Sĩ](https://ielts.idp.com/switzerland)
-* [Syria](https://ielts.idp.com/syria)
-* [Tahiti](https://ielts.co.nz/newzealand/about/ielts-in-the-pacific)
-* [Đài Loan](https://ielts.idp.com/taiwan)
-* [Ả Rập Xê Út](https://ielts.idp.com/tajikistan)
-* [Thái Lan](https://ielts.idp.com/thailand)
-* [Tonga](https://ielts.co.nz/newzealand/test-centre/ielts-tonga)
-* [Thổ Nhĩ Kỳ](https://ielts.idp.com/turkey)
-* [Quần đảo Ellice](https://ielts.co.nz/newzealand/about/ielts-in-the-pacific)
-* [Các Tiểu Vương quốc Ả Rập Thống nhất](https://ielts.idp.com/uae)
-* [Uruguay](https://ielts.idp.com/uruguay)
-* [Uzbekistan](https://ielts.idp.com/uzbekistan)
-* [Việt Nam](https://ielts.co.nz/newzealand/test-centre/ielts-vanuatu)
+Ảnh: @x191225x/Instagram
 
-* Giới thiệu
-* Hình thức thi IELTS
-* Thi IELTS
+**Hẻm bích họa**
 
-Giới thiệu
+Dự án Làng bích họa Đà Nẵng tại kiệt 75 đường Nguyễn Văn Linh (đoạn gần cầu Rồng, quận Hải Châu). Làng bích họa nằm trong hẻm nhưng ngay lối vào là những tấm bảng giới thiệu điểm đến. Du khách sẽ gửi xe từ bên ngoài để đi bộ vào phía trong.
 
-* [Các tổ chức công nhận IELTS](/vietnam/about/who-accepts-ielts/organisations-that-accept-ielts "Các tổ chức công nhận IELTS")
-* [Tin tức và bài viết cập nhật](/vietnam/about/news-and-articles "Tin tức và bài viết cập nhật")
-* [Sự kiện IELTS](/vietnam/events "Sự kiện IELTS")
-* [Hình thức thi nào phù hợp với tôi?](/vietnam/about/which-test-do-i-take "Hình thức thi nào phù hợp với tôi?")
-* [Chương trình ưu đãi IELTS](/vietnam/ielts-promotion "Chương trình ưu đãi IELTS")
-* [Đối tác IDP IELTS tại Việt Nam](/vietnam/partners "Đối tác IDP IELTS tại Việt Nam")
-* [Câu chuyện thành công](/vietnam/about/where-ielts-can-take-me/success-stories "Câu chuyện thành công")
-* [IELTS - Tấm vé vàng để đi du học](https://www.idp.com/vietnam/ "IELTS - Tấm vé vàng để đi du học")
-* [Liên hệ IDP IELTS](/vietnam/contact-us "Liên hệ IDP IELTS")
+![](https://i1-dulich.vnecdn.net/2022/06/02/hem-bich-hoa-da-nang-7226-1654169673.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=nIkYHGLVA5YHcaJxKC931w)
 
-Hình thức thi IELTS
+Ảnh: *Nguyễn Đông*
 
-* [Thi IELTS trên máy tính](/vietnam/about/news-and-articles/article-computer-delivered-ielts "Thi IELTS trên máy tính")
-* [IELTS Học thuật](/vietnam/about/which-test-do-i-take/academic "IELTS Học thuật")
-* [IELTS Tổng quát](/vietnam/about/which-test-do-i-take/general-training "IELTS Tổng quát")
-* [IELTS UKVI Học thuật](/vietnam/about/which-test-do-i-take/academic-ukvi "IELTS UKVI Học thuật")
-* [IELTS UKVI Tổng quát](/vietnam/about/which-test-do-i-take/general-training-ukvi "IELTS UKVI Tổng quát")
-* [IELTS UKVI Life Skills](/vietnam/about/which-test-do-i-take/life-skills-ukvi "IELTS UKVI Life Skills")
-* [IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake")
+**Chợ**
 
-Thi IELTS
+Nằm trên đường Ông Ích Khiêm ngay trung tâm thành phố, [*chợ Cồn*](https://vnexpress.net/thien-duong-am-thuc-trong-cho-con-da-nang-4455660.html) là một trong những [chợ lâu đời và lớn nhất](https://vnexpress.net/10-mon-hap-dan-du-khach-o-khu-cho-lon-nhat-da-nang-3610985.html) của thành phố biển. Chợ Cồn được coi là [thiên đường ăn vặt](https://vnexpress.net/cho-an-vat-noi-tieng-da-nang-trong-mat-youtuber-nuoc-ngoai-4369006.html) với nhiều quán hàng luôn đông khách, bán đồ ăn đa dạng, từ các món sáng, trưa, nhiều nhất là ăn vặt xế chiều. Bánh bèo, bánh tráng cuốn thịt heo, mì Quảng, các loại ốc, chè... đắt khách với giá từ 10.000 đồng. Ngoài món ăn, những đặc sản mua làm quà cũng được bày bán nhiều như các loại mắm, mực rim me, chả bò, tré...
 
-* [Đăng ký thi IELTS](/vietnam/book-my-test "Đăng ký thi IELTS")
-* [Lịch thi IELTS](/vietnam/test-day "Lịch thi IELTS")
-* [Lệ phí thi IELTS](/vietnam/ielts-fees "Lệ phí thi IELTS")
-* [Tìm địa điểm thi IELTS](/vietnam/test-dates "Tìm địa điểm thi IELTS")
-* [Câu hỏi thường gặp về IELTS](/vietnam/faq/ielts-faq "Câu hỏi thường gặp về IELTS")
-* [Bài kiểm tra IELTS Familiarisation](/vietnam/prepare/ielts-familiarisation-tests "Bài kiểm tra IELTS Familiarisation")
-* [Ứng dụng IELTS by IDP](/vietnam/lp/ielts-by-idp-app "Ứng dụng IELTS by IDP")
-* [IELTS Masterclass](/vietnam/prepare/masterclass "IELTS Masterclass")
-* [Tải các mẫu đơn](/vietnam/prepare/downloadable-form "Tải các mẫu đơn")
+![cho-con-2-2582-1654169674.jpg]( "Ảnh: Huỳnh Nhi")
 
-IDP IELTS – Việt Nam
+![cho-con-3-2491-1654169674.jpg]( "Ảnh: Huỳnh Nhi")
 
-* [![youtube]()](https://www.youtube.com/%40IELTSbyIDPVietnam)
-* [![instagram]()](https://www.instagram.com/ieltsbyidpvietnam/)
-* [![linkedin]()](https://www.linkedin.com/showcase/idp-vietnam/)
-* [![facebook]()](https://www.facebook.com/ieltsbyidpvietnam/)
-* [![zalo]()](https://zalo.me/3587922624351485800)
-* [![tiktok]()](https://www.tiktok.com/%40ieltsbyidpvietnam)
+![cho-con-da-nang-5441-1654169674.jpg]( "Ảnh: Huỳnh Nhi")
 
-© IELTS Partners. IELTS Partners defined as The British Council, IELTS Australia Pty. Ltd. and Cambridge English (part of Cambridge University Press & Assessment)
+![cho-con-da-nang-2-6265-1654169674.jpg]( "Ảnh: Huỳnh Nhi")
 
-IELTS, IELTS logos, and various other marks (雅思, آيلتس) and signs on this website are registered trademarks or trademarks of the IELTS Partners and are protected by relevant trademark laws around the world. You must not use, copy, reproduce, modify, distribute, republish, display or communicate these trademarks in any way.
+*Chợ Hàn* nằm ngay trung tâm thành phố, gần cầu quay sông Hàn, 4 mặt tiếp giáp với các con đường Hùng Vương, Trần Phú, Trần Hưng Đạo và Bạch Đằng. Chợ có từ những năm 40 thế kỷ trước nhưng với vị trí thuận lợi cả cho giao thông đường bộ và đường thủy mà nơi này ngày càng phát triển và sầm uất.
 
-* [Liên hệ với chúng tôi](/vietnam/contact-us "Liên hệ với chúng tôi")
-* [Thông báo pháp lý](/vietnam/legal-notices "Thông báo pháp lý ")
-* [Chính sách quyền riêng tư](/vietnam/legal-notices#ielts-australia-privacy-policy "Chính sách quyền riêng tư ")
-* [Chính sách cookie](/vietnam/legal-notices#cookie-policy "Chính sách cookie ")
-* Bản quyền 2026 IDP IELTS
+Thành phố có rất nhiều *chợ hải sản* nhưng hấp dẫn nhất vẫn là khu vực nằm dọc đường Võ Nguyên Giáp và các phố ven biển của quận Sơn Trà, Đà Nẵng. Tại đây các gian hàng bày đủ các loại hải sản vừa đánh bắt được, từ sò, ốc, ghẹ, cho đến cá, tôm, mực... rất tươi ngon.
 
-Please enable JavaScript to continue using this application.
+Ngoài ra, Đà Nẵng còn có những khu chợ đêm tấp nập như chợ đêm Helio (Đường 2/9, Hải Châu), chợ đêm Sơn Trà (đường Lý Nam Đế giao với Mai Hắc Đế, Sơn Trà), chợ đêm Thanh Khê Tây (đường Yên Khê 1, quận Thanh Khê), chợ đêm Lê Duẩn (kiệt 144 Lê Duẩn, Hải Châu), chợ đêm Hòa Khánh (đường Nguyễn Cảnh Chân). Đây đều là thiên đường mua sắm, ăn uống sôi động về đêm với cả người dân và du khách.
+
+![](https://i1-dulich.vnecdn.net/2022/06/02/cho-dem-da-nang-4582-1654169674.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=N8nogrPVjwZ5PUZ8lOjFXQ)
+
+Ảnh: Sở Du lịch Đà Nẵng
+
+### Trải nghiệm
+
+**Ngắm Đà Nẵng từ trực thăng, phi cơ**
+
+[Trực thăng](https://vnexpress.net/tour-ngam-da-nang-tu-truc-thang-tro-lai-4458340.html) xuất phát từ sân bay Nước Mặn, bay vòng lên ngắm Ngũ Hành Sơn từ trên cao. Sau đó, trực thăng lượn vòng lại bay đến cầu Rồng, dọc sông Hàn để du khách ngắm nhìn cầu Sông Hàn, cầu Thuận Phước cùng các khối kiến trúc cao tầng ấn tượng của thành phố.
+
+Đến bán đảo Sơn Trà trực thăng lượn vòng ra biển, thấy được tượng Phật Bà Quan Âm lớn nhất Việt Nam sau đó vòng lại bay dọc bãi biển Đà Nẵng về lại sân bay Nước Mặn. Giá vé một tour 12 phút hiện là 2.140.000 đồng một khách - khuyến mãi 25% từ ngày 28/4 đến 31/7/2022.
+
+![Trải nghiệm ngắm Đà Nẵng từ trực thăng](https://iv1.vnecdn.net/dulich/images/web/2022/05/01/trai-nghiem-ngam-da-nang-tu-truc-thang-1651383699.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=AeL413AeiXSJ3IyOAUYxow)
+
+[](https://d1.vnecdn.net/dulich/video/video/web/mp4/,480p,,/2022/05/01/trai-nghiem-ngam-da-nang-tu-truc-thang-1651383699/vne/master.m3u8)
+
+Trải nghiệm ngắm Đà Nẵng từ trực thăng
+
+**Lướt sóng, chèo SUP**
+
+Bạn có thể đăng ký học lướt sóng, chèo SUP tại trường dạy lướt sóng Đà Nẵng ở bờ biển Mỹ Khê. Đây là trường đầu tiên tại Việt Nam có giáo viên hướng dẫn được chứng nhận bởi ISA (Hiệp hội lướt sóng quốc tế). Bạn cần chuẩn bị quần áo tắm, kem chống nắng. Riêng lớp chèo SUP phù hợp với thể chất của nhiều người.
+
+**Du thuyền trên sông Hàn**
+
+Thuyền đưa khách từ bến tàu du lịch xuôi theo sông Hàn, ngắm nhìn trung tâm thành phố về đêm và chiêm ngưỡng các cây cầu độc đáo của Đà Nẵng. Thuyền phục vụ ăn uống, ca nhạc... tùy theo nhu cầu của du khách. Một số tour cung cấp trải nghiệm ngắm cảnh, ăn tối, xem cầu Rồng phun lửa... giá vé từ 150.000 đến 500.000 đồng một khách.
+
+![](https://i1-dulich.vnecdn.net/2022/06/02/du-thuyen-da-nang-song-han-768-4824-2490-1654169674.png?w=0&h=0&q=100&dpr=1&fit=crop&s=GYUddPHjQvjLMJkOo41uew)
+
+Ảnh: Sở Du Lịch Đà Nẵng
+
+**Chơi đêm**
+
+Đà Nẵng về đêm tiết trời mát mẻ, dù vào giữa mùa hè. Ra đường hóng mát, bạn sẽ không có cảm giác nóng nực. Thành phố cũng không quá ồn ào, tấp nập. Người dân hiền lành, thân thiện. Các dịch vụ ăn uống, hàng quán, bar mở cửa khuya thuận tiện cho du khách đi ăn đêm, nhâm nhi cà phê.
+
+> Xem thêm: [Chơi đêm ở Đà Nẵng](https://vnexpress.net/choi-dem-o-da-nang-4132422.html)
+
+### Đặc sản
+
+**Mì Quảng**
+
+![](https://i1-dulich.vnecdn.net/2022/06/02/mi-quang-1325-1654169674.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=fFKDpXVaVKw17CJpyaAuPw)
+
+Ảnh: Linh Sea
+
+Mì Quảng không có công thức "bất di bất dịch", mà rất đa dạng về hương vị như mì Quảng tôm thịt, mì Quảng cá lóc, mì Quảng chả cua... Mì Quảng là món ăn khô và một tô mì không bao giờ thiếu đậu phộng rang, bánh tráng mè nướng giòn.
+
+Nếu bạn đến Đà Nẵng đúng ngày mùng một âm lịch, sẽ rất khó để tìm một tô mì thịt, thay vào đó là mì Quảng chay với nguyên liệu chính từ đậu phụ, nấm và các loại củ.
+
+Một tô mì Quảng nhỏ khoảng 15.000 đồng, tô lớn khoảng 20.000 - 30.000 đồng, ngoài ra với tô đặc biệt giá có thể lên đến 40.000 đồng.
+
+**Bánh tráng thịt heo**
+
+Một món ăn khá đơn giản, tuy nhiên chính là công đoạn lựa chọn kỹ lưỡng các nguyên liệu làm nên nét đặc biệt cho món ăn. Thịt heo chỉ lấy phần mông hoặc vai, các loại rau ăn kèm phải đảm bảo tươi xanh như xà lách, húng quế, diếp cá, hoa chuối, dưa leo, chuối xanh, giá đỗ... Mắm nêm của bánh tráng cuốn thịt heo là loại nước chấm không thể thay thế. Bánh tráng thịt heo bán theo suất khoảng 50.000 - 200.000 đồng một suất.
+
+![banh-trang-cuon-thit-heo-5718-1654169674]( "Ảnh: Huỳnh Nhi")
+
+![banh-trang-cuon-thit-heo-2-3918-16541696]( "Ảnh: Huỳnh Nhi")
+
+**Bê thui Cầu Mống**
+
+Người Đà Nẵng còn gọi món này với cái tên quen thuộc là "bò tái Cầu Mống". Thịt bê khi đưa ra khỏi lò phải đủ hai tầng thịt tái, chín rõ, bì chín đến độ trong suốt đồng thời vừa giòn vừa mềm.
+
+Mắm chấm làm từ cá cơm nguyên con có đường, tỏi, ớt, gừng và mè rang. Khi ăn có kèm thêm các loại rau thơm và bánh tráng gần như món bánh tráng cuốn thịt heo. Bê thui Cầu Mống có giá giao động từ 350.000 đến 380.000 đồng một kg.
+
+**Gỏi cá Nam Ô**
+
+![](https://i1-dulich.vnecdn.net/2022/06/02/goi-ca-9088-1654169674.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=udaXBsHN2rMmuShynLIe_A)
+
+Khi ăn, món gỏi khô dùng kèm với bánh tráng cuốn tròn chắc tay, bên trong là gỏi cá, các loại rau giá tươi ngon chấm với nước chấm hấp dẫn. Ảnh: @trungbuii/Instagram
+
+Cá làm món này có thể từ cá mòi, cá cơm, cá tớp... tuy nhiên ngon nhất vẫn là cá trích. Nét đặc trưng của [gỏi cá Nam Ô](https://vnexpress.net/goi-ca-tru-danh-o-lang-chai-nam-o-4357534.html) chính là thứ nước chấm làm từ nước cốt cá đun sôi, hòa cùng nước mắm Nam Ô, ớt, bột năng, bột ngọt. Ngoài các loại rau ăn kèm thường thấy, gỏi cá Nam Ô còn có cóc rừng, lành ngạnh, lá trâm, tim lan... vốn chỉ mọc trên đèo Hải Vân.
+
+Du khách có thể ăn cá với rau các loại cuốn bánh tráng hoặc chỉ việc trộn cá với rau kèm nước chấm. Ngoài ra, gỏi cá ướt hấp dẫn với thịt cá tươi ngọt thấm vị trong nước dùng cay đậm đà, pha chế từ nước mắm Nam Ô trứ danh. Gỏi cá Nam Ô giá khoảng 80.000 đồng một suất, đủ cho 2 người ăn.
+
+**Bánh xèo nem lụi**
+
+Các quán bánh xèo ngon tập trung ở đường Hoàng Diệu, Trưng Nữ Vương, Châu Thị Vĩnh Tế, Đống Đa. Giá cả trung bình từ 20.000 đến 100.000 đồng một phần tùy số lượng bánh và nem.
+
+Bánh xèo miền Trung thường nhỏ bằng cái đĩa nên có độ giòn và khi cuốn bánh tráng vừa vặn hơn. Gia vị ăn kèm là nước tương nóng, vị vừa phải để chấm bánh.
+
+![](https://i1-dulich.vnecdn.net/2022/06/02/nem-lui-5441-1654169674.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=7i8e-bpGt-6qSqxewfZqRA)
+
+Ảnh: Linh Sea
+
+**Bún mắm nêm**
+
+![](https://i1-dulich.vnecdn.net/2022/06/02/bun-mam-nem-9844-1654169674.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=svh5VMLAMvkHWzKFfy9A_A)
+
+Ảnh: Linh Sea
+
+Đây là đặc sản bình dân rất dễ tìm ở Đà Nẵng. Một tô bún đầy đủ có thịt heo, tai heo, chả bò, nem, rau thơm, sợi đu đủ hay mít non bào mỏng, kèm một chén mắm nêm. Gia vị không thể thiếu của món Quảng là vị bùi của đậu phộng và miếng bánh giòn.
+
+Thưởng thức bún mắm ở các gánh hàng, quán vỉa hè hay ở chợ sẽ cho cảm giác tròn vị nhất.
+
+Bạn có thể thử bún mắm nêm ở chợ Cồn hoặc chợ Hàn vào buổi chiều, giá từ 15.000 đến 30.000 đồng mỗi tô.
+
+**Bún thịt nướng**
+
+Cũng như bún mắm nêm, bún thịt nướng là món ăn quen thuộc với người Đà Nẵng. Món này rất dễ tìm, giá khoảng 15.000 – 30.000 đồng mỗi tô. Bún thịt nướng ở Đà Nẵng được ăn kèm nước tương, vị vừa béo vừa bùi làm từ gan heo, thịt xay, tương đậu nành và một số nguyên liệu khác.
+
+![](https://i1-dulich.vnecdn.net/2022/06/02/bun-thit-nuong-1612-1654169674.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=EfsMssLJiLqzkIr8RL2VXQ)
+
+Ảnh: Linh Sea
+
+**Mít trộn**
+
+![](https://i1-dulich.vnecdn.net/2022/06/02/mit-tron-da-nang-3894-1654169675.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=RIWcbRQyDBOixg9A0lM9lw)
+
+Ảnh: Linh Sea
+
+Mít trộn là món khoái khẩu của nhiều người, nguyên liệu chính là mít non, da heo, bò khô, kèm với đậu phộng, trộn đều lên rồi bẻ miếng bánh tráng xúc lên ăn. Giá mỗi đĩa mít trộn khoảng 20.000 đồng.
+
+Món này tập trung nhiều ở "làng ăn vặt" trên đường Bùi Thị Xuân, dưới chân cầu Trần Thị Lý, hoặc quán mít trộn bà già trong hẻm trên đường Lý Thái Tổ - không có bảng hiệu nhưng luôn đông nghịt khách. Nếu là khách du lịch, bạn nên đến trước 5h để có chỗ ngồi và tìm hiểu thêm về món ăn này.
+
+**Ốc hút**
+
+Ốc hút ở Đà Nẵng thường được chế biến theo nhiều vị: từ xào dừa, xào xả ớt cho đến luộc đều thơm phức nóng hổi. Món này ăn kèm với sợi đu đủ chua cay theo đúng khẩu vị miền Trung. Giá mỗi phần từ 15.000 đến 30.000 đồng.
+
+![](https://i1-dulich.vnecdn.net/2022/06/02/oc-hut-da-nang-6765-1654169675.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=7BsErUXFDN8HlU5d8WInMw)
+
+Ảnh: Linh Sea
+
+**Sữa chua muối**
+
+![](https://i1-dulich.vnecdn.net/2022/06/02/sua-chua-muoi-4152-1654169675.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=OcPO8LhzoEKYxHbvwDgoAw)
+
+Ảnh: Linh Sea
+
+Món [sữa chua muối](https://vnexpress.net/sua-chua-muoi-mon-an-vat-chi-co-o-da-nang-3626809.html) có giá 1.000 đồng một hũ, là món ăn vặt được bán thành một khu ở chân cầu Trần Thị Lý.
+
+Chủ quán thường mang ra một khay khoảng 10 hũ sữa chua kèm đĩa muối trắng. Khách ăn hết bao nhiêu sẽ tính tiền bây nhiêu.
+
+Sữa chua muối Đà Nẵng mềm, không quá béo. Lúc đầu thực khác sẽ cảm nhận được vị mặn của muối sau là vị ngọt của sữa chua đọng lại nơi cổ họng. Giá 1.000 đồng một hũ.
+
+### Mua gì làm quà
+
+Tré ông Chánh, tré bà Đệ, bánh khô mè Cẩm Lệ, rong biển Mỹ Khê, nước mắm Nam Ô, hải sản tươi sống hoặc khô mực, khô cá... là những đặc sản trứ danh của Đà Nẵng, dễ tìm mua và đóng gói hành lý.
+
+Nếu muốn mua quà lưu niệm, bạn có thể chọn tranh lụa, tranh thêu, tranh sơn dầu, các vật trang trí bằng đá, sành sứ, gỗ... hoặc đồ tạo tác mỹ nghệ bằng đá ở Ngũ Hành Sơn, quần áo từ vải lụa và tơ tằm.
+
+![](https://i1-dulich.vnecdn.net/2022/06/02/da-nang-2-5992-1654169675.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=FyGH3K8_fd9z9ActpGxC3A)
+
+Ảnh: Nguyễn Sanh Quốc Huy
+
+**Du Hy**
+
+* [30 phút bay phi cơ ngắm toàn cảnh thành phố Đà Nẵng](https://vnexpress.net/30-phut-bay-phi-co-ngam-toan-canh-thanh-pho-da-nang-3916017.html "30 phút bay phi cơ ngắm toàn cảnh thành phố Đà Nẵng")
+
+Cập nhật 21/4/2026, 09:42 (GMT+7)
+
+[Trở lại Du lịchTrở lại Du lịch](/du-lich)
+
+[![google](https://s1.vnecdn.net/vnexpress/restruct/i/v9854/icons/icon-google.svg)
+Thêm VnExpress trên Google](https://www.google.com/preferences/source?q=vnexpress.net)
+
+Chọn VnExpress làm nguồn **ưu tiên**
+trên *Google Search*. [Xem hướng dẫn.](#google-news-popup)
+
+Copy link thành công
+
+## Chọn VnExpress làm nguồn ưu tiên trên Google Search
+
+* **Bước 1:** Bấm vào nút ‘Thêm VnExpress trên Google’, hoặc truy cập đường dẫn
+  [https://www.google.com/preferences/source? q=vnexpress.net](https://www.google.com/preferences/source?q=vnexpress.net).
+* **Bước 2:** Tại trang web vừa mở, bấm vào ô vuông nằm bên phải VnExpress để chọn làm nguồn tìm kiếm ưu tiên.
+
+Khi ô vuông chuyển thành dấu tích xanh là hoàn thành, bạn đọc có thể đóng trang web trên.
+
+![Các nguồn được ưu tiên](https://s1.vnecdn.net/vnexpress/restruct/i/v9854/graphics/nguonuutien.jpg)
+
+Khi nhìn thấy dấu tích xanh bên cạnh VnExpress là đã hoàn thành.
+
+[![](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/logo-white.svg)](/ "Vnexpress")
+[Cẩm nang](/du-lich/cam-nang "Cẩm nang")
+[Quay lại Du lịch](/du-lich "Du lịch")
+
+![](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/mail-ft.svg) **Email:** dulich@vnexpress.net
+
+![](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/phone-ft.svg) **Điện thoại:** 083.888.0123 (HN) - 082.233.3555 (TP HCM)
+
+[![](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/ico-term.svg) Điều khoản sử dụng](/dieu-khoan-su-dung)

@@ -21,11 +21,11 @@ from pathlib import Path
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
-    "https://ielts.idp.com/vietnam/results/scores",
-    "https://ielts.idp.com/vietnam/results/scores/writing",
-    "https://ielts.idp.com/vietnam/results/scores/speaking",
-    "https://ielts.idp.com/vietnam/results/scores/listening",
-    "https://ielts.idp.com/vietnam/results/scores/reading"
+    "https://vnexpress.net/cam-nang-du-lich-vinh-ha-long-4626380.html",
+    "https://vnexpress.net/cam-nang-du-lich-phu-quoc-4106697.html",
+    "https://mia.vn/cam-nang-du-lich/dac-san-sapa-net-dac-trung-trong-nen-am-thuc-xu-so-suong-mu-657",
+    "https://vnexpress.net/cam-nang-du-lich-ha-giang-4445788.html",
+    "https://vnexpress.net/cam-nang-du-lich-da-nang-4470111.html"
 ]
 
 

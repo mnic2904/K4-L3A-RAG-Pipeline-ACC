@@ -1,651 +1,318 @@
-# Thang điểm IELTS Writing - Cách tính điểm chi tiết
+# Kinh nghiệm du lịch PHÚ QUỐC 2026 từ A-Z: lưu trú, ăn chơi, đặc sản... mới nhất
 
-**Source:** https://ielts.idp.com/vietnam/results/scores/writing
+**Source:** https://vnexpress.net/cam-nang-du-lich-phu-quoc-4106697.html
 
-**Crawled:** 2026-09-20T14:40:36.611105
+**Crawled:** 2026-09-20T15:24:05.221999
 
 ---
 
-The official IELTS by IDP app is here! [Download it](/lp/ielts-by-idp-app)  today.
+[![VNExpress](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/logo_white_tagline.svg)](/ "Vnexpress")
 
-![Close](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/icons/close_btn.svg)
+[Cẩm nang](/du-lich/cam-nang)
 
-[![IDP IELTS Logo](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/idp_ielts_logo.svg)](/vietnam "IDP IELTS")
+[Quay lại Du lịch](/du-lich "Du lịch")
 
-* [Bài thi IELTS](/vietnam/about/which-test-do-i-take "Bài thi IELTS")
+[Cẩm nang](/du-lich/cam-nang)
 
-  Tìm hiểu bài thi [IELTS Academic](/vietnam/about/which-test-do-i-take/academic "IELTS Academic")  [IELTS General Training](/vietnam/about/which-test-do-i-take/general-training "IELTS General Training")  [IELTS for UKVI Academic](/vietnam/about/which-test-do-i-take/academic-ukvi "IELTS for UKVI Academic")  [IELTS for UKVI General Training](/vietnam/about/which-test-do-i-take/general-training-ukvi "IELTS for UKVI General Training")  [IELTS Life Skills](/vietnam/about/which-test-do-i-take/life-skills-ukvi "IELTS Life Skills")  [Thi IELTS trên máy tính](/vietnam/about/news-and-articles/article-computer-delivered-ielts "Thi IELTS trên máy tính")
+[Quay lại Du lịch](/du-lich)
 
-  IELTS One skill Retake[![globe]() IELTS One Skill Retake là gì?](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake là gì?") [![news-item]() Hướng dẫn đăng ký thi IELTS One Skill Retake](/vietnam/about/news-and-articles/article-how-to-book-ielts-one-skill-retake "Hướng dẫn đăng ký thi IELTS One Skill Retake") [![why-choose-ielts]() Các tổ chức chấp nhận IELTS One Skill Retake](/vietnam/about/who-accepts-ielts-one-skill-retake "Các tổ chức chấp nhận IELTS One Skill Retake") [![why-choose-ielts]() Cách sử dụng kết quả IELTS One Skill Retake](/vietnam/about/news-and-articles/article-ielts-one-skill-retake-osr-results-trf "Cách sử dụng kết quả IELTS One Skill Retake ") [![FAQ]() Câu hỏi thường gặp IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake-faqs "Câu hỏi thường gặp IELTS One Skill Retake")
+![](https://i1-dulich.vnecdn.net/2022/04/08/dulichPhuQuoc-1649392573-9234-1649405369.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=SU6n3IvJxW1Sla0xqg31Kg)
 
-  [Đăng ký thi IELTS](https://ielts.idp.com/vietnam/book-my-test "Đăng ký thi IELTS") [![ielts-event]() Lịch thi IELTS](/vietnam/test-day "Lịch thi IELTS") [![presentation-chart-bar]() Lệ phí thi IELTS](/vietnam/ielts-fees "Lệ phí thi IELTS") [![ielts online]() Chương trình ưu đãi IELTS](/vietnam/ielts-promotion "Chương trình ưu đãi IELTS") [![IELTS by IDP app - Light bulb icon]() Địa điểm thi IELTS](/vietnam/test-dates "Địa điểm thi IELTS")
-* [Chuẩn bị](https://ielts.idp.com/ielts-prep-hub "Chuẩn bị")
+Cẩm nang du lịch
 
-  Truy cập IELTS Prepare Hub
+# Phú Quốc
 
-  ![Prepare Hub]()
+* [Trở lại Du lịch](/du-lich)
 
-  #### Truy cập IELTS Prepare Hub
+* [Du lịch](/du-lich "Du lịch")
+* [Cẩm nang](/du-lich/cam-nang "Cẩm nang")
 
-  Hãy truy cập IELTS Prepare Hub để khám phá tài liệu hữu ích và đăng ký sự kiện luyện thi trực tiếp hoặc trực tuyến.
+Thứ hai, 8/6/2020, 07:37 (GMT+7)
 
-  [Truy cập kho tài liệu IELTS](http://ielts.idp.com/ielts-prep-hub "Truy cập kho tài liệu IELTS")
+* Điều hướng nhanh
+* [Phú Quốc mùa nào đẹp?](#21gw6t7bc8a)
+* [Di chuyển](#w9t949vs9mi)
+* [Khách sạn, resort](#s736t7orvp)
+* [Chơi đâu](#28zprxsw9qp)
+* [Đặc sản Phú Quốc](#4ekuvv5ig7d)
+* [Ăn ở đâu](#wawrqvwx7ga)
+* [Mua gì làm quà](#qxbnbtvmb3i)
+* [Lưu ý](#6575mld3f5c)
 
-  Chuẩn bị cho kỳ thi[IELTS Academic](/vietnam/prepare/academic-preparation "IELTS Academic") [IELTS General Training](/vietnam/prepare/ielts-general-training-preparation "IELTS General Training") [IELTS for UKVI](/vietnam/prepare/ielts-for-ukvi "IELTS for UKVI")
+Quần đảo Phú Quốc nằm trong vịnh Thái Lan, cách TP HCM khoảng 400 km về hướng tây. Nơi đây thu hút du khách trong và ngoài nước bởi các loại hình du lịch đa dạng, với tài nguyên biển, đảo phong phú; hệ sinh thái rừng, biển đa dạng.
 
-  Thi thử[Thông tin về thi thử IELTS](/vietnam/about/news-and-articles/article-ielts-computer-trial-at-home "Thông tin về thi thử IELTS") [Đăng ký thi thử IELTS](/vietnam/about/news-and-articles/article-ielts-fam-test-dates "Đăng ký thi thử IELTS")
+Vùng biển Phú Quốc có 22 hòn đảo lớn, nhỏ, tổng diện tích khoảng 589,23 km2. Trong đó, đảo Phú Quốc lớn nhất được chia thành bắc đảo và nam đảo. Thị trấn Dương Đông nằm ở trung tâm.
 
-  Chuẩn bị cho ngày thi[Cần mang theo những gì khi đi thi IELTS](/vietnam/about/test-day/what-to-bring "Cần mang theo những gì khi đi thi IELTS") [Vào ngày thi](/vietnam/about/test-day "Vào ngày thi") [Sự kiện](/vietnam/events "Sự kiện") [Đổi lịch thi hoặc hủy thi IELTS](/vietnam/about/test-day/reschedule-cancel-ielts "Đổi lịch thi hoặc hủy thi IELTS")
+### Phú Quốc mùa nào đẹp?
 
-  Chuẩn bị cho các kỹ năng[![ielts-listening-icon]()Bài thi Nghe IELTS](/vietnam/prepare/listening "Bài thi Nghe IELTS") [![ielts-reading-icon]()Bài thi Đọc IELTS](/vietnam/prepare/reading "Bài thi Đọc IELTS") [![ielts-writing-icon]()Bài thi Viết IELTS](/vietnam/prepare/writing "Bài thi Viết IELTS") [![ielts-speaking-icon]()Bài thi Nói IELTS](/vietnam/prepare/speaking "Bài thi Nói IELTS")
+Thời điểm lý tưởng nhất để du lịch Đảo Ngọc là từ khoảng tháng 11 đến tháng 4 năm sau. Đây là mùa khô ở phương Nam, trời ít mưa, biển lặng, sóng êm và nắng ấm thích hợp cho các hoạt động du lịch ngoài trời. Mùa này thích hợp cho những tour du lịch nghỉ dưỡng, không thích hợp cho khách đi bụi hoặc đi phượt.
 
-  [![diagnostic-icon]()
+Từ khoảng tháng 5 đến tháng 10 là mùa mưa, đôi khi có bão nhưng Phú Quốc vẫn đông khách do rơi vào khoảng thời gian nghỉ hè. Nếu đi Phú Quốc mùa này, bạn nên đến vào khoảng cuối tháng 4, lúc này khách vẫn chưa đông và thời tiết còn đẹp, giá cả cũng không tăng quá cao như mùa cao điểm. Tháng 10 cũng là thời điểm giao mùa nên ít mưa.
 
-  ##### English self-assessment tool
+![](https://i1-dulich.vnecdn.net/2022/04/08/du-lich-Phu-Quoc-03-1254-1649405349.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=L3hmY-ilsuGlFWPrVQF4Gg)
 
-  Check your reading and listening skills and get recommendations for your IELTS preparation.
+### Di chuyển
 
-  Try now](https://ielts.idp.com/diagnostic-tool-preparation "diagnostic-tool")
+Vietnam Airlines, Bamboo Airways và Vietjet Air cung cấp các chuyến bay thẳng đến Phú Quốc từ Hà Nội, Hải Phòng, Thanh Hóa, Vinh, Huế, Đà Nẵng, Nha Trang, Đà Lạt, Buôn Ma Thuột... Giá vé máy bay nếu may mắn bạn có thể săn được vé rẻ trên dưới một triệu đồng cho cả chiều đi lẫn về.
 
-  Kho tài liệu[![expert-tips]() Kho tài liệu IELTS](https://ielts.idp.com/prepare/all-test-types/all-skills/article "Kho tài liệu IELTS") [![masterclass]() IELTS Masterclass](/vietnam/prepare/masterclass "IELTS Masterclass")
-* [Kết quả](/vietnam/results "Kết quả")
+Sân bay của Phú Quốc cách trung tâm đảo khoảng 15 phút di chuyển. Một số khách sạn, resort cao cấp thường có dịch vụ đưa đón miễn phí từ sân bay. Bạn nên hỏi thêm về dịch vụ này khi đặt phòng ở Phú Quốc.
 
-  Kiểm tra kết quả
+Ngoài các chuyến bay thẳng, du khách có nhiều lựa chọn thú vị hơn khi đi từ TP HCM đến Phú Quốc như xe máy, ôtô, xe khách, tàu cao tốc hoặc phà.
 
-  ![]()
+Những khách lần đầu đi Phú Quốc thì nên đi tàu cao tốc để tránh bị say sóng. Có hai tuyến đi Phú Quốc, hành trình từ Rạch Giá là khoảng 120 km mất 2 tiếng 30 phút, còn hành trình từ Hà Tiên là khoảng 50 km mất 1 tiếng 30 phút. Bạn nên xuất phát từ Hà Tiên để rút ngắn thời gian di chuyển trên biển, và giá vé cũng rẻ hơn. Hãy gọi trước cho bến để mua vé, đảm bảo lịch trình theo đúng kế hoạch.
 
-  #### Kiểm tra kết quả
+Nếu tự lái ôtô, bạn nên đi vào ban đêm để kịp lên phà vào khoảng 4h sáng, trải nghiệm đón bình minh trên biển. Lộ trình kéo dài khoảng hơn 6 tiếng từ TP HCM đến bến phà tại Hà Tiên. Bạn cần chuẩn bị đồ ăn, thức uống, mền, gối... và tốt nhất nên có hai người thay nhau cầm lái để chuyến xe đêm được xuyên suốt, an toàn.
 
-  Truy cập tài khoản IELTS IDP để kiểm tra kết quả và nhiều tiện ích khác
+Nếu đi xe khách, bạn có thể xuất phát từ trung tâm TP HCM. Có nhiều chuyến chất lượng cao đi Hà Tiên, giá vé khoảng 150.000 đồng đến 230.000 đồng một người, tuỳ nhà xe. Một số nhà xe chất lượng cao bạn có thể tham khảo là: Phương Trang, Mai Linh, Kumho.
 
-  [Đăng nhập ngay](https://account.ielts.idp.com/ "Đăng nhập ngay")
+![](https://i1-dulich.vnecdn.net/2022/04/08/shutterstock-191466686-2286-15-3897-5114-1649405350.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=hsuTI8EPie2QzaFYC6ZHhg)
 
-  Thang điểm IELTS[![ielts-calculator]() Cách tính điểm IELTS](/vietnam/results/scores "Cách tính điểm IELTS") [![ielts-listening-icon]() Thang điểm IELTS Listening](/vietnam/results/scores/listening "Thang điểm IELTS Listening") [![ielts-reading-icon]() Thang điểm IELTS Reading](/vietnam/results/scores/reading "Thang điểm IELTS Reading") [![ielts-writing-icon]() Thang điểm IELTS Writing](/vietnam/results/scores/writing "Thang điểm IELTS Writing") [![ielts-speaking-icon]() Thang điểm IELTS Speaking](/vietnam/results/scores/speaking "Thang điểm IELTS Speaking") [![ukvi-icon]() Điểm số IELTS Life Skills](/vietnam/results/scores/life-skills "Điểm số IELTS Life Skills")
+Ảnh: *DeltaOFF/Shutterstock.*
 
-  Các bước tiếp theo[![osr-icon-header]() IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake") [![ielts online]() Nhận kết quả thi IELTS nhanh chóng](/vietnam/results/faster-test-results "Nhận kết quả thi IELTS nhanh chóng") [![remark]() Yêu cầu phúc khảo](/vietnam/results/request-remark "Yêu cầu phúc khảo") [![Access computer-based results]() Yêu cầu cấp thêm bảng điểm](/vietnam/results/request-additional-trf "Yêu cầu cấp thêm bảng điểm") [![reader]() Tải các mẫu đơn](/vietnam/prepare/downloadable-form "Tải các mẫu đơn") [![idp]() IELTS - Tấm vé vàng để đi du học](https://www.idp.com "IELTS - Tấm vé vàng để đi du học")
-* [Cộng đồng IELTS](https://ielts.idp.com/ielts-community "Cộng đồng IELTS")
+Phương tiện đi lại phổ biến nhất trên đảo Phú Quốc là taxi và xe máy. Thông thường, các hãng taxi và dịch vụ thuê xe cung cấp gói khám phá nam đảo, bắc đảo trong nửa ngày hoặc một ngày với giá từ 500.000 - 700.000 đồng. Tài xế sẽ đưa khách tới các điểm tham quan nổi tiếng nhất
 
-  Cộng đồng IELTS IDP
+Ngoài ra, bạn có thể thuê xe máy với giá 100.000 - 150.000 đồng một ngày, chưa bao gồm tiền xăng. Du khách cần đặt lại chứng minh thư hoặc căn cước công dân khi thuê. Trước khi di chuyển, bạn nên kiểm tra kỹ hệ thống phanh, xi nhan và đèn xe.
 
-  ![]()
+Ở đây có bus hoạt động hầu hết trên các tuyến, điểm tham quan từ sân bay, tới thị trấn Dương Đông, cảng An Thới với giá vé từ 10.000 - 40.000 đồng. Tuy nhiên các điểm du lịch cách xa trục đường chính, vì vậy đi bằng xe bus sẽ bất tiện.
 
-  #### Cộng đồng IELTS IDP
+### Khách sạn, resort
 
-  Lắng nghe những lời khuyên, trả lời cho những câu hỏi thường gặp từ chính chuyên gia IELTS với nguồn thông tin đáng tin cậy.
+Du khách có thể tìm thấy trên Phú Quốc những nhà nghỉ bình dân cho đến khu nghỉ dưỡng cao cấp mang đẳng cấp quốc tế. Nếu muốn tiết kiệm chi phí, bạn có thể ở homestay. Nếu đi cùng công ty, gia đình có trẻ nhỏ thì lựa chọn tốt nhất cho bạn là khách sạn ở thị trấn Dương Đông, tiện tới các điểm tham quan và mua sắm.
 
-  [Khám phá cộng đồng IELTS](https://ielts.idp.com/ielts-community "Khám phá cộng đồng IELTS")
+Một số khách sạn 5 sao như Saigon Phu Quoc Resort, Eden Resort thường có giá trên 1.500.000 đồng một phòng mỗi ngày. Các khách sạn 3-4 sao giá từ 1.000.000 đến 1.500.000 đồng. Khách sạn 2 sao như Gold Hotel, Lavita Hotel, Sea Star resort, Kim Hoa thường có giá 600.000 - 800.000 đồng.
 
-  Tìm hiểu thêm[![ielts-by-idp-app]() Ứng dụng IELTS by IDP](/vietnam/lp/ielts-by-idp-app "Ứng dụng IELTS by IDP")
+Không giống như Nha Trang với các bãi biển dễ ghé thăm từ đường lớn, đến Phú Quốc du khách thường phải đi xa để đến bãi biển. Vì vậy nếu muốn yên tĩnh, nghỉ dưỡng thì bạn nên ở resort, villa hoặc các bungalow gần bãi biển.
 
-  Kênh mạng xã hội
+Bạn có thể chọn [khu nghỉ đẹp theo vị trí](https://vnexpress.net/chon-resort-dep-o-phu-quoc-theo-vi-tri-4420190.html), giá phòng dao động từ 1.800.000 đến 7.000.000 đồng một đêm. Ở Bắc đảo có Vinpearl Phú Quốc Resort, Nam Nghi Coral Peninsula Phú Quốc, Fusion Resort Phu Quoc. Phía Đông đảo có Rocks Beach Boutique Phu Quoc, ở xã Hàm Ninh, vừa khai trương vào đầu năm 2022 được ví như "Maldives thu nhỏ".
 
-  [![youtube]()](https://www.youtube.com/%40IELTSbyIDPVietnam)[![instagram]()](https://www.instagram.com/ieltsbyidpvietnam/)[![linkedin]()](https://www.linkedin.com/showcase/idp-vietnam/)[![facebook]()](https://www.facebook.com/ieltsbyidpvietnam/)[![zalo]()](https://zalo.me/3587922624351485800)[![tiktok]()](https://www.tiktok.com/%40ieltsbyidpvietnam)
+Ở giữa khu Bắc đảo và trung tâm là Movenpick Resort Waverly Phu Quoc và Mango Bay Resort trên bãi Ông Lang. Giữa thị trấn Dương Đông cóLahana Resort Phu Quoc, L’Azure Resort & Spa Phu Quoc, Anja Beach Resort, Pullman Phú Quốc hay InterContinental Phu Quoc Long Beach Resort. JW Marriott Phu Quoc Emerald Bay tọa lạc trên bãi Khem hoặc Premier Village Phu Quoc là những điểm lưu trú nổi bật ở Nam đảo.
 
-  Cảm nghĩ về IDP
+![](https://i1-dulich.vnecdn.net/2022/04/08/Phu-Quoc-9226-1649405350.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=h51OqoZGtadQj3WYCS8cig)
 
-  ![testimonial]()
+### Chơi đâu
 
-  Nhân viên IELTS thân thiên, hỗ trợ thí sinh nhiệt, vui vẻ. Văn phòng IDP rất đẹp, 10 điểm không có nhưng
+Các điểm du lịch trên Phú Quốc được chia làm 4 khu chính là: Khu trung tâm ở thị trấn Dương Đông, Nam đảo, Bắc đảo và Đông đảo. Tuỳ lịch trình, bạn nên dành ít nhất hai ngày nếu muốn khám phá hết các điểm vui chơi trên đảo.
 
-  ![avatar]()
+![](https://i1-dulich.vnecdn.net/2022/04/08/Hem-Tu-San-Song-Nho-Que-9-6569-6020-6249-1649405350.png?w=0&h=0&q=100&dpr=1&fit=crop&s=Sx_cE-TtdE0OzQhsmNJ-kg)
 
-  ##### Thanh Nguyen
+Bắc đảo Phú Quốc mang vẻ đẹp trù phú với rừng nguyên sinh. Ở đây cũng có những bãi biển, làng chài hoang sơ, chưa bị ảnh hưởng nhiều bởi thương mại. Dưới đây là một số điểm tham quan.
 
-  19/06/2024
+**Vườn quốc gia Phú Quốc** có diện tích hơn 31.400 ha, là nơi sinh sống của hàng trăm loài động, thực vật và đa dạng hệ sinh thái núi, rừng, biển, thác, suối. Ở đây, bạn sẽ được khám phá thảm thực vật tươi tốt, chiêm ngưỡng những con suối tinh khiết như suối Tranh, suối Đá Bàn, suối Đá Ngọn. Nếu tham gia tour 4 tiếng, du khách sẽ chinh phục đỉnh Núi Chúa, với độ cao 565 m và chiêm ngưỡng cảnh vật mênh mông, nhiều màu sắc của công viên.
 
-  [Xem thêm các chia sẻ](/vietnam/about/where-ielts-can-take-me/success-stories)
-* [Về IELTS](/vietnam/about "Về IELTS")
+![](https://i1-dulich.vnecdn.net/2022/04/08/Thiet-ke-khong-ten-9-6801-1590-8349-6128-1649405351.png?w=0&h=0&q=100&dpr=1&fit=crop&s=mczNthUVWdV1s1RZ2YKnng)
 
-  [HỢP TÁC VỚI IELTS](/vietnam/about "HỢP TÁC VỚI IELTS")  [IELTS dành cho giáo viên](/vietnam/about/ielts-for-teachers "IELTS dành cho giáo viên")  [IELTS dành cho tổ chức](/vietnam/about/ielts-for-organisations "IELTS dành cho tổ chức")  [Đối tác IDP IELTS tại Việt Nam](/vietnam/partners "Đối tác IDP IELTS tại Việt Nam")
+Ảnh: *Yến Nhi.*
 
-  Giới thiệu IDP IELTS[![globe]() Các tổ chức công nhận](/vietnam/about/who-accepts-ielts/organisations-that-accept-ielts "Các tổ chức công nhận") [![Latest updates icon - Global rebrand header]() Tin tức và bài viết cập nhật](/vietnam/about/news-and-articles "Tin tức và bài viết cập nhật") [![why-choose-ielts]() Tại sao chọn IELTS?](/vietnam/about/news-and-articles/article-who-takes-ielts "Tại sao chọn IELTS?") [![FAQ]() Câu hỏi thường gặp về IELTS](/vietnam/faq/ielts-faq "Câu hỏi thường gặp về IELTS")
+Nằm cách thị trấn Dương Đông khoảng 15 km, **làng chài Rạch Vẹm** hay "vương quốc sao biển" là một trong những điểm chụp ảnh yêu thích của du khách. Ngoài làn nước biển trong xanh, nơi đây còn ghi điểm bởi có nhiều sao biển. Từ tháng 12 đến tháng 4 là thời điểm biển lặng sóng, nước trong nên dễ nhìn thấy sao biển nhất. Vào mùa mưa, đường tới [Rạch Vẹm](https://vnexpress.net/bang-rung-nguyen-sinh-tim-lang-chai-rach-vem-o-phu-quoc-3765808.html) khó đi và nước đục.
 
-  TIN TỨC, BÀI VIẾT CẬP NHẬT
+Nhà bè và những cây cầu gỗ hướng ra biển cũng là một trong những điểm nhấn của Rạch Vẹm. Tới đây, du khách còn được thưởng thức nhiều loại hải sản tươi sống, có giá rẻ hơn khu vực trung tâm. Tuy nhiên, do hầu hết các quán nhà bè đều do người dân chế biến nên không trang trí cầu kỳ.
 
-  [![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+Một trong những điểm tham quan nổi tiếng nhất bắc đảo là **Vinpearl Safari**, nơi chăm sóc hơn 3.000 cá thể chim, thú, bò sát thuộc 175 loài. Safari chia thành 2 khu vực vườn thú mở, để khách tham quan khu nuôi thú và khu bán hoang dã, đưa khách tham quan bằng xe chuyên dụng.
 
-  ##### Các dạng bài & cách viết IELTS Writing Task 1](/vietnam/about/news-and-articles/article-ielts-writing-task-1)[![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+Tới đây, du khách cùng gia đình, bạn bè tìm hiểu về các loài thú trong môi trường sống tự nhiên của chúng. Gần đó là tổ hợp vui chơi giải trí VinWonders với nhiều trò chơi vui nhộn hoặc mạo hiểm, thủy cung thích hợp cho cả trẻ em và người lớn.
 
-  ##### Các dạng Writing Task 2 thường gặp và định hướng làm bài](/vietnam/about/news-and-articles/article-ielts-writing-task-2)[![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+![VINPEARL-SAFARI-PHU-QUOC-63-85-9914-1529]()
 
-  ##### IELTS Speaking Part 1: Các chủ đề thường gặp và bí quyết trả lời](/vietnam/about/news-and-articles/article-ielts-speaking-test-part-1)
+![VINPEARL-SAFARI-PHU-QUOC-94-45-2778-2831]()
 
-  [Read more](/vietnam/about/news-and-articles)
+![Công viên 'nhốt người thả thú' ở Phú Quốc](https://iv1.vnecdn.net/dulich/images/web/2021/05/19/cong-vien-nhot-nguoi-tha-thu-o-phu-quoc-1621424702.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=Wb5icr_Hbfn4RIn80icGHQ)
 
-![language](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/icons/language.svg)VI
+[](https://d1.vnecdn.net/dulich/video/video/web/mp4/,480p,,/2021/05/20/cong-vien-nhot-nguoi-tha-thu-o-phu-quoc-1621505662/vne/master.m3u8)
 
-* Vietnamese
-* English
-* Simplified Chinese
+Công viên 'nhốt người thả thú' ở Phú Quốc
 
- [Đăng ký thi ngay](https://bxsearch.ielts.idp.com/wizard)
+Công viên 'thú thả người nhốt' ở Phú Quốc.
 
-* [IDP IELTS Việt Nam](/vietnam)
-* [Kết quả thi IELTS của bạn](/vietnam/results)
-* [Thang điểm IELTS và cách tính điểm IELTS Overall chuẩn nhất](/vietnam/results/scores)
-* [Thang điểm bài thi IELTS Writing](/vietnam/results/scores/writing)
+**Mũi Gành Dầu** là mô đất nhô ra biển, nằm ở phía tây bắc đảo. Do đường đi xa và chưa có nhiều du khách đến tham quan, [mũi Gành Dầu](https://vnexpress.net/mui-ganh-dau-mieng-ca-cua-dao-phu-quoc-4280142.html) mang vẻ đẹp hoang sơ với những ghềnh đá nhiều hình thù và bãi biển trong xanh.
 
-![SAT, ACT or IELTS](//images.ctfassets.net/unrdeg6se4ke/6d8Z3PUyKpvbNuur1FOy5u/29a61b78f962751e6d6827e8fa583100/01-IELTS_vs_SAT_vs_ACT_____which_test_do_you_need_-desktop.png?&fm=avif&fit=fill&w=1440&h=462)
+Trong hành trình khám phá bắc đảo, du khách có thể ghé thăm các vườn tiêu, mua đặc sản đảo ngọc về làm quà. Các vườn tiêu gợi ý ở Khu Tượng, nơi trồng nhiều tiêu nhất, trên đường đi xã Bãi Thơm. Ngoài ra, trên đường đi Gành Dầu cũng có nhiều vườn tiêu để bạn tham quan, chụp ảnh.
 
-# Thang điểm bài thi IELTS Writing
+![](https://i1-dulich.vnecdn.net/2022/04/08/Hem-Tu-San-Song-Nho-Que-4548-1-3116-7786-1649405354.png?w=0&h=0&q=100&dpr=1&fit=crop&s=NwwlzxxFsc71j4nv39lO4A)
 
-Tìm hiểu những điều mà giám khảo muốn bạn thể hiện trong bài thi IELTS Writing, gồm các tiêu chí cần đáp ứng và cách tính điểm trong bài thi IELTS Writing.
+**Bãi Sao** là một trong những bãi biển đẹp nhất Phú Quốc, thuộc thị trấn An Thới, cách thị trấn Dương Đông khoảng 28 km. Nơi đây có làn nước trong xanh, nổi bật trên dải cát màu trắng mịn dài hơn 7 km. Tới đây, du khách có thể thong dong trên những bờ cát, lắng nghe tiếng sóng rì rào vào bình minh hay tắm biển, lưu lại những bức ảnh đẹp.
 
-## **1. Cách tính điểm bài thi Viết:**
+Ngoài ra, nơi này nước lặng, sóng êm nên có nhiều hoạt động thể thao dưới nước, nổi bật là chèo thuyền kayak. Giá thuyền cho thuê từ 100.000 - 150.000 đồng.
 
-Cùng IDP tìm hiểu cách chấm điểm bài thi Viết và xem điều này liên quan như thế nào đến điểm chính thức của bạn. Một giám khảo IELTS chấm điểm bài thi Viết của bạn dựa trên 4 tiêu chí khác nhau. Mỗi tiêu chí chiếm 25% tổng điểm của bạn cho phần đó.
+![shutterstock-1740575423-5596-1590903607.]()
 
-Giám khảo sẽ chấm điểm cho bài thi Task 1 và bài thi Task 2, và điểm thi Viết chính thức sẽ dựa trên các điểm này. Bạn hãy lưu ý rằng bài Task 2 có giá trị gấp đôi điểm bài Task 1.
+![shutterstock-1492074758-1641-1590903608.]()
 
-Điểm bài viết của bạn sẽ được dùng để tính [điểm IELTS](https://ielts.idp.com/vietnam/results/scores) chung của bạn.
+![](https://i1-dulich.vnecdn.net/2022/04/08/shutterstock-1528713263-5275-1-9438-7316-1649405357.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=0l2L0SItOJBteHCDLHdSbg)
 
-Bài thi Viết của bạn được chấm bởi từ hai đến bốn giám khảo. Điều đó nhằm đảm bảo mức độ chính xác và công bằng cao nhất trong các điểm được chính thức được đưa ra.
+**Bãi Trường** dài khoảng 20 km, là một trong những điểm ngắm hoàng hôn đẹp nhất trên đảo ngọc. Tại đây, du khách có thể đến thăm câu lạc bộ Sunset Sanato Beach. Nơi này trang trí nhiều hoạt cảnh từ gỗ tre như cầu dẫn ra biển, đàn voi nước, ngôi nhà vỏ ốc, xích đu... để du khách lưu lại những hình ảnh đẹp trong ánh chiều vàng cam.
 
-## **2. Tổng quan về IELTS Writing Task 1 và Writing Task 2**
+**Dinh Bà và Dinh Cậu** là 2 điểm đến linh thiêng nhất tại Phú Quốc, nằm tại thị trấn Dương Đông. Gắn với nhiều truyền thuyết về Cậu Quý, Cậu Tài, Chúa ngọc nương nương, Thủy Long Thánh Mẫu, đây là nơi ngư dân tới cầu an, cầu mưa thuận gió hòa, mùa đánh cá bội thu. Vào 15 tháng Giêng hàng năm, ở đây tổ chức các lễ hội lớn.
 
-* Với bài Task 1: Bạn cần viết ít nhất 150 từ trong khoảng 20 phút.
+**Mũi Dinh Cậu** là nơi ngắm hoàng hôn đẹp nhất với các ghềnh đá có hình thù như trái núi đang vươn mình ra biển. Hoàng hôn trên Mũi Dinh Cậu đẹp nhất vào từ tháng 5 đến tháng 9. Khi này cả nền trời và mặt biển cùng hoà một màu xanh dịu trông rất ấn tượng.
 
-Đối với bài thi Học thuật, đề bài có thể là trang có biểu đồ, đồ thị hoặc sơ đồ, bạn cần phân tích dữ liệu và diễn giải dữ liệu đó theo cách diễn đạt của riêng bạn.
+![](https://i1-dulich.vnecdn.net/2022/04/08/Phu-Quoc-VnExpress-Dinh-Cau-8313-1649405357.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=Ou1FlICkyf_nBkwGZ4D06w)
 
-Đối với bài thi [Tổng quát](https://ielts.idp.com/vietnam/about/which-test-do-i-take/general-training), bạn được yêu cầu viết một lá thư dựa trên một tình huống nhất định. Lá thư có thể trang trọng hoặc không trang trọng và sẽ viết về một yêu cầu, lời giải thích hoặc quan điểm ủng hộ tình huống đó.
+Dinh Cậu. Ảnh: *Khương Nha*
 
-* Với bài Task 2: Bạn cần viết ít nhất 250 từ trong khoảng 40 phút.
+**Nhà tù Phú Quốc** nằm tại xóm Cây Dừa, xã An Thới. Di tích là địa điểm tham quan thu hút du khách, được phục dựng một số cảnh để tái hiện lịch sử; mở cửa từ 7h đến 17h hàng ngày và miễn phí vé.
 
-Yêu cầu Task 2 giống nhau đối với cả [Học thuật](https://ielts.idp.com/vietnam/about/which-test-do-i-take/academic) và Tổng quát. Bài viết này bao gồm một bài luận trang trọng để phản hồi lại quan điểm, lập luận hoặc vấn đề mà bạn cần thảo luận. Writing Task 2 có số điểm gấp đôi Task 1.
+**Chợ đêm Phú Quốc** nằm tại đường Bạch Đằng, cách Dinh Cậu khoảng 1 km. Nơi đây hoạt động từ 17h - 23h những ngày cuối tuần, gồm nhiều quầy hàng bán hải sản tươi sống, đặc sản địa phương như nước mắm, kẹo sim, tiêu và đồ thủ công mỹ nghệ. Ngoài tham quan, mua sắm, du khách đừng quên thưởng thức các món hải sản tươi ngon được bày bán và chế biến tại chợ. Một số món ăn gợi ý khác là kem cuộn, bánh trứng, bánh bò thốt nốt...
 
-Đối với cả hai phần, bạn phải viết câu trả lời của mình thành bài luận đầy đủ, không dùng dấu gạch đầu dòng hoặc đánh số mỗi đầu đoạn văn.
+Ngoài những địa điểm kể trên, nam đảo còn một số điểm tham quan như cơ sở sản xuất nước mắm, trang trại cấy ngọc trai và cơ sở rượu sim.
 
-## 3. Tiêu chí đánh giá cho Bài viết IELTS Task 1 và Task 2
+![Cho-dem-Phu-Quoc-1571651260-4319-1590903]( "Ảnh: Khương Nha")
 
-Câu trả lời của bạn trong Bài viết Task 1 và Bài viết Task 2 được đánh giá dựa trên các tiêu chí sau:
+![Cho-dem-Phu-Quoc-Vnexpress1-15-1113-4686]( "Ảnh: Khương Nha")
 
-* Hoàn thành yêu cầu đề bài (đối với Bài viết Task 1 và Task 2)
-* Tính mạch lạc và gắn kết
-* Vốn từ vựng
-* Phạm vi và độ chính xác về ngữ pháp
+![Cho-dem-Phu-Quoc-Vnexpress6-15-4652-8520]( "Ảnh: Khương Nha")
 
-Mỗi điểm số sẽ được chấm tương ứng với phần thể hiện dựa trên 4 tiêu chí này.
+![](https://i1-dulich.vnecdn.net/2022/04/08/Hem-Tu-San-Song-Nho-Que-1-7538-9843-5741-1649405361.png?w=0&h=0&q=100&dpr=1&fit=crop&s=o8OtuKH7hQEh7YWGD5gCgA)
 
-## 4. Tiêu chí đánh giá nào được giám khảo IELTS sử dụng
+Đến với Phú Quốc, một trong những trải nghiệm hấp dẫn nhất là tham quan các hòn đảo như Hòn Thơm, Móng Tay, Gầm Ghì, Mây Rút.
 
-Các giám khảo sẽ sử dụng 4 tiêu chí sau cơ bản đế đánh giá kết quả bài thi Viết, áp dụng chung cho cả thi Học thuật và Tổng quát.
+**Hòn Thơm** là hòn đảo được khai thác du lịch nhiều nhất, với các bãi biển đẹp, hoạt động lặn san hô, câu cá, câu mực, chèo thuyền kayak, lái môtô nước. Đặc biệt, ở đây có công viên nước với 20 trò chơi cảm giác mạnh Aquatopia Water Park để du khách vui chơi cùng gia đình.
 
-* Hoàn thành yêu cầu đề bài:
+![](https://i1-dulich.vnecdn.net/2022/04/08/4-1590109526-3069-1590903610-2189-1649405361.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=hJb-tj4r7Kl6Ty4RRiD-pg)
 
-Mục đích là để đánh giá mức độ chính xác, phù hợp và liên quan trong nội dung bài viết của bạn đối với các yêu cầu của đề bài, sử dụng số lượng từ tối thiểu cần thiết. Các chủ điểm đưa ra bao gồm mức độ triển khai lập luận trong bài viết, các dẫn chứng và ví dụ cụ thể từ kinh nghiệm của riêng bạn.
+Ảnh: Khánh Trần
 
-* Sự mạch lạc và gắn kết:
+Nếu du khách yêu thích lặn biển có thể đến khu ECO Beach trên đảo. Ở đây có gói 950.000 đồng một người, trải nghiệm trong 20 phút với mũ kín . Nếu chọn bình khí như thợ lặn, giá dịch vụ là 650.000 đồng một người. Một số dịch vụ khác du khách có thể đăng ký là quay video dưới nước 600.000 đồng, chụp ảnh 300.000 đồng.
 
-Mục đích là để đánh giá mức độ rõ ràng và trôi chảy trong bài viết của bạn, cũng như cách bạn sắp xếp các ý tưởng và thông tin. Phần này bào gồm việc sắp xếp các ý tưởng trong bài viết theo thứ tự hợp lý và sử dụng một loạt các phương pháp liên kết (ví dụ: liên kết từ, đại từ và liên từ) một cách phù hợp.
+Để tới đảo, du khách xuất phát tới ga cáp treo. Ga được thiết kế, xây dựng theo phong cách La Mã cổ đại là điểm chụp ảnh yêu thích của nhiều du khách trẻ. Sau đó, bạn sẽ được đi trên cáp treo ba dây dài nhất thế giới, tổng chiều dài 7.899 m. Từ cabin, du khách trông thấy vùng biển trong xanh, các hòn đảo yên bình với thuyền bè xuôi ngược.
 
-* Vốn từ vựng:
+Ngoài đặt vé trước, du khách có thể mua vé bên ngoài đường vào ga cáp treo. Giá gói cáp treo, công viên nước và buffet trưa là 600.000 đồng với người lớn và trẻ cao trên 1m4. Khách cao từ 1m đến 1m4 mua vé với giá 400.000 đồng.
 
-Mục đích là để đánh giá phạm vi từ vựng bạn sử dụng và mức độ chính xác và phù hợp của bạn khi sử dụng chúng.
+![170a994a0df5f7abaee4-6409-1590903610.jpg]()
 
-* Phạm vi và độ chính xác về ngữ pháp
+![3243dd4b49f4b3aaeae5-8843-1590903611.jpg]()
 
-Mục đích là để đánh giá phạm vi ngữ pháp bạn sử dụng và mức độ chính xác và phù hợp của bạn khi sử dụng chúng.  Để tìm hiểu thêm về các tiêu chí đánh giá mà giám khảo IELTS sử dụng, hãy xem bảng bên dưới.
+![5b1d951e01a1fbffa2b0-1437-1590903612.jpg]()
 
-Bạn cũng có thể tải xuống tiêu chí đánh giá IELTS Writing Task 1 và IELTS Writing Task 2 dưới dạng PDF ([IELTS Writing Task 1 and IELTS Writing Task 2](https://assets.ctfassets.net/unrdeg6se4ke/WfjJuLMvOxuR3JqLvQmTm/62439e8dcb84a094455b7fb91e7af526/Writing_Band_Descriptors.pdf)) để tìm hiểu thêm về các tiêu chí đánh giá.
+Ngoài ra, du khách có thể đặt **tour tham quan đảo** để tham quan Hòn Thơm và những đảo còn lại. Trong đó tour 4 đảo: Hòn Mây Rút Trong, Mây Rút Ngoài, Gầm Ghì và Hòn Móng Tay thuộc quần đảo An Thới là lựa chọn phổ biến.
 
-### Band scores
+Khách sẽ được đón tại khách sạn trong thị trấn Dương Đông đến cảng An Thới và tham quan bằng cano, lặn ngắm san hô ở hòn Gầm Ghì. Dịch vụ bao gồm gói quay, chụp dưới nước. Tour kèm bữa trưa có giá khoảng 1.000.000 đồng một người. Tuy nhiên, tour 4 đảo thường di chuyển nhiều. Du khách say sóng hoặc sức khỏe không tốt có thể chọn tour 2 hoặc 3 đảo với ít hoạt động hơn.
 
-### Writing Task 1 band scores
+Nếu muốn phiêu lưu hơn, bạn có thể khám phá **Hòn Dăm**, nơi được mệnh danh là [đảo Robinson của Phú Quốc](https://vnexpress.net/mot-ngay-tren-dao-robinson-o-phu-quoc-3600596.html). Hòn Dăm không có internet, điện chạy từ năng lượng mặt trời, cả đảo chỉ có vài căn bungalow làm từ tre và gỗ, mặt sau hướng ra biển.
 
-### Writing Task 2 band scores
+![](https://i1-dulich.vnecdn.net/2022/04/08/Phu-Quoc-VnExpress-4888-1649405365.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=zuaQIGAEs37tWbGm1v6rdA)
 
-Writing Task 1 band scores
+### Đặc sản Phú Quốc
 
-* Writing Task 1 band scores
-* Writing Task 2 band scores
+Nếu là tín đồ của ấm thực, bạn nên đi Phú Quốc vào khoảng tháng 5 đến tháng 11. Đây là mùa đi biển của dân địa phương nên sẽ có nhiều hải sản tươi sống, giá thành cũng sẽ rẻ hơn.
 
-Thang điểm 9
+**Gỏi cá trích:** Món đầu tiên trong danh sách ẩm thực bạn phải thử ở Phú Quốc là [gỏi cá trích](https://vnexpress.net/goi-ca-trich-tru-danh-cua-phu-quoc-4272758.html). Món này được bày bán khắp các nhà hàng, quán ăn từ cao cấp đến bình dân. Cá trích được sơ chế, cuốn chung với rau và bánh tráng, chấm với nước mắm hoàn toàn không có mùi tanh.
 
-**Hoàn tất yêu cầu đề bài**
+**Ghẹ Hàm Ninh:** Ghẹ ở đây không to nhưng được thực khách đánh giá là ngon, ngọt và tươi. Tuỳ từng thời điểm, giá ghẹ sẽ dao động từ 200.000 đồng đến 500.000 đồng một ký. Bạn nên chọn loại 6 đến 7 con một ký, nếu thích ăn ghẹ trứng thì có thể lựa con cái, ăn thịt thì lựa ghẹ đực. Cách chế biến ngon nhất là ghẹ luộc chấm muối tiêu chanh.
 
-Đáp ứng đầy đủ tất cả các yêu cầu của đề bài
+**Còi biên mai nướng**: Những người sành ăn thường rất thích món còi biên mai nướng muối ớt. Vị mặn của muối, vị cay của ớt và vị ngọt của còi biên mai trộn lẫn tạo nên một hương vị vô cùng đặc biệt. So với các món xào, luộc, còi biên mai nướng còn giữ được độ giòn, dai nên được người địa phương yêu thích hơn cả.
 
-Trình bài rõ ràng với bài viết được phát triển đầy đủ
+![](https://i1-dulich.vnecdn.net/2022/04/08/Goi-ca-trich-Phu-Quoc-1159-1649405365.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=2XKrS14TNwOct9Ibn3KzNQ)
 
-**Mức độ mạch lạc và chặt chẽ**
+Gỏi cá trích. Ảnh: *Huỳnh Nhi*
 
-Sử dụng từ ngữ chặt chẽ, trôi chảy và không gợi sự chú ý
+![be-be-Phu-Quoc-8660-1649405365.jpg]( "Ảnh: Nguyễn Thành Luân")
 
-Chia đoạn khéo léo
+![coi-Phu-Quoc-6216-1649405365.jpg]( "Ảnh: Nguyễn Thành Luân")
 
-**Vốn từ vựng**
+![ghe-ham-Ninh-1658-1649405365.jpg]( "Ghẹ Hàm Ninh. Ảnh: Nguyễn Thành Luân")
 
-Sử dụng từ vựng đa dạng và linh hoạt, thể hiện sự kiểm soát tự nhiên; chỉ mắc những lỗi nhỏ không thường xuyên.
+**Hải sâm:** Là một trong những đặc sản nổi tiếng ở Phú Quốc. Đây là món được thực khách ư chuộng vì có độ dinh dưỡng cao và xem là loại thực phẩm cao cấp. Hải sâm tươi thường được chế biến thành các món xào với mướp đắng, ớt ngọt hoặc hầm với thịt dê, thịt heo. Nhiều người cũng dùng hải sâm để nấu cháo, bồi bổ sức khoẻ. Vì là loại thực phẩm cao cấp nên giá Hải sâm cũng khá đắt, giá thường trên dưới một triệu đồng một ký.
 
-**Phạm vi và độ chính xác ngữ pháp**
+![](https://i1-dulich.vnecdn.net/2022/04/08/bun-ken-Phu-Quoc-5904-1649405366.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=IolNsBLWF_OIS7uI4RnDjA)
 
-Sử dụng nhiều cấu trúc với độ linh hoạt và độ chính xác cao; chỉ mắc các lỗi nhỏ không đáng kể.
+Bún kèn. Ảnh: Instagram Quang Vinh
 
-Thang điểm 8
+**Bún Kèn:** Không phải ở đâu cũng có bún kèn, không chỉ tên gọi mà hương vị của loại bún này cũng rất lạ. Bún kèn thường dùng bún gạo, sợi nhỏ ăn kèm rau thơm, rau răm, dưa leo, đu đủ bào... Địa chỉ tham khảo là bún Kèn Út Lượm đường 30/4.
 
-**Hoàn tất yêu cầu đề bài**
+**Nấm tràm:** Loại nấm này thường mọc sau những cơn mưa đầu mùa trong các rừng tràm ở Phú Quốc. Mùa nấm chỉ kéo dài hơn một tháng nên không phải lúc nào du khách cũng được thưởng thức món này. Những món ngon bạn nên thử là gà luộc xúp nấm hoặc chả cá viên nấu nấm.
 
-Đáp ứng tất cả các yêu cầu của đề bài
+**Nhum biển:** Ở miền Trung, ngư dân thường lấy thịt và trứng nhum tẩm gia vị rồi xào sơ trước khi cho vào nồi cháo. Còn ở Phú Quốc, nhum biển vừa bắt được sẽ được cắt gai, tách đôi ra, rửa sạch rồi đặt lên bếp than hồng nướng, cho thêm mỡ hành là có thể ăn luôn. Ngoài ra du khách còn có thể thưởng thức một số món khác như nhum tái chanh, nhum nướng, cháo nhum.
 
-Trình bày, nêu bật và minh họa các ý/luận điểm chính một cách rõ ràng và phù hợp
+![](https://i1-dulich.vnecdn.net/2022/04/08/Phu-Quoc-VnExpress-bao-ngu-8229-1649405366.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=mGD6HNiLDhyVVHmFtknWtQ)
 
-**Mức độ mạch lạc và chặt chẽ**
+Bào ngư nướng mỡ hành. Ảnh: *Khương Nha*
 
-Sắp xếp thông tin và ý tưởng một cách hợp lý
+**Bào ngư:** Bảo ngư Phú Quốc nổi tiếng về giá trị dinh dưỡng và được xem là một bài thuốc trong đông y. Bào ngư tươi có thể chế biến được nhiều món ăn dân dã như luộc, nướng, xào, nấu cháo...
 
-Sử dụng từ ngữ và câu văn mạch lạc
+Ngoài ra Phú Quốc còn có nhiều đặc sản hấp dẫn như mật sim, rượu sim, hồ tiêu, nước mắm, cua huỳnh đế, ốc hương nướng muối ớt, sò quạt nướng mỡ hành, mực trứng nướng... Những món này đều có thể dễ dàng tìm thấy trong các nhà hàng bình dân đến cao cấp.
 
-Phân đoạn đầy đủ và phù hợp
+### Ăn ở đâu
 
-**Vốn từ vựng**
+Là vùng biển đảo, Phú Quốc nổi tiếng với các món hải sản tươi sống, nổi bật là ghẹ, nhum, cá trích, bào ngư, ốc gai. Những làng chài như **Hàm Ninh, Cửa Cạn và Rạch Vẹm** cũng là điểm đến gợi ý để thưởng thức hải sản tươi sống, giá rẻ theo phong cách địa phương
 
-Sử dụng nhiều từ vựng thông thạo và linh hoạt để truyền đạt ý nghĩa chính xác
+Một trong những quán hải sản nổi tiếng nhất ở đây là **quán Ra Khơi**, đường 30/4, thị trấn Dương Đông hay **quán Xin Chào**, với view ngắm hoàng hôn, tại 66 Trần Hưng Đạo, thị trấn Dương Đông. Giá trung bình từ 400.000 - 600.000 đồng một người. Một số địa chỉ khác là nhà hàng **Cơm Bắc 123** trên đường 30/4), **quán Quốc Anh** trên đường Bạch Đằng, bánh canh chả cá Phụng gần Dinh Cậu.
 
-Sử dụng các từ vựng phức tạp không phổ biến nhưng đôi khi có thể có sự không chính xác trong lựa chọn từ ngữ và cách liên kết từ
+![IMG-0953-3978-1590903613.jpg]()
 
-Hiếm mắc các lỗi về chính tả và/hoặc hình thành từ
+![IMG-0960-6271-1590903613.jpg]()
 
-**Phạm vi và độ chính xác ngữ pháp**
+![IMG-0959-3523-1590903614.jpg]()
 
-Sử dụng nhiều cấu trúc khác nhau
+Đến đây, du khách cũng nên thưởng thức **Bún** **quậy Kiến Xây**, gần Dinh Cậu. Đây là món bún tươi, ăn kèm mực, chả cá và chả tôm. Điểm nhấn của [bún quậy](https://vnexpress.net/bun-quay-phu-quoc-mon-khong-phai-co-tien-la-an-duoc-3621202.html) Phú Quốc là bát nước chấm "tự phục vụ" từ bột canh, đường, mì chính, quất (tắc), ớt xay. Mỗi bát có giá từ 35.000 đồng.
 
-Đa số các câu đều không mắc lỗi
+Phú Quốc còn nhiều quán ăn ngon được người dân địa phương và du khách giới thiệu là **quán dê Hồ Kỳ**, đường 30/4; **quán Bò tơ** 100 Trần Hưng Đạo, quán **cơm niêu Nhà Xưa, 68 Lý Thường Kiệt**.
 
-Rất hiếm khi mắc lỗi hoặc sử dụng không phù hợp
+### Mua gì làm quà
 
-Thang điểm 7
+Một số đặc sản nổi tiếng Phú Quốc bạn có thể mua về làm quà là ngọc trai, nước mắm, hồ tiêu, rượu sim...
 
-**Hoàn tất yêu cầu đề bài**
+Ngọc trai Phú Quốc có giá khá cao, tuỳ theo chất lượng, màu sắc và kích cỡ. Địa chỉ mua sắm ngọc trai uy tín là cơ sở nuôi cấy ngọc trai Ngọc Hiền và Quốc An.
 
-Đáp ứng các yêu cầu để đề bài
+Nước mắm Phú Quốc nổi tiếng với hương vị thơm ngon, nguyên chất. Một số cơ sở sản xuất uy tín bạn có thể tham khảo là: nhà thùng nước mắm Phụng Hưng, cơ sở sản xuất Khải Hoàn, Thịnh Phát, Hưng Thịnh.
 
-IELTS Học thuật: Trình bày câu tổng quát bao gồm thông tin về xu hướng, khác biệt, hoặc các giai đoạn chính
+![](https://i1-dulich.vnecdn.net/2022/04/08/vuon-tieu-Phu-Quoc-4977-1649405369.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=dRLfDFs7c1FgoOuHMOZltQ)
 
-IELTS Tổng quát: Trình bày rõ mục đích viết thư, thể hiện phong cách viết nhất quán và phù hợp
+Vườn tiêu Phú Quốc. Ảnh: Hương Chi
 
-Trình bày rõ ràng và làm nổi bật các ý/gạch đầu dòng chính, tuy nhiên vẫn có thể khai thác thêm
+Hồ tiêu Phú Quốc có vị cay và thơm nồng, hạt chắc. Bạn có thể mua hạt tiêu ngay tại vườn tiêu Khu Tượng hoặc vườn tiêu Suối Đá là những địa chỉ nổi tiếng.
 
-**Mức độ mạch lạc và chặt chẽ**
+Rượu Sim Phú Quốc được sản xuất theo cách truyền thống lên men từ hồng sim và đường cát trắng. Loại rượu này có tác dụng tốt về tiêu hoá và chữa nhức mỏi. Những địa chỉ mua rượu sim quen thuộc là Sim Sơn và rượu sim Bảy Giáo.
 
-Sắp xếp thông tin và ý tưởng một cách hợp lý; có sự phát triển ý xuyên suốt
+Hải sản du khách thường mua về làm quà là hải sâm, mực và các loại cá khô. Chợ đêm Dương Đông có nhiều cửa hàng bán các sản vật này, giá cả tuỳ thuộc vào từng mùa và kích cỡ.
 
-SSử dụng các phương pháp liên kết một cách thích hợp, mặc dù sẽ có lúc các phương pháp này chưa được sử dụng đúng cách
+### Lưu ý
 
-**Vốn từ vựng**
+Không nên đi Phú Quốc vào mùa mưa bão.
 
-Có thể thấy độ linh hoạt và chính xác trong từ vựng.
+Khách sạn, nhà nghỉ mùa cao điểm thường cháy phòng, bạn nên đặt trước khoảng một tháng.
 
-Sử dụng từ hiếm gặp với sự hiểu biết về văn phong và cách liên kết từ
+Một số địa điểm trên Phú Quốc không cho du khách vào tham quan, bạn cần tuyệt đối tuân thủ, không đi vào khu vực cấm.
 
-Có thể xảy ra các lỗi trong việc lựa chọn từ, chính tả và/hoặc cách ghép từ
+Phà và tàu cao tốc ra vào đảo thường chạy theo giờ cố định. Bạn nên hỏi kỹ thời gian hoạt động để không bị lỡ tàu, xe.
 
-Thang điểm 6
+Nếu say sóng, bạn nên chuẩn bị một ít thuốc chống say vì phải di chuyển nhiều trên biển.
 
-**Hoàn tất yêu cầu đề bài**
+Nếu đi xe máy xuyên rừng, bạn nên tìm một chiếc bản đồ Phú Quốc phòng trường hợp lạc đường.
 
-Xử lý các yêu cầu của đề thi
+![](https://i1-dulich.vnecdn.net/2022/04/08/du-lich-Phu-Quoc-02-5022-1649405369.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=wlhAT2o6cm94fcbOlM28Lg)
 
-IELTS Học ​​thuật: Có sự mô tả khái quát phù hợp về thông tin được lựa chọn.
+**Lan Hương**
 
-IELTS Tổng quát: Trình bày mục đích một cách rõ ràng; có thể trong lúc diễn đạt có sự không nhất quán giữa các ý.
+Cập nhật 15/1/2026, 09:15 (GMT+7)
 
-Trình bày và làm nổi bật đầy đủ các ý chính / gạch đầu dòng nhưng các chi tiết này có thể không liên quan, không phù hợp hoặc không chính xác.
+[Trở lại Du lịchTrở lại Du lịch](/du-lich)
 
-**Mức độ mạch lạc và chặt chẽ**
+[![google](https://s1.vnecdn.net/vnexpress/restruct/i/v9854/icons/icon-google.svg)
+Thêm VnExpress trên Google](https://www.google.com/preferences/source?q=vnexpress.net)
 
-Sắp xếp thông tin và ý tưởng một cách mạch lạc và có quá trình phát triển ý một cách rõ ràng
+Chọn VnExpress làm nguồn **ưu tiên**
+trên *Google Search*. [Xem hướng dẫn.](#google-news-popup)
 
-Sử dụng các phương pháp liên kết một cách hiệu quả, nhưng phương pháp này có thể chưa chính xác hoặc được chưa được tự nhiên
+Copy link thành công
 
-Không nhất thiết phải luôn sử dụng phương pháp tham chiếu một cách rõ ràng hoặc phù hợp
+## Chọn VnExpress làm nguồn ưu tiên trên Google Search
 
-**Vốn từ vựng**
+* **Bước 1:** Bấm vào nút ‘Thêm VnExpress trên Google’, hoặc truy cập đường dẫn
+  [https://www.google.com/preferences/source? q=vnexpress.net](https://www.google.com/preferences/source?q=vnexpress.net).
+* **Bước 2:** Tại trang web vừa mở, bấm vào ô vuông nằm bên phải VnExpress để chọn làm nguồn tìm kiếm ưu tiên.
 
-Sử dụng vừa đủ lượng từ vựng cần thiết cho đề bài
+Khi ô vuông chuyển thành dấu tích xanh là hoàn thành, bạn đọc có thể đóng trang web trên.
 
-Có cố gắng sử dụng những từ vựng học thuật nhưng chưa chính xác
+![Các nguồn được ưu tiên](https://s1.vnecdn.net/vnexpress/restruct/i/v9854/graphics/nguonuutien.jpg)
 
-Thang điểm 5
+Khi nhìn thấy dấu tích xanh bên cạnh VnExpress là đã hoàn thành.
 
-**Hoàn tất yêu cầu đề bài**
+[![](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/logo-white.svg)](/ "Vnexpress")
+[Cẩm nang](/du-lich/cam-nang "Cẩm nang")
+[Quay lại Du lịch](/du-lich "Du lịch")
 
-Nhìn chung có thể phản hồi yêu cầu đề bài; hình thức có thể chưa phù hợp ở một vài chỗ
+![](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/mail-ft.svg) **Email:** dulich@vnexpress.net
 
-IELTS Học ​​thuật: Có kể được chi tiết một cách rập khuôn mà không có mô tả chung rõ ràng; có thể không dẫn chứng dữ liệu để hỗ trợ ý.
+![](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/phone-ft.svg) **Điện thoại:** 083.888.0123 (HN) - 082.233.3555 (TP HCM)
 
-IELTS Tổng quát: Có thể trình bày mục đích của bức thư nhưng chưa rõ ràng; phong cách viết thư có thể biến đổi trong quá trình viết.
-
-Có trình bày, nhưng bao hàm không đầy đủ các ý chính / gạch đầu dòng; có thể có xu hướng đi sâu vào chi tiết.
-
-**Mức độ mạch lạc và chặt chẽ**
-
-Trình bày thông tin có sự sắp xếp các ý nhưng thiếu quá trình định hướng ý chung
-
-Sử dụng các phương pháp liên kết không chính xác hoặc quá mức
-
-Có thể lặp đị lặp lại vì thiếu phương pháp tham chiếu và phương pháp thay thế
-
-**Vốn từ vựng**
-
-Sử dụng lượng từ vựng hạn chế, nhưng điều này đạt yêu cầu tối thiểu cho đề bài
-
-Thang điểm 4
-
-**Hoàn tất yêu cầu đề bài**
-
-Cố gắng xử lý đề bài nhưng không bao hàm tất cả các ý chính/gạch đầu dòng; hình thức có thể chưa phù hợp
-
-IELTS Tổng Quát: Không giải thích rõ ràng mục đích của lá thư; cách diễn giải có thể không phù hợp
-
-Có thể nhầm lẫn giữa các ý chính/gạch đầu dòng chính; các phần có thể không rõ ràng, không liên quan, lặp ý hoặc không chính xác
-
-**Mức độ mạch lạc và chặt chẽ**
-
-Trình bày thông tin và ý tưởng nhưng sắp xếp chưa mạch lạc và không có quá trình triển khai ý rõ ràng.
-
-Sử dụng một vài phương pháp liên kết cơ bản nhưng có thể không chính xác hoặc lặp lại
-
-**Vốn từ vựng**
-
-Chỉ sử dụng những từ vựng cơ bản có thể được sử dụng lặp đi lặp lại hoặc có thể không phù hợp với đề bài
-
-Có hạn chế trong việc ghép từ và / hoặc chính tả; các lỗi có thể gây khó hiểu cho người đọc
-
-Thang điểm 3
-
-**Hoàn tất yêu cầu đề bài**
-
-Không xử lý được đề bài, có thể đã bị hiểu lầm hoàn toàn
-
-Trình bày những ý tưởng hạn chế mà phần lớn có thể không liên quan/lặp đi lặp lại
-
-**Mức độ mạch lạc và chặt chẽ**
-
-Không tổ chức ý tưởng một cách hợp lý
-
-Có thể sử dụng một số lượng hạn chế các từ ngữ gắn kết và những từ được sử dụng có thể không thể hiện rõ sự gắn kết hợp lý giữa các ý tưởng
-
-**Vốn từ vựng**
-
-Chỉ sử dụng một phạm vi rất hạn chế các từ và cấu trúc với khả năng kiểm soát rất hạn chế về hình thành từ và/hoặc chính tả
-
-Lỗi có thể làm sai lệch nghiêm trọng câu trả lời
-
-**Phạm vi và độ chính xác ngữ pháp**
-
-Cố gắng sử dụng các mẫu câu nhưng quá nhiều lỗi ngữ pháp và dấu câu làm sai lệch ý nghĩa
-
-Thang điểm 2
-
-**Hoàn tất yêu cầu đề bài**
-
-Câu trả lời gần như không liên quan đến đề bài
-
-**Mức độ mạch lạc và chặt chẽ**
-
-Hầu như không kiểm soát được các cấu trúc có tính tổ chức
-
-**Vốn từ vựng**
-
-Sử dụng phạm vi từ vựng cực kỳ hạn chế; về cơ bản không nắm được việc hình thành từ và/hoặc chính tả.
-
-**Phạm vi và độ chính xác ngữ pháp**
-
-Không thể sử dụng các mẫu câu trừ trong cụm từ ghi nhớ sẵn
-
-Thang điểm 1
-
-**Hoàn tất yêu cầu đề bài**
-
-Đáp án hoàn toàn không liên quan đến đề bài
-
-**Mức độ mạch lạc và chặt chẽ**
-
-Không truyền đạt được bất kỳ thông điệp nào
-
-**Vốn từ vựng**
-
-Chỉ có thể sử dụng một vài từ rời rạc
-
-**Phạm vi và độ chính xác ngữ pháp**
-
-Không thể sử dụng các mẫu câu
-
-Thang điểm 0
-
-**Hoàn tất yêu cầu đề bài**
-
-Không tham dự
-
-Không cố gắng thực hiện phần thi theo bất kỳ cách nào
-
-Viết câu trả lời được ghi nhớ toàn bộ
-
-**Mức độ mạch lạc và chặt chẽ**
-
-Không tham dự
-
-Không cố gắng thực hiện phần thi theo bất kỳ cách nào
-
-Viết câu trả lời được ghi nhớ toàn bộ
-
-**Vốn từ vựng**
-
-Không tham dự
-
-Không cố gắng thực hiện phần thi theo bất kỳ cách nào
-
-Viết câu trả lời được ghi nhớ toàn bộ
-
-**Phạm vi và độ chính xác ngữ pháp**
-
-Không tham dự
-
-Không cố gắng thực hiện phần thi theo bất kỳ cách nào
-
-Viết câu trả lời được ghi nhớ toàn bộ
-
-Nếu bạn chưa đạt điểm IELTS Writing như kỳ vọng, bạn có thể chọn thi lại một kỹ năng với [IELTS One Skill Retake](https://ielts.idp.com/vietnam/about/ielts-one-skill-retake). Tính năng này giúp bạn cải thiện điểm đạt tối đa ở phần IELTS Writing mà không cần phải thi lại toàn bộ bài IELTS. Điều này sẽ giúp bạn vừa tiết kiệm thời gian, công sức ôn luyện lại và tiết kiệm lệ phí thi.
-
-## Tìm hiểu thêm
-
-[![undefined]()Thang điểm IELTS - Cách tính điểm IELTS](/vietnam/results/scores "Thang điểm IELTS - Cách tính điểm IELTS")[![undefined]()Cách tính điểm IELTS Speaking](/vietnam/results/scores/speaking "Cách tính điểm IELTS Speaking")[![undefined]()Cách tính điểm IELTS Listening](/vietnam/results/scores/listening "Cách tính điểm IELTS Listening")[![undefined]()Thang điểm bài thi Đọc IELTS](/vietnam/results/scores/reading "Thang điểm bài thi Đọc IELTS")
-
-## Tin tức và sự kiện nổi bật
-
-[Xem tất cả bài viết](/vietnam/about/news-and-articles)
-
-[![Coherence and Cohesion]()Preparation
-
-Coherence and Cohesion: Bí quyết ghi điểm IELTS Writing
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-coherence-and-cohesion)
-
-[![Task Achievement]()Band scores
-
-Task Achievement là gì? Cách tối ưu điểm số IELTS Writing
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-task-achievement)
-
-[![Cause and Effect essay ]()Preparation
-
-Cause and Effect essay: Cấu trúc, Từ vựng và Bài mẫu
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-cause-and-effect-essay)
-
-[![Female test taker wearing a green sweatshirt talks to an IELTS test centre staff]()Preparation
-
-Cách viết đoạn conclusion (kết luận) tốt trong Bài thi IELTS Writing Task 2
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-how-to-write-a-conclusion-writing-task-2)
-
-[![Cách viết thư Writing Task 1]()Preparation
-
-IELTS General Training, Writing Task 1: Cách viết thư
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-general-training-writing-task-1-write-a-letter)
-
-[![Four students sit on a university lawn and discuss IELTS]()Band scores
-
-IELTS Writing Task 2: 8 bước để chinh phục thang điểm 8.0
-
-![clock]()30 mins read](/vietnam/prepare/article-ielts-writing-task-2-8-steps-to-band-8)
-
-[![A group of students sit at a table and study around for their IELTS test.]()Band scores
-
-Bài thi Viết Phần 1 của IELTS: Làm thế nào để đạt thang điểm 7.0 trở lên](/vietnam/about/news-and-articles/article-ielts-academic-writing-task-1-band-7-task-achievement)
-
-[![]()
-
-Bí quyết để đạt 9.0 IELTS Writing
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-writing-test-guide-to-band-9)
-
-[![The A to Z of IELTS: L is for Lexical Resource]()Preparation
-
-Lexical Resource là gì? Cách cải thiện điểm thi IELTS Writing](/vietnam/about/news-and-articles/article-l-is-for-lexical-resource)
-
-[![IDP IELTS co-brand logo - footer]( "IDP IELTS co-brand logo - footer")](/vietnam "IDP IELTS co-brand logo - footer")
-
-![]()Việt Nam
-
-* [Argentina](https://ielts.idp.com/argentina)
-* [Armenia](https://ielts.idp.com/armenia)
-* [Australia](https://ielts.com.au/australia)
-* [Ba Lan](https://ielts.idp.com/austria)
-* [Azerbaijan](https://ielts.idp.com/azerbaijan)
-* [Bahrain](https://ielts.idp.com/bahrain)
-* [Bangladesh](https://ielts.idp.com/bangladesh)
-* [Brazil](https://ielts.idp.com/brazil)
-* [Bulgaria](https://ielts.idp.com/bulgaria)
-* [Cam-pu-chia](https://ielts.idp.com/cambodia)
-* [Canada](https://ielts.idp.com/canada)
-* [Chile](https://ielts.idp.com/chile)
-* [China](https://www.idpielts.cn)
-* [Colombia](https://ielts.idp.com/colombia)
-* [Cộng hòa Síp](https://ielts.idp.com/cyprus)
-* [Ecuador](https://ielts.idp.com/ecuador)
-* [Ai Cập](https://ielts.idp.com/egypt)
-* [Fiji](https://ielts.co.nz/test-centre/ches-fiji-ielts-test-centre)
-* [France](https://ielts.idp.com/france)
-* [Germany](https://ielts.idp.com/germany)
-* [Việt Nam](https://ielts.idp.com/ghana)
-* [Global](https://ielts.idp.com/)
-* [Hy Lạp](https://ielts.idp.com/greece)
-* [Hong kong](https://ielts.idp.com/hongkong)
-* [Ấn Độ](https://www.ieltsidpindia.com/)
-* [Indonesia](https://ielts.idp.com/indonesia)
-* [Iran](https://ielts.idp.com/iran)
-* [Iraq](https://ielts.idp.com/iraq)
-* [Ireland](https://ielts.idp.com/ireland)
-* [Nước Ý](https://ielts.idp.com/italy)
-* [Nhật Bản](https://ieltsjp.com/japan)
-* [Jordan](https://ielts.idp.com/jordan)
-* [Kazakhstan](https://ielts.idp.com/kazakhstan)
-* [Kenya](https://ielts.idp.com/kenya)
-* [Kiribati](https://ielts.co.nz/newzealand/test-centre/ielts-kiribati)
-* [Kuwait](https://ielts.idp.com/kuwait)
-* [Laos](https://ielts.idp.com/laos)
-* [Lebanon](https://ielts.idp.com/lebanon)
-* [Malaysia](https://ielts.idp.com/malaysia)
-* [Mauritius](https://ielts.idp.com/mauritius)
-* [Mexico](https://ielts.idp.com/mexico)
-* [Trung Đông](https://ielts.idp.com/uae)
-* [Moldova](https://ielts.idp.com/moldova)
-* [Ả Rập Xê Út](https://ielts.idp.com/mongolia)
-* [Myanmar](https://ielts.idp.com/myanmar)
-* [Nauru](https://ielts.co.nz/test-centre/the-university-of-auckland-ielts-centre-nauru)
-* [Nepal](https://ielts.idp.com/nepal)
-* [Netherlands](https://ielts.idp.com/netherlands)
-* [New Caledonia](https://ielts.co.nz/newzealand/test-centre/ielts-newcaledonia)
-* [New Zealand](https://ielts.co.nz/newzealand)
-* [Nigeria](https://ielts.idp.com/nigeria)
-* [Oman](https://ielts.idp.com/oman)
-* [Pakistan](https://ielts.idp.com/pakistan)
-* [Papua New Guinea](https://ielts.com.au/australia/test-centre/idp-ielts-test-centre-port-moresby)
-* [Peru](https://ielts.idp.com/peru)
-* [Philippines](https://ielts.idp.com/philippines)
-* [Ba Lan](https://ielts.idp.com/poland)
-* [Portugal](https://ielts.idp.com/portugal)
-* [Katar](https://ielts.idp.com/qatar)
-* [Romania](https://ielts.idp.com/romania)
-* [Samoa](https://ielts.co.nz/newzealand/test-centre/ielts-samoa)
-* [Ả Rập Xê Út](https://ielts.idp.com/saudiarabia)
-* [Singapore](https://ielts.idp.com/singapore)
-* [Quần đảo Solomon](https://ielts.co.nz/test-centre/the-university-of-auckland-ielts-centre-the-solomon-islands)
-* [Ả Rập Xê Út](https://ielts.idp.com/southafrica)
-* [Hàn Quốc](https://ieltskorea.org/korea)
-* [Tây Ban Nha](https://ielts.idp.com/spain)
-* [Sri Lanka](https://ielts.idp.com/srilanka)
-* [Thụy Sĩ](https://ielts.idp.com/switzerland)
-* [Syria](https://ielts.idp.com/syria)
-* [Tahiti](https://ielts.co.nz/newzealand/about/ielts-in-the-pacific)
-* [Đài Loan](https://ielts.idp.com/taiwan)
-* [Ả Rập Xê Út](https://ielts.idp.com/tajikistan)
-* [Thái Lan](https://ielts.idp.com/thailand)
-* [Tonga](https://ielts.co.nz/newzealand/test-centre/ielts-tonga)
-* [Thổ Nhĩ Kỳ](https://ielts.idp.com/turkey)
-* [Quần đảo Ellice](https://ielts.co.nz/newzealand/about/ielts-in-the-pacific)
-* [Các Tiểu Vương quốc Ả Rập Thống nhất](https://ielts.idp.com/uae)
-* [Uruguay](https://ielts.idp.com/uruguay)
-* [Uzbekistan](https://ielts.idp.com/uzbekistan)
-* [Việt Nam](https://ielts.co.nz/newzealand/test-centre/ielts-vanuatu)
-
-* Giới thiệu
-* Hình thức thi IELTS
-* Thi IELTS
-
-Giới thiệu
-
-* [Các tổ chức công nhận IELTS](/vietnam/about/who-accepts-ielts/organisations-that-accept-ielts "Các tổ chức công nhận IELTS")
-* [Tin tức và bài viết cập nhật](/vietnam/about/news-and-articles "Tin tức và bài viết cập nhật")
-* [Sự kiện IELTS](/vietnam/events "Sự kiện IELTS")
-* [Hình thức thi nào phù hợp với tôi?](/vietnam/about/which-test-do-i-take "Hình thức thi nào phù hợp với tôi?")
-* [Chương trình ưu đãi IELTS](/vietnam/ielts-promotion "Chương trình ưu đãi IELTS")
-* [Đối tác IDP IELTS tại Việt Nam](/vietnam/partners "Đối tác IDP IELTS tại Việt Nam")
-* [Câu chuyện thành công](/vietnam/about/where-ielts-can-take-me/success-stories "Câu chuyện thành công")
-* [IELTS - Tấm vé vàng để đi du học](https://www.idp.com/vietnam/ "IELTS - Tấm vé vàng để đi du học")
-* [Liên hệ IDP IELTS](/vietnam/contact-us "Liên hệ IDP IELTS")
-
-Hình thức thi IELTS
-
-* [Thi IELTS trên máy tính](/vietnam/about/news-and-articles/article-computer-delivered-ielts "Thi IELTS trên máy tính")
-* [IELTS Học thuật](/vietnam/about/which-test-do-i-take/academic "IELTS Học thuật")
-* [IELTS Tổng quát](/vietnam/about/which-test-do-i-take/general-training "IELTS Tổng quát")
-* [IELTS UKVI Học thuật](/vietnam/about/which-test-do-i-take/academic-ukvi "IELTS UKVI Học thuật")
-* [IELTS UKVI Tổng quát](/vietnam/about/which-test-do-i-take/general-training-ukvi "IELTS UKVI Tổng quát")
-* [IELTS UKVI Life Skills](/vietnam/about/which-test-do-i-take/life-skills-ukvi "IELTS UKVI Life Skills")
-* [IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake")
-
-Thi IELTS
-
-* [Đăng ký thi IELTS](/vietnam/book-my-test "Đăng ký thi IELTS")
-* [Lịch thi IELTS](/vietnam/test-day "Lịch thi IELTS")
-* [Lệ phí thi IELTS](/vietnam/ielts-fees "Lệ phí thi IELTS")
-* [Tìm địa điểm thi IELTS](/vietnam/test-dates "Tìm địa điểm thi IELTS")
-* [Câu hỏi thường gặp về IELTS](/vietnam/faq/ielts-faq "Câu hỏi thường gặp về IELTS")
-* [Bài kiểm tra IELTS Familiarisation](/vietnam/prepare/ielts-familiarisation-tests "Bài kiểm tra IELTS Familiarisation")
-* [Ứng dụng IELTS by IDP](/vietnam/lp/ielts-by-idp-app "Ứng dụng IELTS by IDP")
-* [IELTS Masterclass](/vietnam/prepare/masterclass "IELTS Masterclass")
-* [Tải các mẫu đơn](/vietnam/prepare/downloadable-form "Tải các mẫu đơn")
-
-IDP IELTS – Việt Nam
-
-* [![youtube]()](https://www.youtube.com/%40IELTSbyIDPVietnam)
-* [![instagram]()](https://www.instagram.com/ieltsbyidpvietnam/)
-* [![linkedin]()](https://www.linkedin.com/showcase/idp-vietnam/)
-* [![facebook]()](https://www.facebook.com/ieltsbyidpvietnam/)
-* [![zalo]()](https://zalo.me/3587922624351485800)
-* [![tiktok]()](https://www.tiktok.com/%40ieltsbyidpvietnam)
-
-© IELTS Partners. IELTS Partners defined as The British Council, IELTS Australia Pty. Ltd. and Cambridge English (part of Cambridge University Press & Assessment)
-
-IELTS, IELTS logos, and various other marks (雅思, آيلتس) and signs on this website are registered trademarks or trademarks of the IELTS Partners and are protected by relevant trademark laws around the world. You must not use, copy, reproduce, modify, distribute, republish, display or communicate these trademarks in any way.
-
-* [Liên hệ với chúng tôi](/vietnam/contact-us "Liên hệ với chúng tôi")
-* [Thông báo pháp lý](/vietnam/legal-notices "Thông báo pháp lý ")
-* [Chính sách quyền riêng tư](/vietnam/legal-notices#ielts-australia-privacy-policy "Chính sách quyền riêng tư ")
-* [Chính sách cookie](/vietnam/legal-notices#cookie-policy "Chính sách cookie ")
-* Bản quyền 2026 IDP IELTS
-
-Please enable JavaScript to continue using this application.
+[![](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/ico-term.svg) Điều khoản sử dụng](/dieu-khoan-su-dung)

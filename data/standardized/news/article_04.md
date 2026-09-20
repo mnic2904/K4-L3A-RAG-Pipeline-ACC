@@ -1,481 +1,243 @@
-# IELTS Listening band score - Thang điểm IELTS Listening
+# Kinh nghiệm du lịch Hà Giang 2026 từ A đến Z: di chuyển, lưu trú, ăn chơi, đặc sản...
 
-**Source:** https://ielts.idp.com/vietnam/results/scores/listening
+**Source:** https://vnexpress.net/cam-nang-du-lich-ha-giang-4445788.html
 
-**Crawled:** 2026-09-20T14:40:39.870647
+**Crawled:** 2026-09-20T15:24:10.308303
 
 ---
 
-The official IELTS by IDP app is here! [Download it](/lp/ielts-by-idp-app)  today.
+[![VNExpress](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/logo_white_tagline.svg)](/ "Vnexpress")
 
-![Close](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/icons/close_btn.svg)
+[Cẩm nang](/du-lich/cam-nang)
 
-[![IDP IELTS Logo](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/idp_ielts_logo.svg)](/vietnam "IDP IELTS")
+[Quay lại Du lịch](/du-lich "Du lịch")
 
-* [Bài thi IELTS](/vietnam/about/which-test-do-i-take "Bài thi IELTS")
+[Cẩm nang](/du-lich/cam-nang)
 
-  Tìm hiểu bài thi [IELTS Academic](/vietnam/about/which-test-do-i-take/academic "IELTS Academic")  [IELTS General Training](/vietnam/about/which-test-do-i-take/general-training "IELTS General Training")  [IELTS for UKVI Academic](/vietnam/about/which-test-do-i-take/academic-ukvi "IELTS for UKVI Academic")  [IELTS for UKVI General Training](/vietnam/about/which-test-do-i-take/general-training-ukvi "IELTS for UKVI General Training")  [IELTS Life Skills](/vietnam/about/which-test-do-i-take/life-skills-ukvi "IELTS Life Skills")  [Thi IELTS trên máy tính](/vietnam/about/news-and-articles/article-computer-delivered-ielts "Thi IELTS trên máy tính")
+[Quay lại Du lịch](/du-lich)
 
-  IELTS One skill Retake[![globe]() IELTS One Skill Retake là gì?](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake là gì?") [![news-item]() Hướng dẫn đăng ký thi IELTS One Skill Retake](/vietnam/about/news-and-articles/article-how-to-book-ielts-one-skill-retake "Hướng dẫn đăng ký thi IELTS One Skill Retake") [![why-choose-ielts]() Các tổ chức chấp nhận IELTS One Skill Retake](/vietnam/about/who-accepts-ielts-one-skill-retake "Các tổ chức chấp nhận IELTS One Skill Retake") [![why-choose-ielts]() Cách sử dụng kết quả IELTS One Skill Retake](/vietnam/about/news-and-articles/article-ielts-one-skill-retake-osr-results-trf "Cách sử dụng kết quả IELTS One Skill Retake ") [![FAQ]() Câu hỏi thường gặp IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake-faqs "Câu hỏi thường gặp IELTS One Skill Retake")
+![](https://i1-dulich.vnecdn.net/2022/04/01/MaPiLengHaGiangVnExpress-16488-3513-7729-1648806038.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=lFRvWQkOmXNG_PtKd7ylvw)
 
-  [Đăng ký thi IELTS](https://ielts.idp.com/vietnam/book-my-test "Đăng ký thi IELTS") [![ielts-event]() Lịch thi IELTS](/vietnam/test-day "Lịch thi IELTS") [![presentation-chart-bar]() Lệ phí thi IELTS](/vietnam/ielts-fees "Lệ phí thi IELTS") [![ielts online]() Chương trình ưu đãi IELTS](/vietnam/ielts-promotion "Chương trình ưu đãi IELTS") [![IELTS by IDP app - Light bulb icon]() Địa điểm thi IELTS](/vietnam/test-dates "Địa điểm thi IELTS")
-* [Chuẩn bị](https://ielts.idp.com/ielts-prep-hub "Chuẩn bị")
+Cẩm nang du lịch
 
-  Truy cập IELTS Prepare Hub
+# Hà Giang
 
-  ![Prepare Hub]()
+* [Trở lại Du lịch](/du-lich)
 
-  #### Truy cập IELTS Prepare Hub
+* [Du lịch](/du-lich "Du lịch")
+* [Cẩm nang](/du-lich/cam-nang "Cẩm nang")
 
-  Hãy truy cập IELTS Prepare Hub để khám phá tài liệu hữu ích và đăng ký sự kiện luyện thi trực tiếp hoặc trực tuyến.
+Thứ tư, 9/3/2022, 00:10 (GMT+7)
 
-  [Truy cập kho tài liệu IELTS](http://ielts.idp.com/ielts-prep-hub "Truy cập kho tài liệu IELTS")
+* Điều hướng nhanh
+* [Di chuyển](#cb71k2p233r)
+* [Khách sạn, homestay đẹp](#avjbrxbr4yj)
+* [Chơi đâu ở Hà Giang?](#jtn2l2sd4is)
+* [Đặc sản Hà Giang](#i8kr1ixrua)
+* [Mua gì làm quà ở Hà Giang?](#khazfnrtdea)
 
-  Chuẩn bị cho kỳ thi[IELTS Academic](/vietnam/prepare/academic-preparation "IELTS Academic") [IELTS General Training](/vietnam/prepare/ielts-general-training-preparation "IELTS General Training") [IELTS for UKVI](/vietnam/prepare/ielts-for-ukvi "IELTS for UKVI")
+Hà Giang là tỉnh địa đầu của Tổ quốc, phía Đông giáp tỉnh Cao Bằng, phía Tây giáp tỉnh Yên Bái và Lào Cai, phía Nam giáp tỉnh Tuyên Quang, phía Bắc giáp Trung Quốc. Các cung đường Hà Giang quanh co, cheo leo vốn đầy thách thức cho người lái xe. Thế nhưng khi bạn phóng tầm mắt xung quanh, căng thẳng nhường lại chỗ cho cảm giác thư thái khi chiêm ngưỡng vẻ đẹp cao nguyên.
 
-  Thi thử[Thông tin về thi thử IELTS](/vietnam/about/news-and-articles/article-ielts-computer-trial-at-home "Thông tin về thi thử IELTS") [Đăng ký thi thử IELTS](/vietnam/about/news-and-articles/article-ielts-fam-test-dates "Đăng ký thi thử IELTS")
+### Hà Giang mùa nào đẹp?
 
-  Chuẩn bị cho ngày thi[Cần mang theo những gì khi đi thi IELTS](/vietnam/about/test-day/what-to-bring "Cần mang theo những gì khi đi thi IELTS") [Vào ngày thi](/vietnam/about/test-day "Vào ngày thi") [Sự kiện](/vietnam/events "Sự kiện") [Đổi lịch thi hoặc hủy thi IELTS](/vietnam/about/test-day/reschedule-cancel-ielts "Đổi lịch thi hoặc hủy thi IELTS")
+Là tỉnh miền núi cao nên khí hậu ở Hà Giang lạnh rõ rệt so với vùng thấp và trung du kế cận. Nhiệt độ trung bình năm khoảng 21-23 độ C. Nét nổi bật của khí hậu là độ ẩm cao trong năm, mưa nhiều và kéo dài.
 
-  Chuẩn bị cho các kỹ năng[![ielts-listening-icon]()Bài thi Nghe IELTS](/vietnam/prepare/listening "Bài thi Nghe IELTS") [![ielts-reading-icon]()Bài thi Đọc IELTS](/vietnam/prepare/reading "Bài thi Đọc IELTS") [![ielts-writing-icon]()Bài thi Viết IELTS](/vietnam/prepare/writing "Bài thi Viết IELTS") [![ielts-speaking-icon]()Bài thi Nói IELTS](/vietnam/prepare/speaking "Bài thi Nói IELTS")
+Bạn có thể du lịch Hà Giang vào bất kỳ mùa nào trong năm. Người ta thường đến Hà Giang vào mùa thu lúa chín vàng. Thời gian đẹp nhất là tháng 10, 11 và 12, khi hoa tam giác mạch hay những cánh đồng cải khoe sắc. Còn mùa xuân, hoa mơ, hoa mận nở trắng rừng khiến bạn như đang bồng bềnh trên mây.
 
-  [![diagnostic-icon]()
+Tháng 5, những thửa ruộng lấp loáng mùa nước đổ. Tháng 6 và tháng 7, nhiều người bỏ lỡ Hà Giang vì những cơn mưa hè réo rắt bất chợt. Nhưng cũng nhờ sự ẩm ướt này, núi rừng nơi đây lại khoác lên mình một màu xanh mướt say đắm lòng người.
 
-  ##### English self-assessment tool
+![](https://i1-dulich.vnecdn.net/2022/07/05/Meo-Vac-Ha-Giang-6830-16488070-5496-1277-1657019227.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=ARNpFMVrOMiRAU6WLShnkw)
 
-  Check your reading and listening skills and get recommendations for your IELTS preparation.
+Đám trẻ chạy giữa luống hoa cải vàng ở Mèo Vạc. Ảnh: *Nguyễn Đức Phước*
 
-  Try now](https://ielts.idp.com/diagnostic-tool-preparation "diagnostic-tool")
+![mua-xuan-ha-giang-vnexpress-8-5717-8783-]( "Chiều xuân trên Phố Cáo. Ảnh: Nguyễn Hữu Thông")
 
-  Kho tài liệu[![expert-tips]() Kho tài liệu IELTS](https://ielts.idp.com/prepare/all-test-types/all-skills/article "Kho tài liệu IELTS") [![masterclass]() IELTS Masterclass](/vietnam/prepare/masterclass "IELTS Masterclass")
-* [Kết quả](/vietnam/results "Kết quả")
+![mua-xuan-ha-giang-vnexpress-3-2794-8490-]( "Ảnh: Nguyễn Hữu Thông")
 
-  Kiểm tra kết quả
+![Ha-Giang-tam-giac-mach-2777-1648718522.j]( "Mùa hoa tam giác mạch tại Lũng Táo, Đồng Văn. Ảnh: Nguyễn Đức Phước")
 
-  ![]()
+### Di chuyển
 
-  #### Kiểm tra kết quả
+Đến Hà Giang từ các tỉnh miền Bắc rất dễ dàng vì có nhiều nhà xe chạy thẳng. Ngược lại với những du khách ở xa trong miền Nam hoặc miền Trung thì nên bắt đầu hành trình từ Hà Nội. Từ Hà Nội, hầu như giờ nào cũng có xe khách xuất phát từ các bến xe Mỹ Đình, Lương Yên, Yên Nghĩa, Gia Lâm.
 
-  Truy cập tài khoản IELTS IDP để kiểm tra kết quả và nhiều tiện ích khác
+Du khách có thể chọn xe giường nằm hoặc xe limousine chất lượng cao, tùy theo tài chính. Tuy vậy, bạn nên di chuyển bằng xe khách đêm để tiết kiệm được thời gian, giữ sức cho chuyến hành trình khám phá dài. Giá vé xe từ Hà Nội đến Hà Giang và ngược lại dao động 200.000 - 300.000 đồng một lượt.
 
-  [Đăng nhập ngay](https://account.ielts.idp.com/ "Đăng nhập ngay")
+Khi đến TP Hà Giang, bạn có thể thuê xe máy tự túc du ngoạn với giá 150.000 - 300.000 đồng một xe trong ngày. Ngược lại nếu không đủ thời gian và sức khỏe, hoặc đoàn có người già và trẻ nhỏ thì bạn nên thuê ô tô dịch vụ 7 - 16 chỗ.
 
-  Thang điểm IELTS[![ielts-calculator]() Cách tính điểm IELTS](/vietnam/results/scores "Cách tính điểm IELTS") [![ielts-listening-icon]() Thang điểm IELTS Listening](/vietnam/results/scores/listening "Thang điểm IELTS Listening") [![ielts-reading-icon]() Thang điểm IELTS Reading](/vietnam/results/scores/reading "Thang điểm IELTS Reading") [![ielts-writing-icon]() Thang điểm IELTS Writing](/vietnam/results/scores/writing "Thang điểm IELTS Writing") [![ielts-speaking-icon]() Thang điểm IELTS Speaking](/vietnam/results/scores/speaking "Thang điểm IELTS Speaking") [![ukvi-icon]() Điểm số IELTS Life Skills](/vietnam/results/scores/life-skills "Điểm số IELTS Life Skills")
+### Khách sạn, homestay đẹp
 
-  Các bước tiếp theo[![osr-icon-header]() IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake") [![ielts online]() Nhận kết quả thi IELTS nhanh chóng](/vietnam/results/faster-test-results "Nhận kết quả thi IELTS nhanh chóng") [![remark]() Yêu cầu phúc khảo](/vietnam/results/request-remark "Yêu cầu phúc khảo") [![Access computer-based results]() Yêu cầu cấp thêm bảng điểm](/vietnam/results/request-additional-trf "Yêu cầu cấp thêm bảng điểm") [![reader]() Tải các mẫu đơn](/vietnam/prepare/downloadable-form "Tải các mẫu đơn") [![idp]() IELTS - Tấm vé vàng để đi du học](https://www.idp.com "IELTS - Tấm vé vàng để đi du học")
-* [Cộng đồng IELTS](https://ielts.idp.com/ielts-community "Cộng đồng IELTS")
+Những gia đình, cặp đôi muốn lưu trú tại khu nghỉ dưỡng cao cấp, riêng biệt có thể đến với P'apiu ở xã Yên Định, huyện Bắc Mê. Tại đây, du khách được đắm chìm trong sắc màu vùng cao bởi [con đường thổ cẩm](https://vnexpress.net/con-duong-tho-cam-dai-nhat-viet-nam-4222865.html) dài nhất Việt Nam, lưu trú trong những biệt thự, villa mang thiết kế nhà trình tường của người H'Mong. Giá một đêm nghỉ khoảng 10.000.000 đồng.
 
-  Cộng đồng IELTS IDP
+Với những du khách yêu thích sự mới lạ, H'Mong Village với thiết kế hình quẩy tấu là một gợi ý. Khu nghỉ dưỡng nằm trên những ngọn đồi ở Tráng Kìm, Quản Bạ, mặt hướng về dòng sông Miện và những dãy núi hùng vĩ phía xa. Du khách có thể lựa chọn ở phòng cộng đồng, giá 400.000 đồng một đêm hoặc ở bungalow quẩy tấu 2.400.000 đồng một đêm.
 
-  ![]()
+![](https://i1-dulich.vnecdn.net/2022/07/05/Hoang-Su-Phi-Ha-Giang-1196-164-6724-9210-1657019230.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=YTmLZeGs7B2yAKNffb8QWA)
 
-  #### Cộng đồng IELTS IDP
+Ảnh: *Hoang Su Phi Lodge*
 
-  Lắng nghe những lời khuyên, trả lời cho những câu hỏi thường gặp từ chính chuyên gia IELTS với nguồn thông tin đáng tin cậy.
+Với lựa chọn gần gũi với cộng đồng, chi phí thấp hơn, du khách có thể lưu trú tại các [homestay](https://vnexpress.net/4-homestay-ha-giang-cho-chuyen-ngam-mua-vang-4161318.html), trong đó ở Hoàng Su Phì có Hoang Su Phi Lodge và Kinh Homestay, sát bên những ruộng bậc thang ở thôn Nậm Hồng; Hồ Thầu Eco Village xã Hồ Thầu với khu nghỉ nhà trình tường lợp mái lá.
 
-  [Khám phá cộng đồng IELTS](https://ielts.idp.com/ielts-community "Khám phá cộng đồng IELTS")
+Ngoài ra, bạn có thể ở Chúng Pủa - Auberge de MeoVac (Mèo Vạc) với ngôi nhà đất đậm chất địa phương hay Bụi homestay là nhà sàn ở Đồng Văn. Ở Đồng Văn còn có nhà cổ Hoàng Thân giá 100.000 đồng một người; Ong Vàng Mèo Vạc giá chỉ 230.000 đồng một đêm. Ở bản [Lô Lô Chải](https://vnexpress.net/lo-lo-chai-thon-di-den-noi-co-gio-phien-ban-viet-4667250.html) gần cột cờ Lũng Cú có homestay Lo Lo Ancient House.
 
-  Tìm hiểu thêm[![ielts-by-idp-app]() Ứng dụng IELTS by IDP](/vietnam/lp/ielts-by-idp-app "Ứng dụng IELTS by IDP")
+### **Chơi đâu?**
 
-  Kênh mạng xã hội
+Vì các điểm du lịch ở Hà Giang cách xa nhau, bạn nên chọn hành trình ít nhất là 3 ngày 2 đêm mới có đủ thời gian "cưỡi ngựa xem hoa". Hành trình [3 ngày 4 đêm](https://vnexpress.net/3-ngay-o-ha-giang-voi-1-4-trieu-dong-4217214.html) được nhiều du khách gợi ý, hoặc dư dả hơn là [5 ngày](https://vnexpress.net/chuyen-di-ha-giang-5-ngay-voi-3-trieu-dong-4168542.html).
 
-  [![youtube]()](https://www.youtube.com/%40IELTSbyIDPVietnam)[![instagram]()](https://www.instagram.com/ieltsbyidpvietnam/)[![linkedin]()](https://www.linkedin.com/showcase/idp-vietnam/)[![facebook]()](https://www.facebook.com/ieltsbyidpvietnam/)[![zalo]()](https://zalo.me/3587922624351485800)[![tiktok]()](https://www.tiktok.com/%40ieltsbyidpvietnam)
+Dưới đây là lịch trình tham khảo cho chuyến đi 3 ngày 2 đêm.
 
-  Cảm nghĩ về IDP
+**Ngày 1: Hà Nội - Hà Giang - Đồng Văn**
 
-  ![testimonial]()
+Để kịp dự chợ phiên Đồng Văn vào sáng chủ nhật, bạn hãy khởi hành từ Hà Nội từ tối thứ 6. 8h sáng ngày hôm sau bạn có thể lên đường tới Đồng Văn và chụp ảnh ven đường, khi không khí buổi sớm còn dễ chịu. Đường từ TP Hà Giang tới [Đồng Văn](https://vnexpress.net/cam-nang-du-lich-dong-van-4641450.html) nên chia làm các chặng dừng để vừa đi vừa tận hưởng hơn là chạy một mạch.
 
-  Nhân viên IELTS thân thiên, hỗ trợ thí sinh nhiệt, vui vẻ. Văn phòng IDP rất đẹp, 10 điểm không có nhưng
+*Chặng 1: Hà Giang - Cổng trời Quản Bạ (40 km)*
 
-  ![avatar]()
+Từ thành phố, điểm đầu tiên là cột mốc Km 0, sau đó di chuyển đến Quản Bạ chừng 40 km. Ở đây có cổng trời là điểm check-in nổi tiếng, nhưng nếu đi vào mùa đông, có khả năng gặp mây mù. Nếu trời quang, bạn có thể chụp ảnh, ngắm đồng ruộng bên dưới.
 
-  ##### Thanh Nguyen
+Từ đây có thể nhìn thấy hồ Nặm Đăm, thuộc thôn Nặm Đăm là thôn homestay của người Dao nổi tiếng tại Quản Bạ. Ngoài cổng trời, bạn cũng có thể ghé thăm Núi Đôi Cô Tiên cách đó không xa.
 
-  19/06/2024
+*Chặng 2: Cổng trời Quản Bạ - Thị trấn Yên Minh (30 km)*
 
-  [Xem thêm các chia sẻ](/vietnam/about/where-ielts-can-take-me/success-stories)
-* [Về IELTS](/vietnam/about "Về IELTS")
+Lưu ý, khi đi tới cầu Cán Tỷ có 2 lối rẽ, lối lên dốc sẽ tiết kiệm cho bạn 20 km, nhưng cũng khó khăn hơn và đòi hỏi phải là tay lái cứng. Hãy tính toán thời gian để đến đến Yên Minh và ăn trưa tại đó.
 
-  [HỢP TÁC VỚI IELTS](/vietnam/about "HỢP TÁC VỚI IELTS")  [IELTS dành cho giáo viên](/vietnam/about/ielts-for-teachers "IELTS dành cho giáo viên")  [IELTS dành cho tổ chức](/vietnam/about/ielts-for-organisations "IELTS dành cho tổ chức")  [Đối tác IDP IELTS tại Việt Nam](/vietnam/partners "Đối tác IDP IELTS tại Việt Nam")
+*Chặng 3: Thị trấn Yên Minh - phố cổ Đồng Văn (45 km)*
 
-  Giới thiệu IDP IELTS[![globe]() Các tổ chức công nhận](/vietnam/about/who-accepts-ielts/organisations-that-accept-ielts "Các tổ chức công nhận") [![Latest updates icon - Global rebrand header]() Tin tức và bài viết cập nhật](/vietnam/about/news-and-articles "Tin tức và bài viết cập nhật") [![why-choose-ielts]() Tại sao chọn IELTS?](/vietnam/about/news-and-articles/article-who-takes-ielts "Tại sao chọn IELTS?") [![FAQ]() Câu hỏi thường gặp về IELTS](/vietnam/faq/ielts-faq "Câu hỏi thường gặp về IELTS")
+Đây là tuyến đường nhiều cảnh đẹp và các điểm du lịch được nhiều người biết tới. Đó là Dốc Thẩm Mã hay Đèo 9 Khoanh, điểm check-in biểu tượng của Hà Giang. Tại đây, bạn dễ gặp những người bạn ngoại quốc, những nhà nhiếp ảnh phong cảnh, và đặc biệt là các em bé Mông gùi đầy hoa cỏ.
 
-  TIN TỨC, BÀI VIẾT CẬP NHẬT
+![](https://i1-dulich.vnecdn.net/2022/07/05/du-lich-Ha-Giang-2-2585-164871-2003-9790-1657019230.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=F34qvvJCJE7NI_OoDND0NQ)
 
-  [![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+Dốc Thẩm Mã, hay còn gọi là Dốc 9 khoanh nổi tiếng. Ảnh: Ngân Dương
 
-  ##### Các dạng bài & cách viết IELTS Writing Task 1](/vietnam/about/news-and-articles/article-ielts-writing-task-1)[![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+Phố Cáo - ngôi làng cổ không bị thương mại hóa nên còn giữ nhiều nét truyền thống của người Mông xưa. Hay nhà Pao, bối cảnh của nhiều bộ phim Việt, cũng là điểm nên ghé thăm. Hiện nhà Pao vừa là nhà dân vừa là điểm du lịch. Các điểm trên cách nhau 10 km, hãy tham quan và chú ý thời gian để tới Đồng Văn kịp trời tối.
 
-  ##### Các dạng Writing Task 2 thường gặp và định hướng làm bài](/vietnam/about/news-and-articles/article-ielts-writing-task-2)[![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+![pho-cao-ha-giang-8752-1648718522.jpg]( "Phố Cáo nằm trên quốc lộ 4C, cách trung tâm thị trấn Đồng Văn hơn 30 km. Ảnh: Nguyễn Hữu Thông")
 
-  ##### IELTS Speaking Part 1: Các chủ đề thường gặp và bí quyết trả lời](/vietnam/about/news-and-articles/article-ielts-speaking-test-part-1)
+![Ha-Giang-2-4139-1648807019.jpg]( "Ảnh: Nguyễn Hữu Thông")
 
-  [Read more](/vietnam/about/news-and-articles)
+![pho-cao-2511-1648718523.jpg]( "Chiều xuân trên Phố Cáo với bờ rào đá bao quanh căn nhà cổ, bên cạnh là ụ rơm và hoa mận, đào. Ảnh: Nguyễn Hữu Thông")
 
-![language](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/icons/language.svg)VI
+![du-lich-Ha-Giang-pho-cao-8631-1648718523]( "Trong tiết trời xuân Phố Cáo, một nhóm người dân tươi cười lúc thưởng thức rượu và các món ăn vùng cao. Ảnh: Nguyễn Hữu Thông")
 
-* Vietnamese
-* English
-* Simplified Chinese
+**Ngày 2: Đồng Văn - Mèo Vạc**
 
- [Đăng ký thi ngay](https://bxsearch.ielts.idp.com/wizard)
+Hãy dành chút thời gian buổi sáng để đi chợ phiên, nét đặc trưng vùng mà miền xuôi không nơi nào có. Chợ sầm uất với nhiều mặt hàng, từ những thứ thông dụng của người Kinh như đồ điện tử, rau quả, quần áo... đến các đặc sản dân tộc như vải lanh, thổ cẩm, bánh tam giác mạch, thắng cố... Nếu bạn mua quà về, nhớ chọn những thứ dễ mang như gia vị hay vải lanh.
 
-* [IDP IELTS Việt Nam](/vietnam)
-* [Kết quả thi IELTS của bạn](/vietnam/results)
-* [Thang điểm IELTS và cách tính điểm IELTS Overall chuẩn nhất](/vietnam/results/scores)
-* [Thang điểm IELTS Listening](/vietnam/results/scores/listening)
+Ngoài chợ phiên, ở Đồng Văn bạn cũng có thể ghé Dinh Vua Mèo. Khuôn viên khu di tích rộng gần 3 ha nằm trong thung lũng xã Sà Phìn. Dinh Vua Mèo được xây dựng từ đầu thế kỷ 20, mô phỏng theo kiến trúc Trung Quốc (đời Mãn Thanh) với những đường cong, nét lượn, trạm trổ tinh xảo. Vé vào cửa 20.000 đồng một lượt.
 
-![An IELTS test taker listens to an audio clip during a IELTS on computer session.](//images.ctfassets.net/unrdeg6se4ke/3LXX7QhaFKuBGB2HGzm7JA/bebcdf1883675f63789611ed65d254cc/ielts-banner-25.png?&fm=avif&fit=fill&w=1440&h=462)
+![dinh-thu-Vua-Meo-8543-1648718523.jpg]( "Nằm trên cao nguyên đá Đồng Văn, cách thành phố Hà Giang 125 km, nhà Vương được xây dựng trên quả đồi có hình mai rùa. Ảnh: Hachi8")
 
-# Thang điểm IELTS Listening
+![dinh-thu-Vua-Meo-Ha-Giang-01-9271-164871]( "Công trình được xây dựng trong khoảng 8 năm và tốn 15.000 đồng bạc trắng. Ảnh: Hachi8")
 
-Trong phần IELTS Listening sẽ bao gồm 40 câu hỏi dựa trên bốn bản ghi âm. Cùng IDP tìm hiểu cách tính điểm để hiểu rõ hơn về phần thi này nhé.
+![dinh-thu-Vua-Meo-Ha-Giang-02-5350-164871]( "Dinh nhà Vương có diện tích trên 1.000 mét đã được công nhận là di tích kiến trúc nghệ thuật quốc gia. Ảnh: Hachi8")
 
-Các câu hỏi trong bài thi IELTS Listening của bạn sẽ dựa trên bốn bản ghi âm được thực hiện từ các tình huống khác nhau. Mỗi phần nghe là một tình huống khác nhau mà bạn có thể gặp phải trong cuộc sống hàng ngày, có thể là một cuộc hội thoại giữa hai người, một đoạn độc thoại từ một tình huống xã hội hàng ngày (một bài phát biểu), một cuộc trò chuyện giữa tối đa 4 người và cuối cùng là một đoạn độc thoại từ một bối cảnh học thuật (bài giảng dạy tại trường đại học).
+Nếu không đi chợ phiên hay dinh Vua Mèo, bạn có thể xuất phát từ 6h30 từ Đồng Văn sang Lũng Cú để tham quan cột cờ ngay trong buổi sáng. Quãng đường này dài 25 km, phải đi qua nhiều đoạn xấu có đá dăm, cua dốc, ổ gà,... Thời gian di chuyển khoảng 1 tiếng rưỡi. Đến nơi, du khách leo bộ đến cột cờ và nhìn ngắm núi rừng nơi địa đầu tổ quôc. Nếu thư thả, quán [cà phê Cực Bắc](https://vnexpress.net/len-ha-giang-uong-ca-phe-cuc-bac-4194198.html) cũng là một lựa chọn để nghỉ chân.
 
-Bạn sẽ cần trả lời 40 câu hỏi trong bài thi IELTS Listening của mình, trong đó bạn sẽ nhận được một điểm cho mỗi câu trả lời đúng. Tổng số câu trả lời chính xác sẽ được sử dụng để tính điểm số cuối cùng cho bài thi Nghe của bạn. Điều quan trọng là bạn cần phải cố gắng trả lời mọi câu hỏi vì câu trả lời trống sẽ không được điểm.
+![](https://i1-dulich.vnecdn.net/2022/07/05/cot-co-Lung-Cu-8581-1648807019-3263-1657019236.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=_oQtkyKiKV2hrsuXDynPEg)
 
-Ví dụ, bạn sẽ cần số điểm sơ bộ 35 trên 40 để đạt được điểm  8 cho kỹ năng này trong bài thi IELTS Listening. Điểm số này sẽ được dùng để tính tổng [điểm IELTS](https://ielts.idp.com/vietnam/results/scores) của bạn
+Cột cờ Lũng Cú. Ảnh: *Nguyễn Văn Tài*
 
-## Bảng quy đổi điểm IELTS Listening
+Khoảng 9h30, bạn di chuyển ngược lại đường cũ về [Đồng Văn](https://vnexpress.net/cam-nang-du-lich-dong-van-4641450.html), sau đó đi theo hướng [Mèo Vạc](https://vnexpress.net/cam-nang-du-lich-meo-vac-4654320.html) đến sông Nho Quế. Đường xe máy đi xuống bến thuyền rất dốc, có nơi đang xây dựng nên cần người cứng tay lái. Nếu không tự tin, bạn có thể thuê dịch vụ xe ôm của người địa phương với giá 150.000 đồng hai chiều.
 
-| Number of correct answers  (Raw Score) | IELTS Listening  Band Score |
-| --- | --- |
-| 39-40 | 9 |
-| 37-38 | 8.5 |
-| 35-36 | 8 |
-| 32-34 | 7.5 |
-| 30-31 | 7 |
-| 26-29 | 6.5 |
-| 23-25 | 6 |
-| 18-22 | 5.5 |
-| 16-17 | 5 |
-| 13-15 | 4.5 |
-| 11-12 | 4 |
+Đường khó đi, nhiều đoạn gập ghềnh nhưng vẻ đẹp của dòng sông xanh ngọc sẽ phần nào xua tan mệt nhọc của du khách. Len lỏi hết con đường vòng vèo ôm lấy vách núi , bạn sẽ đến với bến thuyền. Giá đi thuyền trên sông Nho Quế là 100.000 đồng một người, hành trình dài khoảng 40 phút. Thuyền thường dừng lại ở trước Hẻm Tu Sản, nơi có cảnh đẹp nhất để khách chụp ảnh.
 
-*\* Bảng điểm của thang điểm IELTS Listening được hiển thị ở đây nêu bật số điểm trung bình cần thiết để đạt được một thang điểm IELTS cụ thể. Điểm thực tế có thể khác nhau giữa các bài kiểm tra do sự khác biệt trong các câu hỏi được sử dụng trong những dịp khác nhau.*
+![Hem-Tu-San-5995-1648718523.jpg]( "Hẻm Tu Sản nằm dưới chân đèo Mã Pí Lèng, Mèo Vạc, Hà Giang. Ảnh: Ngọc Thành")
 
-![Listening test on computer - thumbnail (high res)]()
+![du-lich-Ha-Giang-VnExpress-5899-16487185]( "Dòng sông Nho Quế xanh ngắt như sợi chỉ len lỏi theo đường cong của con đường Hạnh Phúc. Ảnh: Ngọc Thành")
 
-![play button]()
+![Nho-Que-Ha-Giang-2378-1648718524.jpg]( "Sông Nho Quế được vinh danh là một trong những thung lũng kiến tạo độc nhất vô nhị của Việt Nam. Ảnh: Ngọc Thành")
 
-Tìm hiểu về phần thi Nghe IELTS trên máy tính
+![](https://i1-dulich.vnecdn.net/2022/07/05/song-Nho-Que-5465-1648718524-5086-1657019238.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=44T1CjTAynEaQOhowL2oFw)
 
-Dưới đây là một số lời khuyên hữu ích giúp bạn hiểu thêm về phần thi Nghe IELTS trên máy tính.
+Ảnh: *Ngọc Thành*
 
-### Band scores
+Khoảng 14h30, bạn di chuyển về phía Mèo Vạc để thăm đèo Mã Pì Lèng. Đường đèo dù uốn lượn nhưng rộng và bằng phẳng, một bên là núi, một bên là vực.
 
-### Listening band scores
+Bao quanh đèo là trời, mây và núi non nên du khách có thể thong thả ngắm cảnh, chụp ảnh. Ở chân đèo, bạn ghé thăm Bảo tàng con đường Hạnh Phúc, tìm hiểu về lịch sử xây dựng đầy khó khăn của quốc lộ 4C, từ thành phố Hà Giang đi Đồng Văn, Mèo Vạc.
 
-Thang điểm 9
+![](https://i1-dulich.vnecdn.net/2022/07/05/Ma-Pi-Leng-7659-1648718524-9574-1657019239.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=3Vb-pHP4pHoFkO1uguuM4Q)
 
-**Cấp độ kỹ năng**
+Di chuyển trên cung đường từ đèo Mã Pì Lèng xuống thôn Tà Làng, xã Pải Lủng, huyện Mèo Vạc có lẽ là trải nghiệm khó quên. 8 km đường với hơn 50 khúc cua tay áo và dốc đứng.
 
-Khả năng chuyên gia
+Khoảng 17h, bạn có thể dừng chân ở khu vực cột mốc báo 12 km tới Mèo Vạc. Nơi đây là một trong những điểm đẹp ngắm hoàng hôn trên đèo Mã Pì Lèng, với tầm nhìn trước mặt là sông Nho Quế. Sau khi ngắm hoàng hôn, bạn di chuyển khoảng 10 km tới Làng văn hóa dân tộc Mông ở Pả Vi để nghỉ đêm.
 
-**Mô tả**
+**Ngày 3: Mèo Vạc - Thành phố Hà Giang - Hà Nội**
 
-Rất thông thạo ngôn ngữ: sử dụng từ ngữ thích hợp, chính xác và trôi chảy cùng với sự hiểu biết sâu sắc.
+Ở Pả Vi cảnh mang màu sắc bình yên, du khách khi thức giấc sẽ thấy bao xung quanh là núi non trùng điệp, xanh mát. [Mèo Vạc](https://vnexpress.net/cam-nang-du-lich-meo-vac-4654320.html) cách Hà Giang khoảng 150 km, bạn nên khởi hành sớm để kịp chuyến xe khách về Hà Nội. Có hai khung giờ xe khách để bạn lựa chọn là 14h (về Hà Nội lúc 21h) và 21h (về Hà Nội lúc 4h sáng hôm sau).
 
-Thang điểm 8
+Nếu chọn khung giờ 14h, bạn nên khởi hành từ 8h tại Mèo Vạc và chạy thẳng theo hướng Mậu Duệ - Yên Minh - Quản Bạ - TP. Hà Giang, không dừng nghỉ tham quan. Lưu ý đoạn đường đi từ Mèo Vạc qua Mậu Duệ khá xấu, nhiều ổ gà, ổ voi.
 
-**Cấp độ kỹ năng**
+Nếu chọn chuyến xe khởi hành 21h từ thành phố Hà Giang, bạn có thời gian tham quan thêm một số điểm. Bạn đi đường Mậu Duệ - Đường Thượng, sau đó ghé thăm Làng dệt Lùng Tám, qua Quản Bạ, tham quan hang Lùng Khúy. Sau đó di chuyển về TP Hà Giang.
 
-Khả năng rất giỏi
+### Đặc sản Hà Giang
 
-**Mô tả**
+Đến vùng đất Hà Giang, bạn đừng bỏ qua món bánh cuốn trứng với lớp bột ướt mỏng tang, bên trong là màu đỏ lòng đào của trứng, đặc sản của mảnh đất địa đầu tổ quốc.
 
-Thông thạo ngôn ngữ, rất hiếm khi mắc lỗi về sự chính xác và phù hợp; và các lỗi này không mang tính hệ thống. Có thể hiểu sai trong những tình huống không quen thuộc. Có thể thảo luận tốt những chi tiết phức tạp.
+Một món ăn khác nên thử là cháo ấu tẩu được nấu bằng gạo nếp cái hoa vàng trộn với gạo tẻ, củ ấu được ninh kỹ với nước hầm chân giò béo ngậy cùng các loại rau thơm. Cháo ấu tẩu không chỉ là món ăn đơn thuần, mà còn là vị thuốc bổ giải cảm.
 
-Thang điểm 7
+![](https://i1-dulich.vnecdn.net/2022/07/05/banh-cuon-Ha-Giang-8328-164871-4444-3034-1657019239.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=WBgcTDWGgN28VrTOnxwgwg)
 
-**Cấp độ kỹ năng**
+Bánh cuốn Hà Giang. Ảnh: *Ngọc Thành*
 
-Khả năng tốt
+Bánh chưng gù là đặc sản của Hà Giang, được gói bằng tay, phần vỏ bánh có màu xanh hoặc đen tùy loại gạo. Bánh có màu xanh thì phần gạo được trộn với là giềng, bánh đen thì dùng gạo cẩm. Nhân có cả thịt nạc và mỡ. Bánh được vài gia đình ở thành phố Hà Giang gói hàng ngày, nhưng phải đặt trước vì số lượng có hạn. Mỗi chiếc bánh giá từ 17.000 đồng.
 
-**Mô tả**
+Thắng dền ở [Đồng Văn](https://vnexpress.net/cam-nang-du-lich-dong-van-4641450.html) trông giống bánh trôi tàu ở Hà Nội, được làm từ bột gạo nếp, có thể làm chay hoặc bọc nhân đỗ.
 
-Có sự thông thạo về sử dụng ngôn ngữ thực tế, mặc dù đôi khi vẫn mắc lỗi về sự chính xác, thích hợp và hiểu lầm trong một số tình huống. Nhìn chung, có thể xử lý tốt ngôn ngữ phức tạp và hiểu được lý do chi tiết.
+Thắng cố không phải là món ai cũng ăn được nhưng là món đặc sản của Tây Bắc với mùi thơm của thảo quả, hạt dổi, củ sả với vị béo ngậy của thịt.
 
-Thang điểm 6
+Cháo ấu tẩu được nấu từ gạo nếp nương, chân giò lợn và củ ấu tẩu. Củ ấu tẩu mang về rửa sạch, ngâm trong nước vo gạo một đêm sau đó đem ninh chừng 4 tiếng cho mềm và bở tơi. Sau đó phần thịt được trộn với gạo và nấu trong nước ninh từ chân giò lợn. Củ ấu tẩu rất độc nên phải chế biến kỹ, ăn giải rượu, chống đau nhức xương khớp.
 
-**Cấp độ kỹ năng**
+![](https://i1-dulich.vnecdn.net/2022/07/05/chao-au-tau-Ha-Giang-6940-1648-8049-9374-1657019239.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=pdUeqnm3lLVWuhcl5TH2pw)
 
- Đủ năng lực
+Cháo có vị đắng của của ấu tẩu. Chào ấu tẩu thường chỉ được bán vào buổi tối. Ảnh: *Ngọc Thành*
 
-**Mô tả**
+Bánh tam giác mạch là loại bánh đặc trưng của người Mông vùng cao nguyên đá. Quá trình làm bánh nhiều công đoạn, hạt mạch thu hoạch về phơi khô rồi đem xay đến khi mịn đều, sau đó hòa bột chung với nước rồi đúc thành các miếng bánh có hình tròn dẹt, cho vào khuôn rồi đem đi hấp chín. Khi ăn bỏ ra nướng hoặc rán. Bánh có vị thơm, ngọt nhẹ, hơi sạn.
 
-Có khả năng sử dụng ngôn ngữ hiệu quả và vẫn còn một số chỗ sai sót, chưa phù hợp hoặc nhầm lẫn. Có thể dùng và hiểu ngôn ngữ ở mức tương đối phức tạp, đặc biệt trong các tình huống quen thuộc.
+Cơm Lam Bắc Mê dần trở thành một đặc sản đặc trưng của đồng bào dân tộc Tày. Khi thưởng thức, cơm lam có mùi thơm phức quyện cùng với lá chuối và ống nướng, ăn cùng với muối vừng hay ăn cùng cá suối nướng sẽ thật thú vị.
 
-Thang điểm 5
+### Mua gì làm quà ở Hà Giang?
 
-**Cấp độ kỹ năng**
+Cam Hà Giang ngon nức tiếng với những trái chín mọng mang hương vị riêng biệt, ngọt ngào là món quà mà bất kỳ du khách nào cũng muốn mang về cho người thân, bạn bè.
 
-Khả năng sử dụng vừa phải
+![](https://i1-dulich.vnecdn.net/2022/07/05/cam-Ha-Giang-6044-1648718524-4780-1657019240.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=XKh1KOzLtytOzep9bJkoJQ)
 
-**Mô tả**
+Cam sành ở Hà Giang trồng tập trung tại 3 huyện Bắc Quang, Quang Bình, Vị Xuyên. Ảnh: *Hương Chi*
 
-Thông thạo một phần ngôn ngữ, hiểu ý nghĩa chung trong hầu hết các tình huống và có thể mắc nhiều lỗi. Có thể giao tiếp cơ bản trong lĩnh vực quen thuộc.
+Lạp xưởng gác bếp được làm từ loại thịt nửa nạc nửa mỡ được ướp muối, đường, bột ngọt, rượu trắng, nước gừng và một ít quả mắc mật khô xay nhỏ ướp cùng ám mùi khói bếp với mùi thơm đặc trưng khiến bạn ăn một lần mà nhớ mãi.
 
-Thang điểm 4
+Cứ tới độ tháng 9 tới tháng 12 Âm lịch là thời điểm thu hoạch mật ong bạc hà trên vùng Cao nguyên đá. Dọc quốc lộ 4C đi các huyện Quản Bạ, Đồng Văn, Mèo Vạc du khách dễ dàng gặp các lán nuôi ong và đang khai thác mật ong tại chỗ. Mật ong đặc trưng có màu vàng chanh, thơm đậm, ngọt thanh mát như bạc hà.
 
-**Cấp độ kỹ năng**
+![](https://i1-dulich.vnecdn.net/2022/07/05/mua-xuan-ha-giang-vnexpress-12-2021-5581-1657019240.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=9JLCTOGc-9hhDkZP_TXBIA)
 
-Khả năng sử dụng hạn chế
+**Du Hy**
 
-**Mô tả**
+Cập nhật 21/4/2026, 09:38 (GMT+7)
 
-Khả năng ngôn ngữ chỉ đủ xử lý các tình huống quen thuộc. Thường xuyên gặp khó khăn trong việc hiểu và diễn đạt. Không thể sử dụng ngôn ngữ phức tạp.
+[Trở lại Du lịchTrở lại Du lịch](/du-lich)
 
-Thang điểm 3
+[![google](https://s1.vnecdn.net/vnexpress/restruct/i/v9854/icons/icon-google.svg)
+Thêm VnExpress trên Google](https://www.google.com/preferences/source?q=vnexpress.net)
 
-**Cấp độ kỹ năng**
+Chọn VnExpress làm nguồn **ưu tiên**
+trên *Google Search*. [Xem hướng dẫn.](#google-news-popup)
 
-Khả năng sử dụng hạn chế
+Copy link thành công
 
-**Mô tả**
+## Chọn VnExpress làm nguồn ưu tiên trên Google Search
 
-Truyền đạt và hiểu ý nghĩa chung chỉ trong những tình huống rất quen thuộc. Thường xuyên gặp khó khăn trong giao tiếp.
+* **Bước 1:** Bấm vào nút ‘Thêm VnExpress trên Google’, hoặc truy cập đường dẫn
+  [https://www.google.com/preferences/source? q=vnexpress.net](https://www.google.com/preferences/source?q=vnexpress.net).
+* **Bước 2:** Tại trang web vừa mở, bấm vào ô vuông nằm bên phải VnExpress để chọn làm nguồn tìm kiếm ưu tiên.
 
-Thang điểm 2
+Khi ô vuông chuyển thành dấu tích xanh là hoàn thành, bạn đọc có thể đóng trang web trên.
 
-**Cấp độ kỹ năng**
+![Các nguồn được ưu tiên](https://s1.vnecdn.net/vnexpress/restruct/i/v9854/graphics/nguonuutien.jpg)
 
-Khả năng sử dụng gián đoạn
+Khi nhìn thấy dấu tích xanh bên cạnh VnExpress là đã hoàn thành.
 
-**Mô tả**
+[![](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/logo-white.svg)](/ "Vnexpress")
+[Cẩm nang](/du-lich/cam-nang "Cẩm nang")
+[Quay lại Du lịch](/du-lich "Du lịch")
 
-Không thể giao tiếp, chỉ có thể truyền đạt những thông tin cơ bản nhất, bằng cách sử dụng các từ rời rạc hoặc cấu trúc ngắn trong các tình huống quen thuộc và để đáp ứng nhu cầu tức thời. Rất khó khăn trong việc hiểu, nói và viết tiếng Anh.
+![](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/mail-ft.svg) **Email:** dulich@vnexpress.net
 
-Thang điểm 1
+![](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/phone-ft.svg) **Điện thoại:** 083.888.0123 (HN) - 082.233.3555 (TP HCM)
 
-**Cấp độ kỹ năng**
-
-Không có khả năng sử dụng
-
-**Mô tả**
-
-Về cơ bản, không có khả năng sử dụng ngôn ngữ ngoài vài từ rời rạc.
-
-Thang điểm 0
-
-**Cấp độ kỹ năng**
-
-Không cố gắng thực hiện
-
-**Mô tả**
-
- Không có thông tin để đánh giá.
-
-Nếu điểm số phần IELTS Listening của bạn chưa đạt như mong muốn, bạn sẽ có cơ hội thi lại một kỹ năng nghe với tính năng [IELTS One Skill Retake](https://ielts.idp.com/vietnam/about/ielts-one-skill-retake) - thi lại một kỹ năng bất kỳ. Tính năng này không chỉ giúp bạn cải thiện điểm số đạt tối đa, mà còn tiết kiệm thời gian và [lệ phí thi IELTS](https://ielts.idp.com/vietnam/ielts-fees), bởi vì bạn không cần phải thi lại toàn bộ bài thi.
-
-## Tìm hiểu thêm
-
-[![undefined]()Thang điểm IELTS - Cách tính điểm IELTS](/vietnam/results/scores "Thang điểm IELTS - Cách tính điểm IELTS")[![undefined]()Cách tính điểm IELTS Speaking](/vietnam/results/scores/speaking "Cách tính điểm IELTS Speaking")[![undefined]()Cách tính điểm IELTS Writing](/vietnam/results/scores/writing "Cách tính điểm IELTS Writing")[![undefined]()Cách tính điểm IELTS Reading](/vietnam/results/scores/reading "Cách tính điểm IELTS Reading")
-
-## Tin tức và sự kiện nổi bật
-
-[Xem tất cả bài viết](/vietnam/about/news-and-articles)
-
-[![Female test taker wearing a green shirt takes the IELTS Listening test on computer]()Preparation
-
-Bài thi Nghe IELTS: Mẹo tránh những lỗi phổ biến
-
-![clock]()90s read](/vietnam/prepare/article-common-mistakes-ielts-listening)
-
-[![]()Preparation
-
-Bí quyết nghe chủ động và ghi chú trong IELTS Listening
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-active-listening-skills-and-notes-for-ielts)
-
-[![]()Preparation
-
-Bí quyết chinh phục bài thi IELTS Listening
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-is-ielts-listening-difficult)
-
-[![IELTS Listening Tips]()Preparation
-
-IELTS Listening Tips: 10 bí quyết giúp bạn chinh phục giám khảo trong phần thi IELTS Listening
-
-![clock]()5 mins read](/vietnam/prepare/article-ielts-listening-tips)
-
-[![Luyện nghe IELTS 6.0]()Preparation
-
-[MỚI NHẤT] Tổng hợp 50 chủ đề IELTS Listening thường gặp
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-common-ielts-listening-topics)
-
-[![IELTS Listening Part 1]()Preparation
-
-Cấu trúc bài thi IELTS Listening Part 1 và cách ôn luyện hiệu quả](/vietnam/about/news-and-articles/article-ielts-listening-part-1)
-
-[![IELTS Listening Part 3]()Preparation
-
-IELTS Listening Part 3: Các dạng đề và chiến lược làm bài
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-listening-part-3)
-
-[![Luyện nghe IELTS 5.0]()Preparation
-
-Chiến lược luyện nghe IELTS 5.0 hiệu quả
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-listening-5-0)
-
-[![Luyện nghe IELTS 6.0]()Preparation
-
-Chia sẻ 9 bí quyết luyện nghe IELTS 6.0 hiệu quả
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-listening-6-0)
-
-[![cách làm multiple choice ielts listening]()Preparation
-
-Bật mí cách làm Multiple Choice IELTS Listening ăn trọn điểm
-
-![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-listening-multiple-choice)
-
-[![IDP IELTS co-brand logo - footer]( "IDP IELTS co-brand logo - footer")](/vietnam "IDP IELTS co-brand logo - footer")
-
-![]()Việt Nam
-
-* [Argentina](https://ielts.idp.com/argentina)
-* [Armenia](https://ielts.idp.com/armenia)
-* [Australia](https://ielts.com.au/australia)
-* [Ba Lan](https://ielts.idp.com/austria)
-* [Azerbaijan](https://ielts.idp.com/azerbaijan)
-* [Bahrain](https://ielts.idp.com/bahrain)
-* [Bangladesh](https://ielts.idp.com/bangladesh)
-* [Brazil](https://ielts.idp.com/brazil)
-* [Bulgaria](https://ielts.idp.com/bulgaria)
-* [Cam-pu-chia](https://ielts.idp.com/cambodia)
-* [Canada](https://ielts.idp.com/canada)
-* [Chile](https://ielts.idp.com/chile)
-* [China](https://www.idpielts.cn)
-* [Colombia](https://ielts.idp.com/colombia)
-* [Cộng hòa Síp](https://ielts.idp.com/cyprus)
-* [Ecuador](https://ielts.idp.com/ecuador)
-* [Ai Cập](https://ielts.idp.com/egypt)
-* [Fiji](https://ielts.co.nz/test-centre/ches-fiji-ielts-test-centre)
-* [France](https://ielts.idp.com/france)
-* [Germany](https://ielts.idp.com/germany)
-* [Việt Nam](https://ielts.idp.com/ghana)
-* [Global](https://ielts.idp.com/)
-* [Hy Lạp](https://ielts.idp.com/greece)
-* [Hong kong](https://ielts.idp.com/hongkong)
-* [Ấn Độ](https://www.ieltsidpindia.com/)
-* [Indonesia](https://ielts.idp.com/indonesia)
-* [Iran](https://ielts.idp.com/iran)
-* [Iraq](https://ielts.idp.com/iraq)
-* [Ireland](https://ielts.idp.com/ireland)
-* [Nước Ý](https://ielts.idp.com/italy)
-* [Nhật Bản](https://ieltsjp.com/japan)
-* [Jordan](https://ielts.idp.com/jordan)
-* [Kazakhstan](https://ielts.idp.com/kazakhstan)
-* [Kenya](https://ielts.idp.com/kenya)
-* [Kiribati](https://ielts.co.nz/newzealand/test-centre/ielts-kiribati)
-* [Kuwait](https://ielts.idp.com/kuwait)
-* [Laos](https://ielts.idp.com/laos)
-* [Lebanon](https://ielts.idp.com/lebanon)
-* [Malaysia](https://ielts.idp.com/malaysia)
-* [Mauritius](https://ielts.idp.com/mauritius)
-* [Mexico](https://ielts.idp.com/mexico)
-* [Trung Đông](https://ielts.idp.com/uae)
-* [Moldova](https://ielts.idp.com/moldova)
-* [Ả Rập Xê Út](https://ielts.idp.com/mongolia)
-* [Myanmar](https://ielts.idp.com/myanmar)
-* [Nauru](https://ielts.co.nz/test-centre/the-university-of-auckland-ielts-centre-nauru)
-* [Nepal](https://ielts.idp.com/nepal)
-* [Netherlands](https://ielts.idp.com/netherlands)
-* [New Caledonia](https://ielts.co.nz/newzealand/test-centre/ielts-newcaledonia)
-* [New Zealand](https://ielts.co.nz/newzealand)
-* [Nigeria](https://ielts.idp.com/nigeria)
-* [Oman](https://ielts.idp.com/oman)
-* [Pakistan](https://ielts.idp.com/pakistan)
-* [Papua New Guinea](https://ielts.com.au/australia/test-centre/idp-ielts-test-centre-port-moresby)
-* [Peru](https://ielts.idp.com/peru)
-* [Philippines](https://ielts.idp.com/philippines)
-* [Ba Lan](https://ielts.idp.com/poland)
-* [Portugal](https://ielts.idp.com/portugal)
-* [Katar](https://ielts.idp.com/qatar)
-* [Romania](https://ielts.idp.com/romania)
-* [Samoa](https://ielts.co.nz/newzealand/test-centre/ielts-samoa)
-* [Ả Rập Xê Út](https://ielts.idp.com/saudiarabia)
-* [Singapore](https://ielts.idp.com/singapore)
-* [Quần đảo Solomon](https://ielts.co.nz/test-centre/the-university-of-auckland-ielts-centre-the-solomon-islands)
-* [Ả Rập Xê Út](https://ielts.idp.com/southafrica)
-* [Hàn Quốc](https://ieltskorea.org/korea)
-* [Tây Ban Nha](https://ielts.idp.com/spain)
-* [Sri Lanka](https://ielts.idp.com/srilanka)
-* [Thụy Sĩ](https://ielts.idp.com/switzerland)
-* [Syria](https://ielts.idp.com/syria)
-* [Tahiti](https://ielts.co.nz/newzealand/about/ielts-in-the-pacific)
-* [Đài Loan](https://ielts.idp.com/taiwan)
-* [Ả Rập Xê Út](https://ielts.idp.com/tajikistan)
-* [Thái Lan](https://ielts.idp.com/thailand)
-* [Tonga](https://ielts.co.nz/newzealand/test-centre/ielts-tonga)
-* [Thổ Nhĩ Kỳ](https://ielts.idp.com/turkey)
-* [Quần đảo Ellice](https://ielts.co.nz/newzealand/about/ielts-in-the-pacific)
-* [Các Tiểu Vương quốc Ả Rập Thống nhất](https://ielts.idp.com/uae)
-* [Uruguay](https://ielts.idp.com/uruguay)
-* [Uzbekistan](https://ielts.idp.com/uzbekistan)
-* [Việt Nam](https://ielts.co.nz/newzealand/test-centre/ielts-vanuatu)
-
-* Giới thiệu
-* Hình thức thi IELTS
-* Thi IELTS
-
-Giới thiệu
-
-* [Các tổ chức công nhận IELTS](/vietnam/about/who-accepts-ielts/organisations-that-accept-ielts "Các tổ chức công nhận IELTS")
-* [Tin tức và bài viết cập nhật](/vietnam/about/news-and-articles "Tin tức và bài viết cập nhật")
-* [Sự kiện IELTS](/vietnam/events "Sự kiện IELTS")
-* [Hình thức thi nào phù hợp với tôi?](/vietnam/about/which-test-do-i-take "Hình thức thi nào phù hợp với tôi?")
-* [Chương trình ưu đãi IELTS](/vietnam/ielts-promotion "Chương trình ưu đãi IELTS")
-* [Đối tác IDP IELTS tại Việt Nam](/vietnam/partners "Đối tác IDP IELTS tại Việt Nam")
-* [Câu chuyện thành công](/vietnam/about/where-ielts-can-take-me/success-stories "Câu chuyện thành công")
-* [IELTS - Tấm vé vàng để đi du học](https://www.idp.com/vietnam/ "IELTS - Tấm vé vàng để đi du học")
-* [Liên hệ IDP IELTS](/vietnam/contact-us "Liên hệ IDP IELTS")
-
-Hình thức thi IELTS
-
-* [Thi IELTS trên máy tính](/vietnam/about/news-and-articles/article-computer-delivered-ielts "Thi IELTS trên máy tính")
-* [IELTS Học thuật](/vietnam/about/which-test-do-i-take/academic "IELTS Học thuật")
-* [IELTS Tổng quát](/vietnam/about/which-test-do-i-take/general-training "IELTS Tổng quát")
-* [IELTS UKVI Học thuật](/vietnam/about/which-test-do-i-take/academic-ukvi "IELTS UKVI Học thuật")
-* [IELTS UKVI Tổng quát](/vietnam/about/which-test-do-i-take/general-training-ukvi "IELTS UKVI Tổng quát")
-* [IELTS UKVI Life Skills](/vietnam/about/which-test-do-i-take/life-skills-ukvi "IELTS UKVI Life Skills")
-* [IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake")
-
-Thi IELTS
-
-* [Đăng ký thi IELTS](/vietnam/book-my-test "Đăng ký thi IELTS")
-* [Lịch thi IELTS](/vietnam/test-day "Lịch thi IELTS")
-* [Lệ phí thi IELTS](/vietnam/ielts-fees "Lệ phí thi IELTS")
-* [Tìm địa điểm thi IELTS](/vietnam/test-dates "Tìm địa điểm thi IELTS")
-* [Câu hỏi thường gặp về IELTS](/vietnam/faq/ielts-faq "Câu hỏi thường gặp về IELTS")
-* [Bài kiểm tra IELTS Familiarisation](/vietnam/prepare/ielts-familiarisation-tests "Bài kiểm tra IELTS Familiarisation")
-* [Ứng dụng IELTS by IDP](/vietnam/lp/ielts-by-idp-app "Ứng dụng IELTS by IDP")
-* [IELTS Masterclass](/vietnam/prepare/masterclass "IELTS Masterclass")
-* [Tải các mẫu đơn](/vietnam/prepare/downloadable-form "Tải các mẫu đơn")
-
-IDP IELTS – Việt Nam
-
-* [![youtube]()](https://www.youtube.com/%40IELTSbyIDPVietnam)
-* [![instagram]()](https://www.instagram.com/ieltsbyidpvietnam/)
-* [![linkedin]()](https://www.linkedin.com/showcase/idp-vietnam/)
-* [![facebook]()](https://www.facebook.com/ieltsbyidpvietnam/)
-* [![zalo]()](https://zalo.me/3587922624351485800)
-* [![tiktok]()](https://www.tiktok.com/%40ieltsbyidpvietnam)
-
-© IELTS Partners. IELTS Partners defined as The British Council, IELTS Australia Pty. Ltd. and Cambridge English (part of Cambridge University Press & Assessment)
-
-IELTS, IELTS logos, and various other marks (雅思, آيلتس) and signs on this website are registered trademarks or trademarks of the IELTS Partners and are protected by relevant trademark laws around the world. You must not use, copy, reproduce, modify, distribute, republish, display or communicate these trademarks in any way.
-
-* [Liên hệ với chúng tôi](/vietnam/contact-us "Liên hệ với chúng tôi")
-* [Thông báo pháp lý](/vietnam/legal-notices "Thông báo pháp lý ")
-* [Chính sách quyền riêng tư](/vietnam/legal-notices#ielts-australia-privacy-policy "Chính sách quyền riêng tư ")
-* [Chính sách cookie](/vietnam/legal-notices#cookie-policy "Chính sách cookie ")
-* Bản quyền 2026 IDP IELTS
-
-Please enable JavaScript to continue using this application.
+[![](https://s1.vnecdn.net/vnexpress/restruct/c/v4140/ldpr/1004403/images/graphics/ico-term.svg) Điều khoản sử dụng](/dieu-khoan-su-dung)
