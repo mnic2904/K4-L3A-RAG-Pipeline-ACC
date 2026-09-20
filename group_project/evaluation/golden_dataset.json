@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Món Thắng cố ở Sa Pa được chế biến từ những nguyên liệu và gia vị nào?",
+    "expected_answer": "Thắng cố Sa Pa được chế biến kết hợp từ nhiều nguyên liệu như thịt bò, thịt trâu, nội tạng ngựa và phải nấu cùng 12 gia vị bắt buộc như gừng, thảo quả, sả, quế chi.",
+    "expected_context": "Thắng cố chính là món ăn đặc sản Sa Pa nổi tiếng nhất... được chế biến kết hợp từ nhiều nguyên liệu như thịt bò, thịt trâu, nội tạng ngựa và nấu cùng nhiều gia vị đặc biệt. Để nấu được món thắng cố này nhất định phải sử dụng cùng với 12 gia vị bắt buộc: gừng, thảo quả, sả, quế chi..."
+  },
+  {
+    "question": "Chiều dài của tuyến cáp treo ba dây vượt biển đi Hòn Thơm ở Phú Quốc là bao nhiêu mét?",
+    "expected_answer": "Tuyến cáp treo ba dây vượt biển Hòn Thơm tại Phú Quốc là tuyến cáp treo dài nhất thế giới với tổng chiều dài là 7.899 m.",
+    "expected_context": "Sau đó, bạn sẽ được đi trên cáp treo ba dây dài nhất thế giới, tổng chiều dài 7.899 m. Từ cabin, du khách trông thấy vùng biển trong xanh, các hòn đảo yên bình..."
+  },
+  {
+    "question": "Cầu Rồng tại Đà Nẵng có màn trình diễn phun lửa và phun nước vào những ngày nào trong tuần và lúc mấy giờ?",
+    "expected_answer": "Cầu Rồng Đà Nẵng có màn trình diễn phun lửa và phun nước vào ba tối cuối tuần (thứ Sáu, thứ Bảy, Chủ Nhật) bắt đầu từ 21h00 (9h tối) kéo dài trong khoảng 15 phút.",
+    "expected_context": "Đặc biệt, cầu Rồng đông khách hơn vào ba tối cuối tuần khi có màn trình diễn rồng phun nước, phun lửa. Từ 9h tối, nhiều du khách và người dân tập trung ở trên cầu, hai bên bờ sông Hàn... Các phương tiện lưu thông hai đầu cầu được dừng lại trong 15 phút của show diễn."
+  },
+  {
+    "question": "Chào bạn, tháng tới nhóm bạn của mình gồm 5 người đang lên kế hoạch đi phượt Sa Pa 3 ngày 2 đêm, tụi mình rất thích tìm hiểu văn hóa ẩm thực truyền thống địa phương thì nghe mọi người khen món xôi bảy màu rất đẹp và ngon, bạn giải thích chi tiết giúp mình ý nghĩa lịch sử cũng như cách người dân tạo màu cho món xôi này được không?",
+    "expected_answer": "Món xôi bảy màu đại diện cho bảy tháng liền trường kỳ kháng chiến của dân tộc Nùng Dín. Toàn bộ màu sắc của xôi đều được tạo hoàn toàn từ các loại cây lá thiên nhiên như cây hoa vàng, lá xôi đũa...",
+    "expected_context": "Được trang trí với bảy màu sắc bắt mắt, món xôi này đại diện cho bảy tháng liền trường kỳ kháng chiến của dân tộc Nùng Dín. Đặc biệt các sắc màu xôi đều được làm từ thiên nhiên như cây hoa vàng, lá xôi đũa..."
+  },
+  {
+    "question": "Dạ em chào anh chị tư vấn viên ạ, cơ quan em đang có dự định tổ chức cho khoảng 40 cán bộ nhân viên đi nghỉ mát tại Vịnh Hạ Long, mọi người muốn đi vào dịp nào biển đẹp và đông vui nhất của khách nội địa mình thì nên chọn khoảng tháng mấy trong năm là hợp lý nhất ạ?",
+    "expected_answer": "Khách du lịch nội địa tập trung đến Vịnh Hạ Long đông nhất vào mùa hè, từ tháng 5 đến tháng 8 hàng năm để tắm biển, vui chơi và trải nghiệm du thuyền.",
+    "expected_context": "Khách du lịch nội địa tập trung đến Hạ Long đông nhất từ tháng 5 đến tháng 8, tận hưởng kỳ nghỉ hè với các hoạt động tắm biển, chèo thuyền kayak và du thuyền."
+  },
+  {
+    "question": "Mình đang làm một bài thuyết trình về kiến trúc các cây cầu độc đáo của thành phố Đà Nẵng cho môn quy hoạch đô thị, mình rất tò mò về cây cầu quay Sông Hàn, bạn có thể nói rõ điểm đặc biệt nhất trong nguyên lý hoạt động quay của trục giữa cây cầu này để tàu bè lưu thông không?",
+    "expected_answer": "Cầu Sông Hàn là cầu quay đầu tiên của Việt Nam. Điểm đặc biệt là phần cầu nằm trên trụ giữa sông có thể quay 90 độ song song theo phương dòng chảy để tàu thuyền lớn qua lại.",
+    "expected_context": "Cầu Sông Hàn là cầu quay đầu tiên của Việt Nam. Cầu sông Hàn có chiều dài 487,7 m rộng 12,9 m... Phần cầu nằm trên trụ giữa sông có thể quay 90 độ song song theo phương dòng chảy để tàu lớn qua lại."
+  },
+  {
+    "question": "Tôi vừa đặt phòng ở khách sạn Bamboo Sa Pa và thuê xe máy chạy lòng vòng quanh thị trấn với giá 150k một ngày, đi đường thấy nhiều quán biển ghi lợn cắp nách rất lạ, cho hỏi vì sao người ta lại gọi là lợn cắp nách và trọng lượng con lợn này thường bao nhiêu kg?",
+    "expected_answer": "Tên gọi 'thịt lợn cắp nách' bắt nguồn từ thói quen của người dân tộc Mông khi đến họp chợ phiên thường cắp nách những con lợn nhỏ nặng 5-6kg mang ra bán.",
+    "expected_context": "Nguồn gốc độc lạ của cái tên là 'thịt lợn cắp nách' bắt nguồn từ thói quen khi đến họp chợ phiên người bán thường 'cắp nách' lợn mang ra bán. Đây là món ăn được làm từ lợn nuôi thả rông với trọng lượng từ 5-6kg của người dân tộc Mông."
+  },
+  {
+    "question": "Chuyến bay VN123 của tôi hạ cánh ở sân bay Đà Nẵng lúc trưa, sau khi ăn mì Quảng ếch thì tôi định thuê xe lên bán đảo Sơn Trà ngắm cảnh, nghe bảo có loài linh trưởng được gọi là nữ hoàng linh trưởng ở đây, đó là loài gì và số lượng cá thể ước tính khoảng bao nhiêu con?",
+    "expected_answer": "Loài linh trưởng được mệnh danh là 'nữ hoàng linh trưởng' trên bán đảo Sơn Trà là voọc chà vá chân nâu, với quần thể ước tính khoảng 300 - 400 con được bảo tồn nghiêm ngặt.",
+    "expected_context": "Trong đó, voọc chà vá chân nâu được mệnh danh là 'nữ hoàng linh trưởng' trên bán đảo Sơn Trà, với quần thể khoảng 300 - 400 con, được bảo tồn nghiêm ngặt."
+  },
+  {
+    "question": "Tôi dự định mua áo khoác gió The North Face và máy ảnh Sony A7IV để đi phượt cung Tây Bắc - Đông Bắc, đoạn qua đèo Mã Pí Lèng ở Hà Giang thì con đèo này nối hai huyện nào và từ đỉnh đèo ngắm được dòng sông với hẻm vực nào?",
+    "expected_answer": "Đèo Mã Pí Lèng dài khoảng 20 km nối liền hai huyện Đồng Văn và Mèo Vạc trên con đường Hạnh Phúc, uốn lượn nhìn thẳng xuống dòng sông Nho Quế và hẻm vực Tu Sản sâu nhất Đông Nam Á.",
+    "expected_context": "Đèo Mã Pí Lèng là một trong tứ đại đỉnh đèo miền Bắc, uốn lượn hùng vĩ nhìn xuống dòng sông Nho Quế và hẻm Tu Sản sâu nhất Đông Nam Á."
+  },
+  {
+    "question": "thời gian du lịch phú quốc lý tưởng nhất",
+    "expected_answer": "Thời điểm lý tưởng nhất để du lịch Phú Quốc là từ khoảng tháng 11 đến tháng 4 năm sau (mùa khô phương Nam, trời ít mưa, biển lặng, sóng êm và nắng ấm).",
+    "expected_context": "Thời điểm lý tưởng nhất để du lịch Đảo Ngọc là từ khoảng tháng 11 đến tháng 4 năm sau. Đây là mùa khô ở phương Nam, trời ít mưa, biển lặng, sóng êm và nắng ấm thích hợp cho các hoạt động du lịch ngoài trời."
+  },
+  {
+    "question": "hoa tam giác mạch hà giang tháng mấy nở rộ",
+    "expected_answer": "Mùa hoa tam giác mạch ở Hà Giang thường bắt đầu và nở rộ đẹp nhất từ tháng 10 đến tháng 12 hàng năm.",
+    "expected_context": "Mùa hoa tam giác mạch Hà Giang thường bắt đầu từ tháng 10 đến tháng 12, khi hoa nở tím hồng khắp các sườn núi và thung lũng cao nguyên đá."
+  },
+  {
+    "question": "hang động danh thắng vịnh hạ long",
+    "expected_answer": "Các điểm tham quan, hang động danh thắng nổi tiếng tại Vịnh Hạ Long bao gồm Hang Sửng Sốt, Động Thiên Cung, Hang Đầu Gỗ, Đảo Ti Tốp, Hang Luồn và Làng chài Cửa Vạn.",
+    "expected_context": "Cẩm nang du lịch Vịnh Hạ Long giới thiệu các danh thắng kỳ vĩ như Hang Sửng Sốt, Động Thiên Cung, Đảo Ti Tốp với bãi tắm cát trắng và đỉnh núi ngắm toàn cảnh vịnh."
+  },
+  {
+    "question": "an goi ca trich o phu kuoc thi an kem voi cai j va cham nuoc mam j z?",
+    "expected_answer": "Cá trích tươi được sơ chế sạch, cuốn chung với các loại rau và bánh tráng, chấm cùng nước mắm Phú Quốc nguyên chất đặc trưng không có mùi tanh.",
+    "expected_context": "Món đầu tiên trong danh sách ẩm thực bạn phải thử ở Phú Quốc là gỏi cá trích. Cá trích được sơ chế, cuốn chung với rau và bánh tráng, chấm với nước mắm hoàn toàn không có mùi tanh."
+  },
+  {
+    "question": "cau rog da nag phun lưa luc may h tôi cuoi tuan vây b?",
+    "expected_answer": "Cầu Rồng có màn trình diễn phun lửa và phun nước vào ba tối cuối tuần (thứ Sáu, thứ Bảy, Chủ Nhật) bắt đầu từ 21h00 (9h tối) trong khoảng 15 phút.",
+    "expected_context": "Đặc biệt, cầu Rồng đông khách hơn vào ba tối cuối tuần khi có màn trình diễn rồng phun nước, phun lửa. Từ 9h tối, nhiều du khách và người dân tập trung ở trên cầu... dừng lại trong 15 phút của show diễn."
+  },
+  {
+    "question": "nghien cuu chien luoc phat trien du lich phu tho dua tren khung ly thuyet nao?",
+    "expected_answer": "Nghiên cứu phát triển du lịch bền vững tỉnh Phú Thọ dựa trên khung lý thuyết Triple Bottom Line (TBL) gồm ba trụ cột: kinh tế, xã hội và môi trường sau khi sáp nhập hành chính.",
+    "expected_context": "Dựa trên khung Triple Bottom Line (kinh tế - xã hội - môi trường), nghiên cứu khám phá các nhân tố ảnh hưởng đến phát triển du lịch bền vững tại tỉnh Phú Thọ mới sau sáp nhập hành chính..."
+  },
+  {
+    "question": "Thủ tục xin visa du lịch tự túc Nhật Bản cho công dân Việt Nam gồm những loại giấy tờ và chứng minh tài chính như thế nào?",
+    "expected_answer": "Hệ thống hiện tại chỉ lưu trữ dữ liệu về cẩm nang và tài liệu phát triển du lịch tại Việt Nam (Sa Pa, Hạ Long, Phú Quốc, Đà Nẵng, Hà Giang, Phú Thọ). Tôi không có thông tin về thủ tục xin visa du lịch Nhật Bản.",
+    "expected_context": "Không có thông tin trong kho tài liệu du lịch Việt Nam (Dữ liệu hệ thống chỉ chứa thông tin du lịch các tỉnh thành tại Việt Nam)."
+  },
+  {
+    "question": "Gợi ý cho tôi các khách sạn 5 sao sang trọng gần tháp Eiffel ở Paris nước Pháp kèm bảng giá?",
+    "expected_answer": "Hệ thống hiện tại chỉ lưu trữ dữ liệu cẩm nang du lịch các địa danh tại Việt Nam và không có tài liệu về khách sạn tại Paris, Pháp.",
+    "expected_context": "Không có thông tin trong kho tài liệu du lịch Việt Nam (Dữ liệu hệ thống chỉ chứa thông tin du lịch các tỉnh thành tại Việt Nam)."
+  },
+  {
+    "question": "Chiến lược và định hướng phát triển du lịch thành phố Phú Quốc tập trung vào những mục tiêu và yếu tố trọng tâm nào?",
+    "expected_answer": "Định hướng xây dựng Phú Quốc thành trung tâm du lịch sinh thái biển đảo cao cấp, thu hút đầu tư quốc tế, nâng cao chất lượng dịch vụ gắn liền với bảo vệ tài nguyên môi trường.",
+    "expected_context": "Nghiên cứu chiến lược phát triển du lịch TP Phú Quốc nhằm khai thác tiềm năng biển đảo, thu hút đầu tư, tạo việc làm và xây dựng hình ảnh du lịch Phú Quốc năng động, thân thiện và phát triển bền vững."
+  }
+]
