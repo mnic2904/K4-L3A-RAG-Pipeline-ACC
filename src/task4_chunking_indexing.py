@@ -33,7 +33,7 @@ def embed_texts(texts: list[str]) -> list[list[float]]:
     from dotenv import load_dotenv
     load_dotenv()
     
-    provider = os.getenv("EMBEDDING_PROVIDER", "openai").lower()
+    provider = os.getenv("EMBEDDING_PROVIDER", "sentence_transformers").lower().strip()
     
     if provider == "openai":
         from openai import OpenAI
@@ -74,19 +74,33 @@ def get_collection():
 def load_documents() -> list[dict]:
     """Đọc Markdown và trả về danh sách Document."""
     documents = []
-    for path in STANDARDIZED_DIR.rglob("*.md"):
+    for path in sorted(STANDARDIZED_DIR.rglob("*.md")):
         doc_type = "legal" if "legal" in path.parts else "news"
+        content = path.read_text(encoding="utf-8")
+        
+        # Trích xuất title và url từ Markdown header nếu có
+        title = path.stem
+        url = None
+        for line in content.splitlines()[:6]:
+            if line.startswith("# ") and title == path.stem:
+                title = line[2:].strip()
+            elif line.startswith("**Source:**"):
+                candidate = line.replace("**Source:**", "").strip()
+                if candidate.startswith("http"):
+                    url = candidate
+                    
         documents.append({
             "id": path.relative_to(STANDARDIZED_DIR).as_posix(),
-            "content": path.read_text(encoding="utf-8"),
+            "content": content,
             "metadata": {
                 "source": path.name,
-                "title": path.stem,
+                "title": title,
                 "doc_type": doc_type,
-                "url": None,
+                "url": url,
             },
         })
     return documents
+
 
 
 def chunk_documents(documents: list[dict]) -> list[dict]:
