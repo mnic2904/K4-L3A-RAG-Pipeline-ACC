@@ -54,8 +54,6 @@ Hai config phải dùng cùng golden dataset, generator, evaluator, prompt và `
 |        3 | Áp dụng kỹ thuật Reordering Context (Lost-in-the-middle) | Đặt các chunk điểm cao ở đầu và cuối context giúp LLM sinh câu trả lời bám sát tài liệu hơn | Nâng cao điểm Faithfulness và giảm thiểu hallucination | So sánh điểm Faithfulness trước và sau khi bật reorder_for_llm |
 
 ## Bonus experiments
-
 | Experiment | Baseline | Metric delta | Latency/cost delta | Conclusion |
 | ---------- | -------- | -----------: | -----------------: | ---------- |
-| Reordering context cho LLM | Standard Top-K Context | Faithfulness: +0.04 | Latency: +0ms (RAM), Cost: $0 | Đưa chunk quan trọng nhất về hai đầu context giúp LLM ghi nhớ bằng chứng tốt hơn |
-| Streaming response trong giao diện chat | Synchronous Response | User Experience: 5/5 | Time-to-first-token giảm từ ~1.5s xuống ~200ms | Nâng cao trải nghiệm người dùng, hiển thị phản hồi tức thì |
+| TODO       | TODO     |         TODO |               TODO | TODO       |
