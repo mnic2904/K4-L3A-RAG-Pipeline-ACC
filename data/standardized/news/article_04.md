@@ -1,0 +1,481 @@
+# IELTS Listening band score - Thang điểm IELTS Listening
+
+**Source:** https://ielts.idp.com/vietnam/results/scores/listening
+
+**Crawled:** 2026-09-20T14:40:39.870647
+
+---
+
+The official IELTS by IDP app is here! [Download it](/lp/ielts-by-idp-app)  today.
+
+![Close](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/icons/close_btn.svg)
+
+[![IDP IELTS Logo](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/idp_ielts_logo.svg)](/vietnam "IDP IELTS")
+
+* [Bài thi IELTS](/vietnam/about/which-test-do-i-take "Bài thi IELTS")
+
+  Tìm hiểu bài thi [IELTS Academic](/vietnam/about/which-test-do-i-take/academic "IELTS Academic")  [IELTS General Training](/vietnam/about/which-test-do-i-take/general-training "IELTS General Training")  [IELTS for UKVI Academic](/vietnam/about/which-test-do-i-take/academic-ukvi "IELTS for UKVI Academic")  [IELTS for UKVI General Training](/vietnam/about/which-test-do-i-take/general-training-ukvi "IELTS for UKVI General Training")  [IELTS Life Skills](/vietnam/about/which-test-do-i-take/life-skills-ukvi "IELTS Life Skills")  [Thi IELTS trên máy tính](/vietnam/about/news-and-articles/article-computer-delivered-ielts "Thi IELTS trên máy tính")
+
+  IELTS One skill Retake[![globe]() IELTS One Skill Retake là gì?](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake là gì?") [![news-item]() Hướng dẫn đăng ký thi IELTS One Skill Retake](/vietnam/about/news-and-articles/article-how-to-book-ielts-one-skill-retake "Hướng dẫn đăng ký thi IELTS One Skill Retake") [![why-choose-ielts]() Các tổ chức chấp nhận IELTS One Skill Retake](/vietnam/about/who-accepts-ielts-one-skill-retake "Các tổ chức chấp nhận IELTS One Skill Retake") [![why-choose-ielts]() Cách sử dụng kết quả IELTS One Skill Retake](/vietnam/about/news-and-articles/article-ielts-one-skill-retake-osr-results-trf "Cách sử dụng kết quả IELTS One Skill Retake ") [![FAQ]() Câu hỏi thường gặp IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake-faqs "Câu hỏi thường gặp IELTS One Skill Retake")
+
+  [Đăng ký thi IELTS](https://ielts.idp.com/vietnam/book-my-test "Đăng ký thi IELTS") [![ielts-event]() Lịch thi IELTS](/vietnam/test-day "Lịch thi IELTS") [![presentation-chart-bar]() Lệ phí thi IELTS](/vietnam/ielts-fees "Lệ phí thi IELTS") [![ielts online]() Chương trình ưu đãi IELTS](/vietnam/ielts-promotion "Chương trình ưu đãi IELTS") [![IELTS by IDP app - Light bulb icon]() Địa điểm thi IELTS](/vietnam/test-dates "Địa điểm thi IELTS")
+* [Chuẩn bị](https://ielts.idp.com/ielts-prep-hub "Chuẩn bị")
+
+  Truy cập IELTS Prepare Hub
+
+  ![Prepare Hub]()
+
+  #### Truy cập IELTS Prepare Hub
+
+  Hãy truy cập IELTS Prepare Hub để khám phá tài liệu hữu ích và đăng ký sự kiện luyện thi trực tiếp hoặc trực tuyến.
+
+  [Truy cập kho tài liệu IELTS](http://ielts.idp.com/ielts-prep-hub "Truy cập kho tài liệu IELTS")
+
+  Chuẩn bị cho kỳ thi[IELTS Academic](/vietnam/prepare/academic-preparation "IELTS Academic") [IELTS General Training](/vietnam/prepare/ielts-general-training-preparation "IELTS General Training") [IELTS for UKVI](/vietnam/prepare/ielts-for-ukvi "IELTS for UKVI")
+
+  Thi thử[Thông tin về thi thử IELTS](/vietnam/about/news-and-articles/article-ielts-computer-trial-at-home "Thông tin về thi thử IELTS") [Đăng ký thi thử IELTS](/vietnam/about/news-and-articles/article-ielts-fam-test-dates "Đăng ký thi thử IELTS")
+
+  Chuẩn bị cho ngày thi[Cần mang theo những gì khi đi thi IELTS](/vietnam/about/test-day/what-to-bring "Cần mang theo những gì khi đi thi IELTS") [Vào ngày thi](/vietnam/about/test-day "Vào ngày thi") [Sự kiện](/vietnam/events "Sự kiện") [Đổi lịch thi hoặc hủy thi IELTS](/vietnam/about/test-day/reschedule-cancel-ielts "Đổi lịch thi hoặc hủy thi IELTS")
+
+  Chuẩn bị cho các kỹ năng[![ielts-listening-icon]()Bài thi Nghe IELTS](/vietnam/prepare/listening "Bài thi Nghe IELTS") [![ielts-reading-icon]()Bài thi Đọc IELTS](/vietnam/prepare/reading "Bài thi Đọc IELTS") [![ielts-writing-icon]()Bài thi Viết IELTS](/vietnam/prepare/writing "Bài thi Viết IELTS") [![ielts-speaking-icon]()Bài thi Nói IELTS](/vietnam/prepare/speaking "Bài thi Nói IELTS")
+
+  [![diagnostic-icon]()
+
+  ##### English self-assessment tool
+
+  Check your reading and listening skills and get recommendations for your IELTS preparation.
+
+  Try now](https://ielts.idp.com/diagnostic-tool-preparation "diagnostic-tool")
+
+  Kho tài liệu[![expert-tips]() Kho tài liệu IELTS](https://ielts.idp.com/prepare/all-test-types/all-skills/article "Kho tài liệu IELTS") [![masterclass]() IELTS Masterclass](/vietnam/prepare/masterclass "IELTS Masterclass")
+* [Kết quả](/vietnam/results "Kết quả")
+
+  Kiểm tra kết quả
+
+  ![]()
+
+  #### Kiểm tra kết quả
+
+  Truy cập tài khoản IELTS IDP để kiểm tra kết quả và nhiều tiện ích khác
+
+  [Đăng nhập ngay](https://account.ielts.idp.com/ "Đăng nhập ngay")
+
+  Thang điểm IELTS[![ielts-calculator]() Cách tính điểm IELTS](/vietnam/results/scores "Cách tính điểm IELTS") [![ielts-listening-icon]() Thang điểm IELTS Listening](/vietnam/results/scores/listening "Thang điểm IELTS Listening") [![ielts-reading-icon]() Thang điểm IELTS Reading](/vietnam/results/scores/reading "Thang điểm IELTS Reading") [![ielts-writing-icon]() Thang điểm IELTS Writing](/vietnam/results/scores/writing "Thang điểm IELTS Writing") [![ielts-speaking-icon]() Thang điểm IELTS Speaking](/vietnam/results/scores/speaking "Thang điểm IELTS Speaking") [![ukvi-icon]() Điểm số IELTS Life Skills](/vietnam/results/scores/life-skills "Điểm số IELTS Life Skills")
+
+  Các bước tiếp theo[![osr-icon-header]() IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake") [![ielts online]() Nhận kết quả thi IELTS nhanh chóng](/vietnam/results/faster-test-results "Nhận kết quả thi IELTS nhanh chóng") [![remark]() Yêu cầu phúc khảo](/vietnam/results/request-remark "Yêu cầu phúc khảo") [![Access computer-based results]() Yêu cầu cấp thêm bảng điểm](/vietnam/results/request-additional-trf "Yêu cầu cấp thêm bảng điểm") [![reader]() Tải các mẫu đơn](/vietnam/prepare/downloadable-form "Tải các mẫu đơn") [![idp]() IELTS - Tấm vé vàng để đi du học](https://www.idp.com "IELTS - Tấm vé vàng để đi du học")
+* [Cộng đồng IELTS](https://ielts.idp.com/ielts-community "Cộng đồng IELTS")
+
+  Cộng đồng IELTS IDP
+
+  ![]()
+
+  #### Cộng đồng IELTS IDP
+
+  Lắng nghe những lời khuyên, trả lời cho những câu hỏi thường gặp từ chính chuyên gia IELTS với nguồn thông tin đáng tin cậy.
+
+  [Khám phá cộng đồng IELTS](https://ielts.idp.com/ielts-community "Khám phá cộng đồng IELTS")
+
+  Tìm hiểu thêm[![ielts-by-idp-app]() Ứng dụng IELTS by IDP](/vietnam/lp/ielts-by-idp-app "Ứng dụng IELTS by IDP")
+
+  Kênh mạng xã hội
+
+  [![youtube]()](https://www.youtube.com/%40IELTSbyIDPVietnam)[![instagram]()](https://www.instagram.com/ieltsbyidpvietnam/)[![linkedin]()](https://www.linkedin.com/showcase/idp-vietnam/)[![facebook]()](https://www.facebook.com/ieltsbyidpvietnam/)[![zalo]()](https://zalo.me/3587922624351485800)[![tiktok]()](https://www.tiktok.com/%40ieltsbyidpvietnam)
+
+  Cảm nghĩ về IDP
+
+  ![testimonial]()
+
+  Nhân viên IELTS thân thiên, hỗ trợ thí sinh nhiệt, vui vẻ. Văn phòng IDP rất đẹp, 10 điểm không có nhưng
+
+  ![avatar]()
+
+  ##### Thanh Nguyen
+
+  19/06/2024
+
+  [Xem thêm các chia sẻ](/vietnam/about/where-ielts-can-take-me/success-stories)
+* [Về IELTS](/vietnam/about "Về IELTS")
+
+  [HỢP TÁC VỚI IELTS](/vietnam/about "HỢP TÁC VỚI IELTS")  [IELTS dành cho giáo viên](/vietnam/about/ielts-for-teachers "IELTS dành cho giáo viên")  [IELTS dành cho tổ chức](/vietnam/about/ielts-for-organisations "IELTS dành cho tổ chức")  [Đối tác IDP IELTS tại Việt Nam](/vietnam/partners "Đối tác IDP IELTS tại Việt Nam")
+
+  Giới thiệu IDP IELTS[![globe]() Các tổ chức công nhận](/vietnam/about/who-accepts-ielts/organisations-that-accept-ielts "Các tổ chức công nhận") [![Latest updates icon - Global rebrand header]() Tin tức và bài viết cập nhật](/vietnam/about/news-and-articles "Tin tức và bài viết cập nhật") [![why-choose-ielts]() Tại sao chọn IELTS?](/vietnam/about/news-and-articles/article-who-takes-ielts "Tại sao chọn IELTS?") [![FAQ]() Câu hỏi thường gặp về IELTS](/vietnam/faq/ielts-faq "Câu hỏi thường gặp về IELTS")
+
+  TIN TỨC, BÀI VIẾT CẬP NHẬT
+
+  [![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+
+  ##### Các dạng bài & cách viết IELTS Writing Task 1](/vietnam/about/news-and-articles/article-ielts-writing-task-1)[![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+
+  ##### Các dạng Writing Task 2 thường gặp và định hướng làm bài](/vietnam/about/news-and-articles/article-ielts-writing-task-2)[![People](//images.ctfassets.net/unrdeg6se4ke/4zJdK5iKcalj5rHbTeqWU0/25547b85b6df8f09db1a206ecb7c2d81/news-item.svg)
+
+  ##### IELTS Speaking Part 1: Các chủ đề thường gặp và bí quyết trả lời](/vietnam/about/news-and-articles/article-ielts-speaking-test-part-1)
+
+  [Read more](/vietnam/about/news-and-articles)
+
+![language](https://image.ielts.idp.com/IELTS_Website_Rebrand/assets/home/icons/language.svg)VI
+
+* Vietnamese
+* English
+* Simplified Chinese
+
+ [Đăng ký thi ngay](https://bxsearch.ielts.idp.com/wizard)
+
+* [IDP IELTS Việt Nam](/vietnam)
+* [Kết quả thi IELTS của bạn](/vietnam/results)
+* [Thang điểm IELTS và cách tính điểm IELTS Overall chuẩn nhất](/vietnam/results/scores)
+* [Thang điểm IELTS Listening](/vietnam/results/scores/listening)
+
+![An IELTS test taker listens to an audio clip during a IELTS on computer session.](//images.ctfassets.net/unrdeg6se4ke/3LXX7QhaFKuBGB2HGzm7JA/bebcdf1883675f63789611ed65d254cc/ielts-banner-25.png?&fm=avif&fit=fill&w=1440&h=462)
+
+# Thang điểm IELTS Listening
+
+Trong phần IELTS Listening sẽ bao gồm 40 câu hỏi dựa trên bốn bản ghi âm. Cùng IDP tìm hiểu cách tính điểm để hiểu rõ hơn về phần thi này nhé.
+
+Các câu hỏi trong bài thi IELTS Listening của bạn sẽ dựa trên bốn bản ghi âm được thực hiện từ các tình huống khác nhau. Mỗi phần nghe là một tình huống khác nhau mà bạn có thể gặp phải trong cuộc sống hàng ngày, có thể là một cuộc hội thoại giữa hai người, một đoạn độc thoại từ một tình huống xã hội hàng ngày (một bài phát biểu), một cuộc trò chuyện giữa tối đa 4 người và cuối cùng là một đoạn độc thoại từ một bối cảnh học thuật (bài giảng dạy tại trường đại học).
+
+Bạn sẽ cần trả lời 40 câu hỏi trong bài thi IELTS Listening của mình, trong đó bạn sẽ nhận được một điểm cho mỗi câu trả lời đúng. Tổng số câu trả lời chính xác sẽ được sử dụng để tính điểm số cuối cùng cho bài thi Nghe của bạn. Điều quan trọng là bạn cần phải cố gắng trả lời mọi câu hỏi vì câu trả lời trống sẽ không được điểm.
+
+Ví dụ, bạn sẽ cần số điểm sơ bộ 35 trên 40 để đạt được điểm  8 cho kỹ năng này trong bài thi IELTS Listening. Điểm số này sẽ được dùng để tính tổng [điểm IELTS](https://ielts.idp.com/vietnam/results/scores) của bạn
+
+## Bảng quy đổi điểm IELTS Listening
+
+| Number of correct answers  (Raw Score) | IELTS Listening  Band Score |
+| --- | --- |
+| 39-40 | 9 |
+| 37-38 | 8.5 |
+| 35-36 | 8 |
+| 32-34 | 7.5 |
+| 30-31 | 7 |
+| 26-29 | 6.5 |
+| 23-25 | 6 |
+| 18-22 | 5.5 |
+| 16-17 | 5 |
+| 13-15 | 4.5 |
+| 11-12 | 4 |
+
+*\* Bảng điểm của thang điểm IELTS Listening được hiển thị ở đây nêu bật số điểm trung bình cần thiết để đạt được một thang điểm IELTS cụ thể. Điểm thực tế có thể khác nhau giữa các bài kiểm tra do sự khác biệt trong các câu hỏi được sử dụng trong những dịp khác nhau.*
+
+![Listening test on computer - thumbnail (high res)]()
+
+![play button]()
+
+Tìm hiểu về phần thi Nghe IELTS trên máy tính
+
+Dưới đây là một số lời khuyên hữu ích giúp bạn hiểu thêm về phần thi Nghe IELTS trên máy tính.
+
+### Band scores
+
+### Listening band scores
+
+Thang điểm 9
+
+**Cấp độ kỹ năng**
+
+Khả năng chuyên gia
+
+**Mô tả**
+
+Rất thông thạo ngôn ngữ: sử dụng từ ngữ thích hợp, chính xác và trôi chảy cùng với sự hiểu biết sâu sắc.
+
+Thang điểm 8
+
+**Cấp độ kỹ năng**
+
+Khả năng rất giỏi
+
+**Mô tả**
+
+Thông thạo ngôn ngữ, rất hiếm khi mắc lỗi về sự chính xác và phù hợp; và các lỗi này không mang tính hệ thống. Có thể hiểu sai trong những tình huống không quen thuộc. Có thể thảo luận tốt những chi tiết phức tạp.
+
+Thang điểm 7
+
+**Cấp độ kỹ năng**
+
+Khả năng tốt
+
+**Mô tả**
+
+Có sự thông thạo về sử dụng ngôn ngữ thực tế, mặc dù đôi khi vẫn mắc lỗi về sự chính xác, thích hợp và hiểu lầm trong một số tình huống. Nhìn chung, có thể xử lý tốt ngôn ngữ phức tạp và hiểu được lý do chi tiết.
+
+Thang điểm 6
+
+**Cấp độ kỹ năng**
+
+ Đủ năng lực
+
+**Mô tả**
+
+Có khả năng sử dụng ngôn ngữ hiệu quả và vẫn còn một số chỗ sai sót, chưa phù hợp hoặc nhầm lẫn. Có thể dùng và hiểu ngôn ngữ ở mức tương đối phức tạp, đặc biệt trong các tình huống quen thuộc.
+
+Thang điểm 5
+
+**Cấp độ kỹ năng**
+
+Khả năng sử dụng vừa phải
+
+**Mô tả**
+
+Thông thạo một phần ngôn ngữ, hiểu ý nghĩa chung trong hầu hết các tình huống và có thể mắc nhiều lỗi. Có thể giao tiếp cơ bản trong lĩnh vực quen thuộc.
+
+Thang điểm 4
+
+**Cấp độ kỹ năng**
+
+Khả năng sử dụng hạn chế
+
+**Mô tả**
+
+Khả năng ngôn ngữ chỉ đủ xử lý các tình huống quen thuộc. Thường xuyên gặp khó khăn trong việc hiểu và diễn đạt. Không thể sử dụng ngôn ngữ phức tạp.
+
+Thang điểm 3
+
+**Cấp độ kỹ năng**
+
+Khả năng sử dụng hạn chế
+
+**Mô tả**
+
+Truyền đạt và hiểu ý nghĩa chung chỉ trong những tình huống rất quen thuộc. Thường xuyên gặp khó khăn trong giao tiếp.
+
+Thang điểm 2
+
+**Cấp độ kỹ năng**
+
+Khả năng sử dụng gián đoạn
+
+**Mô tả**
+
+Không thể giao tiếp, chỉ có thể truyền đạt những thông tin cơ bản nhất, bằng cách sử dụng các từ rời rạc hoặc cấu trúc ngắn trong các tình huống quen thuộc và để đáp ứng nhu cầu tức thời. Rất khó khăn trong việc hiểu, nói và viết tiếng Anh.
+
+Thang điểm 1
+
+**Cấp độ kỹ năng**
+
+Không có khả năng sử dụng
+
+**Mô tả**
+
+Về cơ bản, không có khả năng sử dụng ngôn ngữ ngoài vài từ rời rạc.
+
+Thang điểm 0
+
+**Cấp độ kỹ năng**
+
+Không cố gắng thực hiện
+
+**Mô tả**
+
+ Không có thông tin để đánh giá.
+
+Nếu điểm số phần IELTS Listening của bạn chưa đạt như mong muốn, bạn sẽ có cơ hội thi lại một kỹ năng nghe với tính năng [IELTS One Skill Retake](https://ielts.idp.com/vietnam/about/ielts-one-skill-retake) - thi lại một kỹ năng bất kỳ. Tính năng này không chỉ giúp bạn cải thiện điểm số đạt tối đa, mà còn tiết kiệm thời gian và [lệ phí thi IELTS](https://ielts.idp.com/vietnam/ielts-fees), bởi vì bạn không cần phải thi lại toàn bộ bài thi.
+
+## Tìm hiểu thêm
+
+[![undefined]()Thang điểm IELTS - Cách tính điểm IELTS](/vietnam/results/scores "Thang điểm IELTS - Cách tính điểm IELTS")[![undefined]()Cách tính điểm IELTS Speaking](/vietnam/results/scores/speaking "Cách tính điểm IELTS Speaking")[![undefined]()Cách tính điểm IELTS Writing](/vietnam/results/scores/writing "Cách tính điểm IELTS Writing")[![undefined]()Cách tính điểm IELTS Reading](/vietnam/results/scores/reading "Cách tính điểm IELTS Reading")
+
+## Tin tức và sự kiện nổi bật
+
+[Xem tất cả bài viết](/vietnam/about/news-and-articles)
+
+[![Female test taker wearing a green shirt takes the IELTS Listening test on computer]()Preparation
+
+Bài thi Nghe IELTS: Mẹo tránh những lỗi phổ biến
+
+![clock]()90s read](/vietnam/prepare/article-common-mistakes-ielts-listening)
+
+[![]()Preparation
+
+Bí quyết nghe chủ động và ghi chú trong IELTS Listening
+
+![clock]()5 mins read](/vietnam/about/news-and-articles/article-active-listening-skills-and-notes-for-ielts)
+
+[![]()Preparation
+
+Bí quyết chinh phục bài thi IELTS Listening
+
+![clock]()5 mins read](/vietnam/about/news-and-articles/article-is-ielts-listening-difficult)
+
+[![IELTS Listening Tips]()Preparation
+
+IELTS Listening Tips: 10 bí quyết giúp bạn chinh phục giám khảo trong phần thi IELTS Listening
+
+![clock]()5 mins read](/vietnam/prepare/article-ielts-listening-tips)
+
+[![Luyện nghe IELTS 6.0]()Preparation
+
+[MỚI NHẤT] Tổng hợp 50 chủ đề IELTS Listening thường gặp
+
+![clock]()5 mins read](/vietnam/about/news-and-articles/article-common-ielts-listening-topics)
+
+[![IELTS Listening Part 1]()Preparation
+
+Cấu trúc bài thi IELTS Listening Part 1 và cách ôn luyện hiệu quả](/vietnam/about/news-and-articles/article-ielts-listening-part-1)
+
+[![IELTS Listening Part 3]()Preparation
+
+IELTS Listening Part 3: Các dạng đề và chiến lược làm bài
+
+![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-listening-part-3)
+
+[![Luyện nghe IELTS 5.0]()Preparation
+
+Chiến lược luyện nghe IELTS 5.0 hiệu quả
+
+![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-listening-5-0)
+
+[![Luyện nghe IELTS 6.0]()Preparation
+
+Chia sẻ 9 bí quyết luyện nghe IELTS 6.0 hiệu quả
+
+![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-listening-6-0)
+
+[![cách làm multiple choice ielts listening]()Preparation
+
+Bật mí cách làm Multiple Choice IELTS Listening ăn trọn điểm
+
+![clock]()5 mins read](/vietnam/about/news-and-articles/article-ielts-listening-multiple-choice)
+
+[![IDP IELTS co-brand logo - footer]( "IDP IELTS co-brand logo - footer")](/vietnam "IDP IELTS co-brand logo - footer")
+
+![]()Việt Nam
+
+* [Argentina](https://ielts.idp.com/argentina)
+* [Armenia](https://ielts.idp.com/armenia)
+* [Australia](https://ielts.com.au/australia)
+* [Ba Lan](https://ielts.idp.com/austria)
+* [Azerbaijan](https://ielts.idp.com/azerbaijan)
+* [Bahrain](https://ielts.idp.com/bahrain)
+* [Bangladesh](https://ielts.idp.com/bangladesh)
+* [Brazil](https://ielts.idp.com/brazil)
+* [Bulgaria](https://ielts.idp.com/bulgaria)
+* [Cam-pu-chia](https://ielts.idp.com/cambodia)
+* [Canada](https://ielts.idp.com/canada)
+* [Chile](https://ielts.idp.com/chile)
+* [China](https://www.idpielts.cn)
+* [Colombia](https://ielts.idp.com/colombia)
+* [Cộng hòa Síp](https://ielts.idp.com/cyprus)
+* [Ecuador](https://ielts.idp.com/ecuador)
+* [Ai Cập](https://ielts.idp.com/egypt)
+* [Fiji](https://ielts.co.nz/test-centre/ches-fiji-ielts-test-centre)
+* [France](https://ielts.idp.com/france)
+* [Germany](https://ielts.idp.com/germany)
+* [Việt Nam](https://ielts.idp.com/ghana)
+* [Global](https://ielts.idp.com/)
+* [Hy Lạp](https://ielts.idp.com/greece)
+* [Hong kong](https://ielts.idp.com/hongkong)
+* [Ấn Độ](https://www.ieltsidpindia.com/)
+* [Indonesia](https://ielts.idp.com/indonesia)
+* [Iran](https://ielts.idp.com/iran)
+* [Iraq](https://ielts.idp.com/iraq)
+* [Ireland](https://ielts.idp.com/ireland)
+* [Nước Ý](https://ielts.idp.com/italy)
+* [Nhật Bản](https://ieltsjp.com/japan)
+* [Jordan](https://ielts.idp.com/jordan)
+* [Kazakhstan](https://ielts.idp.com/kazakhstan)
+* [Kenya](https://ielts.idp.com/kenya)
+* [Kiribati](https://ielts.co.nz/newzealand/test-centre/ielts-kiribati)
+* [Kuwait](https://ielts.idp.com/kuwait)
+* [Laos](https://ielts.idp.com/laos)
+* [Lebanon](https://ielts.idp.com/lebanon)
+* [Malaysia](https://ielts.idp.com/malaysia)
+* [Mauritius](https://ielts.idp.com/mauritius)
+* [Mexico](https://ielts.idp.com/mexico)
+* [Trung Đông](https://ielts.idp.com/uae)
+* [Moldova](https://ielts.idp.com/moldova)
+* [Ả Rập Xê Út](https://ielts.idp.com/mongolia)
+* [Myanmar](https://ielts.idp.com/myanmar)
+* [Nauru](https://ielts.co.nz/test-centre/the-university-of-auckland-ielts-centre-nauru)
+* [Nepal](https://ielts.idp.com/nepal)
+* [Netherlands](https://ielts.idp.com/netherlands)
+* [New Caledonia](https://ielts.co.nz/newzealand/test-centre/ielts-newcaledonia)
+* [New Zealand](https://ielts.co.nz/newzealand)
+* [Nigeria](https://ielts.idp.com/nigeria)
+* [Oman](https://ielts.idp.com/oman)
+* [Pakistan](https://ielts.idp.com/pakistan)
+* [Papua New Guinea](https://ielts.com.au/australia/test-centre/idp-ielts-test-centre-port-moresby)
+* [Peru](https://ielts.idp.com/peru)
+* [Philippines](https://ielts.idp.com/philippines)
+* [Ba Lan](https://ielts.idp.com/poland)
+* [Portugal](https://ielts.idp.com/portugal)
+* [Katar](https://ielts.idp.com/qatar)
+* [Romania](https://ielts.idp.com/romania)
+* [Samoa](https://ielts.co.nz/newzealand/test-centre/ielts-samoa)
+* [Ả Rập Xê Út](https://ielts.idp.com/saudiarabia)
+* [Singapore](https://ielts.idp.com/singapore)
+* [Quần đảo Solomon](https://ielts.co.nz/test-centre/the-university-of-auckland-ielts-centre-the-solomon-islands)
+* [Ả Rập Xê Út](https://ielts.idp.com/southafrica)
+* [Hàn Quốc](https://ieltskorea.org/korea)
+* [Tây Ban Nha](https://ielts.idp.com/spain)
+* [Sri Lanka](https://ielts.idp.com/srilanka)
+* [Thụy Sĩ](https://ielts.idp.com/switzerland)
+* [Syria](https://ielts.idp.com/syria)
+* [Tahiti](https://ielts.co.nz/newzealand/about/ielts-in-the-pacific)
+* [Đài Loan](https://ielts.idp.com/taiwan)
+* [Ả Rập Xê Út](https://ielts.idp.com/tajikistan)
+* [Thái Lan](https://ielts.idp.com/thailand)
+* [Tonga](https://ielts.co.nz/newzealand/test-centre/ielts-tonga)
+* [Thổ Nhĩ Kỳ](https://ielts.idp.com/turkey)
+* [Quần đảo Ellice](https://ielts.co.nz/newzealand/about/ielts-in-the-pacific)
+* [Các Tiểu Vương quốc Ả Rập Thống nhất](https://ielts.idp.com/uae)
+* [Uruguay](https://ielts.idp.com/uruguay)
+* [Uzbekistan](https://ielts.idp.com/uzbekistan)
+* [Việt Nam](https://ielts.co.nz/newzealand/test-centre/ielts-vanuatu)
+
+* Giới thiệu
+* Hình thức thi IELTS
+* Thi IELTS
+
+Giới thiệu
+
+* [Các tổ chức công nhận IELTS](/vietnam/about/who-accepts-ielts/organisations-that-accept-ielts "Các tổ chức công nhận IELTS")
+* [Tin tức và bài viết cập nhật](/vietnam/about/news-and-articles "Tin tức và bài viết cập nhật")
+* [Sự kiện IELTS](/vietnam/events "Sự kiện IELTS")
+* [Hình thức thi nào phù hợp với tôi?](/vietnam/about/which-test-do-i-take "Hình thức thi nào phù hợp với tôi?")
+* [Chương trình ưu đãi IELTS](/vietnam/ielts-promotion "Chương trình ưu đãi IELTS")
+* [Đối tác IDP IELTS tại Việt Nam](/vietnam/partners "Đối tác IDP IELTS tại Việt Nam")
+* [Câu chuyện thành công](/vietnam/about/where-ielts-can-take-me/success-stories "Câu chuyện thành công")
+* [IELTS - Tấm vé vàng để đi du học](https://www.idp.com/vietnam/ "IELTS - Tấm vé vàng để đi du học")
+* [Liên hệ IDP IELTS](/vietnam/contact-us "Liên hệ IDP IELTS")
+
+Hình thức thi IELTS
+
+* [Thi IELTS trên máy tính](/vietnam/about/news-and-articles/article-computer-delivered-ielts "Thi IELTS trên máy tính")
+* [IELTS Học thuật](/vietnam/about/which-test-do-i-take/academic "IELTS Học thuật")
+* [IELTS Tổng quát](/vietnam/about/which-test-do-i-take/general-training "IELTS Tổng quát")
+* [IELTS UKVI Học thuật](/vietnam/about/which-test-do-i-take/academic-ukvi "IELTS UKVI Học thuật")
+* [IELTS UKVI Tổng quát](/vietnam/about/which-test-do-i-take/general-training-ukvi "IELTS UKVI Tổng quát")
+* [IELTS UKVI Life Skills](/vietnam/about/which-test-do-i-take/life-skills-ukvi "IELTS UKVI Life Skills")
+* [IELTS One Skill Retake](/vietnam/about/ielts-one-skill-retake "IELTS One Skill Retake")
+
+Thi IELTS
+
+* [Đăng ký thi IELTS](/vietnam/book-my-test "Đăng ký thi IELTS")
+* [Lịch thi IELTS](/vietnam/test-day "Lịch thi IELTS")
+* [Lệ phí thi IELTS](/vietnam/ielts-fees "Lệ phí thi IELTS")
+* [Tìm địa điểm thi IELTS](/vietnam/test-dates "Tìm địa điểm thi IELTS")
+* [Câu hỏi thường gặp về IELTS](/vietnam/faq/ielts-faq "Câu hỏi thường gặp về IELTS")
+* [Bài kiểm tra IELTS Familiarisation](/vietnam/prepare/ielts-familiarisation-tests "Bài kiểm tra IELTS Familiarisation")
+* [Ứng dụng IELTS by IDP](/vietnam/lp/ielts-by-idp-app "Ứng dụng IELTS by IDP")
+* [IELTS Masterclass](/vietnam/prepare/masterclass "IELTS Masterclass")
+* [Tải các mẫu đơn](/vietnam/prepare/downloadable-form "Tải các mẫu đơn")
+
+IDP IELTS – Việt Nam
+
+* [![youtube]()](https://www.youtube.com/%40IELTSbyIDPVietnam)
+* [![instagram]()](https://www.instagram.com/ieltsbyidpvietnam/)
+* [![linkedin]()](https://www.linkedin.com/showcase/idp-vietnam/)
+* [![facebook]()](https://www.facebook.com/ieltsbyidpvietnam/)
+* [![zalo]()](https://zalo.me/3587922624351485800)
+* [![tiktok]()](https://www.tiktok.com/%40ieltsbyidpvietnam)
+
+© IELTS Partners. IELTS Partners defined as The British Council, IELTS Australia Pty. Ltd. and Cambridge English (part of Cambridge University Press & Assessment)
+
+IELTS, IELTS logos, and various other marks (雅思, آيلتس) and signs on this website are registered trademarks or trademarks of the IELTS Partners and are protected by relevant trademark laws around the world. You must not use, copy, reproduce, modify, distribute, republish, display or communicate these trademarks in any way.
+
+* [Liên hệ với chúng tôi](/vietnam/contact-us "Liên hệ với chúng tôi")
+* [Thông báo pháp lý](/vietnam/legal-notices "Thông báo pháp lý ")
+* [Chính sách quyền riêng tư](/vietnam/legal-notices#ielts-australia-privacy-policy "Chính sách quyền riêng tư ")
+* [Chính sách cookie](/vietnam/legal-notices#cookie-policy "Chính sách cookie ")
+* Bản quyền 2026 IDP IELTS
+
+Please enable JavaScript to continue using this application.

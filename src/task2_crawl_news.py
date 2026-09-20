@@ -21,25 +21,34 @@ from pathlib import Path
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
-    # TODO: Thêm ít nhất 5 public URL.
+    "https://ielts.idp.com/vietnam/results/scores",
+    "https://ielts.idp.com/vietnam/results/scores/writing",
+    "https://ielts.idp.com/vietnam/results/scores/speaking",
+    "https://ielts.idp.com/vietnam/results/scores/listening",
+    "https://ielts.idp.com/vietnam/results/scores/reading"
 ]
 
 
 async def crawl_article(url: str) -> dict:
-    # TODO: Implement crawling logic.
-    #
-    # from datetime import datetime
-    # from crawl4ai import AsyncWebCrawler
-    #
-    # async with AsyncWebCrawler() as crawler:
-    #     result = await crawler.arun(url=url)
-    #     return {
-    #         "url": url,
-    #         "title": result.metadata.get("title", "Unknown"),
-    #         "date_crawled": datetime.now().isoformat(),
-    #         "content_markdown": result.markdown,
-    #     }
-    raise NotImplementedError("Implement crawl_article")
+    from datetime import datetime
+    import asyncio
+    
+    def fetch():
+        from markitdown import MarkItDown
+        md = MarkItDown()
+        return md.convert(url)
+        
+    result = await asyncio.to_thread(fetch)
+    
+    # Extract a simple title from the URL if not available
+    title = result.title if hasattr(result, "title") and result.title else url.strip("/").split("/")[-1].title()
+    
+    return {
+        "url": url,
+        "title": title or "Unknown",
+        "date_crawled": datetime.now().isoformat(),
+        "content_markdown": result.text_content,
+    }
 
 
 async def crawl_all() -> None:
