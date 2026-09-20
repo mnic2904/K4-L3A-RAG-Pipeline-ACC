@@ -67,4 +67,19 @@ def rerank_rrf(
 
 
 if __name__ == "__main__":
-    print("Implement rerank_rrf, then run contract tests.")
+    from .task5_semantic_search import semantic_search
+    from .task6_lexical_search import lexical_search
+
+    query = "du lịch Phú Quốc"
+    print(f"Query: '{query}'")
+    dense_results = semantic_search(query, top_k=5)
+    lexical_results = lexical_search(query, top_k=5)
+    fused_results = rerank_rrf([dense_results, lexical_results], top_k=5)
+
+    print(f"\n--- RRF Fusion Results ({len(fused_results)} items) ---")
+    for idx, res in enumerate(fused_results, 1):
+        print(f"{idx}. ID: {res['id']}")
+        print(f"   Score (RRF): {res['score']:.6f} | Method: {res['retrieval_method']}")
+        print(f"   Title: {res['metadata'].get('title', 'N/A')}")
+        print(f"   Snippet: {res['content'][:120]}...\n")
+
