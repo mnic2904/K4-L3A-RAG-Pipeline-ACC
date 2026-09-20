@@ -28,15 +28,17 @@ def download_documents() -> None:
     # TODO: Có thể tải thủ công hoặc dùng requests.
     #
     # Ví dụ:
-    # import requests
-    #
-    # sources = {
-    #     "policy-a.pdf": "https://example.edu/policy-a.pdf",
-    # }
-    # for filename, url in sources.items():
-    #     response = requests.get(url, timeout=30)
-    #     response.raise_for_status()
-    #     (DATA_DIR / filename).write_bytes(response.content)
+    import requests
+    
+    sources = {
+        "quyet-dinh-31-2013-qd-ttg-quy-hoach-chung-phu-quoc.pdf": "https://bcp.cdnchinhphu.vn/Uploaded_VGP/buikieulien/20130524/31-2013.pdf",
+        "phu-luc-bao-cao-quy-hoach-he-thong-du-lich-viet-nam.pdf": "https://images.vietnamtourism.gov.vn/vn//dmdocuments/2022/220925_Phu_luc_BCTT_QHHT_DL.pdf",
+        "nghien-cuu-chien-luoc-phat-trien-du-lich-tp-phu-quoc.pdf": "https://tapchi.tueba.edu.vn/wp-content/uploads/2021/04/Nguyen-Danh-Nam.pdf"
+    }
+    for filename, url in sources.items():
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        (DATA_DIR / filename).write_bytes(response.content)
     raise NotImplementedError("Implement download_documents")
 
 
