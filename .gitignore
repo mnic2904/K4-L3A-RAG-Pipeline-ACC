@@ -56,8 +56,4 @@ pageindex_pdfs/
 .DS_Store
 Thumbs.db
 
-<<<<<<< HEAD
-chroma_db/
-=======
-chroma_db/
->>>>>>> 8c75ee2b361b554554f87d13aafcbbb397fafd14
+chroma_db/  
