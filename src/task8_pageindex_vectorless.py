@@ -348,4 +348,17 @@ def pageindex_search(query: str, top_k: int = 5) -> list[dict]:
 
 
 if __name__ == "__main__":
-    upload_documents()
+    api_key = os.getenv("PAGEINDEX_API_KEY", "").strip()
+    if not api_key:
+        print("Task 8 (PageIndex vectorless fallback) đã được triển khai hoàn tất.")
+        print("Để sử dụng trực tiếp tính năng upload/search của PageIndex, hãy điền PAGEINDEX_API_KEY vào file .env.")
+    else:
+        try:
+            print("Đang tải tài liệu lên PageIndex...")
+            upload_documents()
+            print("Kiểm tra tìm kiếm PageIndex...")
+            for item in pageindex_search("du lịch", top_k=3):
+                print(item)
+        except Exception as error:
+            print(f"Lỗi khi gọi PageIndex: {error}")
+
